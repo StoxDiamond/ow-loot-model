@@ -1,0 +1,424 @@
+{
+  "all": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "null-sector": true,
+      "b73ns": false
+    },
+    "voicelines": {},
+    "poses": {},
+    "icons": {
+      "b73ns": true,
+      "drop-pod": true,
+      "null-sector": true,
+      "nullmari": true,
+      "uprising-2017": true
+    }
+  },
+  "ana": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "ana-newborn": true
+    },
+    "voicelines": {
+      "ana-damn": true,
+      "ana-the-ghost-watches": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "bastion": {
+    "skins": {
+      "bastion-null-sector": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "bastion-sunken": true
+    },
+    "voicelines": {
+      "bastion-dwee-wee-woh": true,
+      "bastion-zweeah-wheee-doo-woo": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "dva": {
+    "skins": {},
+    "emotes": {},
+    "intros": {
+      "dva-selfie": true
+    },
+    "sprays": {
+      "dva-handheld": true
+    },
+    "voicelines": {
+      "dva-not-taking-me-seriously": true,
+      "dva-try-and-keep-up": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "doomfist": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {}
+  },
+  "genji": {
+    "skins": {
+      "genji-blackwatch": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "genji-ramen": true
+    },
+    "voicelines": {
+      "genji-another": true,
+      "genji-life-and-death-balance": true
+    },
+    "poses": {
+      "genji-meditate": true
+    },
+    "icons": {
+      "genji-cyborg": true
+    }
+  },
+  "hanzo": {
+    "skins": {},
+    "emotes": {
+      "hanzo-training": true
+    },
+    "intros": {},
+    "sprays": {
+      "hanzo-ramen": true
+    },
+    "voicelines": {
+      "hanzo-beauty-in-simplicity": true,
+      "hanzo-unacceptable": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "junkrat": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "junkrat-sidecar": true
+    },
+    "voicelines": {
+      "junkrat-come-the-raw-prawn": true,
+      "junkrat-too-right": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "lucio": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "lucio-skates": true
+    },
+    "voicelines": {
+      "lucio-boop": true,
+      "lucio-learn-to-take-it-easy": true
+    },
+    "poses": {
+      "lucio-handstand": true
+    },
+    "icons": {}
+  },
+  "mccree": {
+    "skins": {
+      "mccree-blackwatch": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "mccree-target-practice": true
+    },
+    "voicelines": {
+      "mccree-a-mans-gotta-have-rules": true,
+      "mccree-the-old-fashioned-way": true
+    },
+    "poses": {
+      "mccree-showdown": true
+    },
+    "icons": {
+      "mccree-blackwatch": true
+    }
+  },
+  "mei": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "mei-pajamas": true
+    },
+    "voicelines": {
+      "mei-scientific-explanation": true,
+      "mei-science-this": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "mercy": {
+    "skins": {
+      "mercy-combat-medic-ziegler": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "mercy-combat-medic": true
+    },
+    "voicelines": {
+      "mercy-take-care-of-yourself": true,
+      "mercy-not-sure-why-i-bother": true
+    },
+    "poses": {},
+    "icons": {
+      "mercy-combat-medic": true
+    }
+  },
+  "orisa": {
+    "skins": {
+      "orisa-null-sector": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "orisa-flower": true
+    },
+    "voicelines": {
+      "orisa-functionality-still-in-beta": true,
+      "orisa-error-division-by-0": true
+    },
+    "poses": {},
+    "icons": {
+      "orisa-or14ns": true
+    }
+  },
+  "pharah": {
+    "skins": {},
+    "emotes": {
+      "pharah-flair": true
+    },
+    "intros": {},
+    "sprays": {
+      "pharah-target-practice": true
+    },
+    "voicelines": {
+      "pharah-i-am-the-rocket-queen": true,
+      "pharah-dont-take-it-personally": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "reaper": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "reaper-commando": true
+    },
+    "voicelines": {
+      "reaper-moving-on": true,
+      "reaper-amateur-hour": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "reinhardt": {
+    "skins": {
+      "reinhardt-lieutenant-wilhelm": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "reinhardt-poster": true
+    },
+    "voicelines": {
+      "reinhardt-unstoppable": true,
+      "reinhardt-easy-does-it": true
+    },
+    "poses": {},
+    "icons": {
+      "reinhardt-lieutenant": true
+    }
+  },
+  "roadhog": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "roadhog-chopper": true
+    },
+    "voicelines": {
+      "roadhog-shell-be-right": true,
+      "roadhog-killed-for-less-than-that": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "soldier-76": {
+    "skins": {},
+    "emotes": {
+      "soldier-76-pushups": true
+    },
+    "intros": {},
+    "sprays": {
+      "soldier-76-commando": true
+    },
+    "voicelines": {
+      "soldier-76-whatever-you-say": true,
+      "soldier-76-not-getting-any-younger": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "sombra": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "sombra-espresso": true
+    },
+    "voicelines": {
+      "sombra-dont-be-a-coward": true,
+      "sombra-id-love-to-stay-and-chat": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "symmetra": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "symmetra-student": true
+    },
+    "voicelines": {
+      "symmetra-kindly-adjust": true,
+      "symmetra-taken-under-advisement": true
+    },
+    "poses": {
+      "symmetra-light-reading": true
+    },
+    "icons": {}
+  },
+  "torbjorn": {
+    "skins": {
+      "torbjorn-chief-engineer-lindholm": true,
+      "torbjorn-ironclad": true
+    },
+    "emotes": {},
+    "intros": {
+      "torbjorn-my-baby": true
+    },
+    "sprays": {
+      "torbjorn-brigitte": true
+    },
+    "voicelines": {
+      "torbjorn-just-start-hammering": true,
+      "torbjorn-poor-craftsman": true
+    },
+    "poses": {},
+    "icons": {
+      "torbjorn-chief-engineer": true
+    }
+  },
+  "tracer": {
+    "skins": {
+      "tracer-cadet-oxton": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "tracer-slipstream": true
+    },
+    "voicelines": {
+      "tracer-dont-be-daft": true,
+      "tracer-sorry-im-late": true
+    },
+    "poses": {},
+    "icons": {
+      "tracer-cadet": true
+    }
+  },
+  "widowmaker": {
+    "skins": {
+      "widowmaker-talon": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "widowmaker-wedding": true
+    },
+    "voicelines": {
+      "widowmaker-the-performance-begins": true,
+      "widowmaker-your-emotions": true
+    },
+    "poses": {},
+    "icons": {
+      "widowmaker-lacroix": true
+    }
+  },
+  "winston": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "winston-building": true
+    },
+    "voicelines": {
+      "winston-have-you-seen-my-glasses": true,
+      "winston-i-have-the-right-stuff": true
+    },
+    "poses": {
+      "winston-peanut-butter": true
+    },
+    "icons": {}
+  },
+  "zarya": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "zarya-we-can": true
+    },
+    "voicelines": {
+      "zarya-i-was-born-in-battle": true,
+      "zarya-ready-to-give-up": true
+    },
+    "poses": {
+      "zarya-this-is-strength": true
+    },
+    "icons": {}
+  },
+  "zenyatta": {
+    "skins": {},
+    "emotes": {},
+    "intros": {
+      "zenyatta-perspective": true
+    },
+    "sprays": {
+      "zenyatta-shell": true
+    },
+    "voicelines": {
+      "zenyatta-path-to-enlightenment": true,
+      "zenyatta-where-youre-headed": true
+    },
+    "poses": {},
+    "icons": {}
+  }
+}

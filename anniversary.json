@@ -1,0 +1,479 @@
+{
+  "all": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "anniversary-2017": true
+    },
+    "voicelines": {},
+    "poses": {},
+    "icons": {
+      "anniversary-2017": true,
+      "pachiversary": true
+    }
+  },
+  "ana": {
+    "skins": {},
+    "emotes": {
+      "ana-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "ana-ace-of-hearts": true
+    },
+    "voicelines": {
+      "ana-follow-me": true,
+      "ana-the-adults-are-talking": true
+    },
+    "poses": {},
+    "icons": {
+      "ana-anaversary": true
+    }
+  },
+  "bastion": {
+    "skins": {
+      "bastion-dune-buggy": true
+    },
+    "emotes": {
+      "bastion-robo-boogie": true
+    },
+    "intros": {},
+    "sprays": {
+      "bastion-ten-of-clubs": true
+    },
+    "voicelines": {
+      "bastion-bewwoo-bewwoo": true,
+      "bastion-doo-dun-dun-woo": true
+    },
+    "poses": {},
+    "icons": {
+      "bastion-goldbot": true
+    }
+  },
+  "dva": {
+    "skins": {
+      "dva-cruiser": true
+    },
+    "emotes": {
+      "dva-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "dva-ten-of-hearts": true
+    },
+    "voicelines": {
+      "dva-level-up": true,
+      "dva-no-way": true
+    },
+    "poses": {},
+    "icons": {
+      "dva-hanaversary": true
+    }
+  },
+  "doomfist": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {}
+  },
+  "genji": {
+    "skins": {
+      "genji-sentai": true
+    },
+    "emotes": {
+      "genji-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "genji-jack-of-clubs": true
+    },
+    "voicelines": {
+      "genji-im-not-impressed": true,
+      "genji-you-seem-nice": true
+    },
+    "poses": {},
+    "icons": {
+      "genji-goldborg": true
+    }
+  },
+  "hanzo": {
+    "skins": {
+      "hanzo-cyberninja": true
+    },
+    "emotes": {
+      "hanzo-fisherman-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "hanzo-king-of-diamonds": true
+    },
+    "voicelines": {
+      "hanzo-an-error-in-judgment": true,
+      "hanzo-just-so": true
+    },
+    "poses": {},
+    "icons": {
+      "hanzo-kinenbi": true
+    }
+  },
+  "junkrat": {
+    "skins": {},
+    "emotes": {
+      "junkrat-running-rat": true
+    },
+    "intros": {},
+    "sprays": {
+      "junkrat-joker": true
+    },
+    "voicelines": {
+      "junkrat-dipstick": true,
+      "junkrat-oops-dropped-something": true
+    },
+    "poses": {},
+    "icons": {
+      "junkrat-goldrat": true
+    }
+  },
+  "lucio": {
+    "skins": {
+      "lucio-jazzy": true
+    },
+    "emotes": {
+      "lucio-smooth": true
+    },
+    "intros": {},
+    "sprays": {
+      "lucio-jack-of-diamonds": true
+    },
+    "voicelines": {
+      "lucio-everyone-gets-their-1": true,
+      "lucio-have-some-lucioohs": true
+    },
+    "poses": {},
+    "icons": {
+      "lucio-luciouro": true
+    }
+  },
+  "mccree": {
+    "skins": {},
+    "emotes": {
+      "mccree-line-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "mccree-jack-of-spades": true
+    },
+    "voicelines": {
+      "mccree-buckle-up": true,
+      "mccree-next-rounds-on-me": true
+    },
+    "poses": {},
+    "icons": {
+      "mccree-gamf": true
+    }
+  },
+  "mei": {
+    "skins": {
+      "mei-beekeeper": true
+    },
+    "emotes": {
+      "mei-sunny-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "mei-ten-of-diamonds": true
+    },
+    "voicelines": {
+      "mei-so-mean-honestly": true,
+      "mei-i-was-only-trying-to-help": true
+    },
+    "poses": {},
+    "icons": {
+      "mei-may": true
+    }
+  },
+  "mercy": {
+    "skins": {},
+    "emotes": {
+      "mercy-hustle": true
+    },
+    "intros": {},
+    "sprays": {
+      "mercy-queen-of-clubs": true
+    },
+    "voicelines": {
+      "mercy-questionable-judgment": true,
+      "mercy-youre-welcome": true
+    },
+    "poses": {},
+    "icons": {
+      "mercy-jahrestag": true
+    }
+  },
+  "orisa": {
+    "skins": {},
+    "emotes": {
+      "orisa-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "orisa-nine-of-spades": true
+    },
+    "voicelines": {
+      "orisa-your-compliance": true,
+      "orisa-satsified-with-protection": true
+    },
+    "poses": {},
+    "icons": {
+      "orisa-aurisa": true
+    }
+  },
+  "pharah": {
+    "skins": {
+      "pharah-bedouin": true
+    },
+    "emotes": {
+      "pharah-rocket-guitar": true
+    },
+    "intros": {},
+    "sprays": {
+      "pharah-queen-of-diamonds": true
+    },
+    "voicelines": {
+      "pharah-fly-casual": true,
+      "pharah-try-me": true
+    },
+    "poses": {},
+    "icons": {
+      "pharah-anniversareeha": true
+    }
+  },
+  "reaper": {
+    "skins": {},
+    "emotes": {
+      "reaper-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "reaper-ace-of-clubs": true
+    },
+    "voicelines": {
+      "reaper-no-one-left-behind": true,
+      "reaper-ill-see-you-in-hell": true
+    },
+    "poses": {},
+    "icons": {
+      "reaper-reapiversary": true
+    }
+  },
+  "reinhardt": {
+    "skins": {},
+    "emotes": {
+      "reinhardt-sweethardt": true
+    },
+    "intros": {},
+    "sprays": {
+      "reinhardt-king-of-hearts": true
+    },
+    "voicelines": {
+      "reinhardt-beer": true,
+      "reinhardt-honor-justice-reinhardt": true
+    },
+    "poses": {},
+    "icons": {
+      "reinhardt-goldhardt": true
+    }
+  },
+  "roadhog": {
+    "skins": {},
+    "emotes": {
+      "roadhog-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "roadhog-joker": true
+    },
+    "voicelines": {
+      "roadhog-im-going-hog-wild": true,
+      "roadhog-i-dont-like-talkers": true
+    },
+    "poses": {},
+    "icons": {
+      "roadhog-goldhog": true
+    }
+  },
+  "soldier-76": {
+    "skins": {
+      "soldier-76-cyborg-76": true
+    },
+    "emotes": {
+      "soldier-76-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "soldier-76-ace-of-spades": true
+    },
+    "voicelines": {
+      "soldier-76-im-not-your-father": true,
+      "soldier-76-youre-the-boss": true
+    },
+    "poses": {},
+    "icons": {
+      "soldier-76-gold-soldier": true
+    }
+  },
+  "sombra": {
+    "skins": {},
+    "emotes": {
+      "sombra-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "sombra-queen-of-spades": true
+    },
+    "voicelines": {
+      "sombra-i-need-a-drink": true,
+      "sombra-were-you-done-talking": true
+    },
+    "poses": {},
+    "icons": {
+      "sombra-aniversario": true
+    }
+  },
+  "symmetra": {
+    "skins": {
+      "symmetra-oasis": true
+    },
+    "emotes": {
+      "symmetra-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "symmetra-nine-of-diamonds": true
+    },
+    "voicelines": {
+      "symmetra-setting-up-the-car-wash": true,
+      "symmetra-your-mind-works": true
+    },
+    "poses": {},
+    "icons": {
+      "symmetra-vaswanniversary": true
+    }
+  },
+  "torbjorn": {
+    "skins": {},
+    "emotes": {
+      "torbjorn-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "torbjorn-king-of-clubs": true
+    },
+    "voicelines": {
+      "torbjorn-hear-me-baby": true,
+      "torbjorn-trust-me": true
+    },
+    "poses": {},
+    "icons": {
+      "torbjorn-goldclad": true
+    }
+  },
+  "tracer": {
+    "skins": {
+      "tracer-graffiti": true
+    },
+    "emotes": {
+      "tracer-charleston": true
+    },
+    "intros": {},
+    "sprays": {
+      "tracer-ace-of-diamonds": true
+    },
+    "voicelines": {
+      "tracer-did-i-miss-something": true,
+      "tracer-too-slow": true
+    },
+    "poses": {},
+    "icons": {
+      "tracer-auxton": true
+    }
+  },
+  "widowmaker": {
+    "skins": {},
+    "emotes": {
+      "widowmaker-ballet": true
+    },
+    "intros": {},
+    "sprays": {
+      "widowmaker-queen-of-hearts": true
+    },
+    "voicelines": {
+      "widowmaker-sorry": true,
+      "widowmaker-what-a-bore": true
+    },
+    "poses": {},
+    "icons": {
+      "widowmaker-dor": true
+    }
+  },
+  "winston": {
+    "skins": {},
+    "emotes": {
+      "winston-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "winston-jack-of-hearts": true
+    },
+    "voicelines": {
+      "winston-its-my-time-to-shine": true,
+      "winston-oh-yeah": true
+    },
+    "poses": {},
+    "icons": {
+      "winston-goldrilla": true
+    }
+  },
+  "zarya": {
+    "skins": {
+      "zarya-cyberian": true
+    },
+    "emotes": {
+      "zarya-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "zarya-ten-of-spades": true
+    },
+    "voicelines": {
+      "zarya-is-that-all": true,
+      "zarya-peace-through-firepower": true
+    },
+    "poses": {},
+    "icons": {
+      "zarya-zaryanoversary": true
+    }
+  },
+  "zenyatta": {
+    "skins": {},
+    "emotes": {
+      "zenyatta-dance": true
+    },
+    "intros": {},
+    "sprays": {
+      "zenyatta-king-of-spades": true
+    },
+    "voicelines": {
+      "zenyatta-existence-is-mysterious": true,
+      "zenyatta-how-disappointing": true
+    },
+    "poses": {},
+    "icons": {
+      "zenyatta-zeniversary": true
+    }
+  }
+}

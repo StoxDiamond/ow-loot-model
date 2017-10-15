@@ -1,0 +1,437 @@
+{
+  "all": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "dragons-head": true,
+      "lucky-pouch": true,
+      "red-envelope": true,
+      "year-of-the-rooster": true
+    },
+    "voicelines": {},
+    "poses": {},
+    "icons": {
+      "bokimari": true,
+      "coin": true,
+      "dragon-dance": true,
+      "fuchimari": true,
+      "fortune": true,
+      "gold": true,
+      "have-fish": true,
+      "lantern": true,
+      "lion-dance": true,
+      "lucky-pouch": true,
+      "pachilantern": true,
+      "new-year-cake": true,
+      "peachimari": true,
+      "red-envelope": true,
+      "seollal": true,
+      "year-of-the-rooster-2017": true,
+      "tangerines": true
+    }
+  },
+  "ana": {
+    "skins": {
+      "ana-tal": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "ana-dance": true,
+      "ana-dragon-dance": true
+    },
+    "voicelines": {
+      "ana-the-moon-in-winter": true
+    },
+    "poses": {
+      "ana-folded-hands": true
+    },
+    "icons": {}
+  },
+  "bastion": {
+    "skins": {
+      "bastion-rooster": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "bastion-bastyum": true,
+      "bastion-dragon-dance": true
+    },
+    "voicelines": {
+      "bastion-woop-doo-woo-dun-woop": true
+    },
+    "poses": {
+      "bastion-firework": true
+    },
+    "icons": {}
+  },
+  "dva": {
+    "skins": {
+      "dva-palanquin": true
+    },
+    "emotes": {
+      "dva-bow": true
+    },
+    "intros": {},
+    "sprays": {
+      "dva-seesaw": true,
+      "dva-dragon-dance": true
+    },
+    "voicelines": {
+      "dva-the-best-things-in-life": true
+    },
+    "poses": {
+      "dva-lucky-pouch": true
+    },
+    "icons": {
+      "dva-hanbok": true
+    }
+  },
+  "doomfist": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {}
+  },
+  "genji": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "genji-green-dragon": true,
+      "genji-dragon-dance": true
+    },
+    "voicelines": {
+      "genji-to-know-yourself": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "hanzo": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "hanzo-blue-dragon": true,
+      "hanzo-dragon-dance": true
+    },
+    "voicelines": {
+      "hanzo-when-the-moon-is-full": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "junkrat": {
+    "skins": {
+      "junkrat-firework": true
+    },
+    "emotes": {
+      "junkrat-dud": true
+    },
+    "intros": {},
+    "sprays": {
+      "junkrat-im-flying": true,
+      "junkrat-dragon-dance": true
+    },
+    "voicelines": {
+      "junkrat-gong-xi-fa-cai": true
+    },
+    "poses": {
+      "junkrat-bad-for-your-health": true
+    },
+    "icons": {}
+  },
+  "lucio": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "lucio-keep-ups": true,
+      "lucio-dragon-dance": true
+    },
+    "voicelines": {
+      "lucio-i-make-this-look-good": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "mccree": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "mccree-call-it": true,
+      "mccree-dragon-dance": true
+    },
+    "voicelines": {
+      "mccree-calls-for-a-celebration": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "mei": {
+    "skins": {
+      "mei-luna": true,
+      "mei-change": true
+    },
+    "emotes": {
+      "mei-so-excited": true
+    },
+    "intros": {},
+    "sprays": {
+      "mei-fortune": true,
+      "mei-dragon-dance": true
+    },
+    "voicelines": {
+      "mei-wishing-you-prosperity": true
+    },
+    "poses": {
+      "mei-lucky": true
+    },
+    "icons": {
+      "mei-change": true
+    }
+  },
+  "mercy": {
+    "skins": {
+      "mercy-fortune": true
+    },
+    "emotes": {},
+    "intros": {
+      "mercy-fortune": true
+    },
+    "sprays": {
+      "mercy-parasol": true,
+      "mercy-dragon-dance": true
+    },
+    "voicelines": {
+      "mercy-a-most-impressive-display": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "orisa": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {}
+  },
+  "pharah": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "pharah-happy-new-year": true,
+      "pharah-dragon-dance": true
+    },
+    "voicelines": {
+      "pharah-i-keep-the-peace": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "reaper": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "reaper-fire-blossom": true,
+      "reaper-dragon-dance": true
+    },
+    "voicelines": {
+      "reaper-now-those-are-fireworks": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "reinhardt": {
+    "skins": {
+      "reinhardt-wujing": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "reinhardt-lion-dance": true,
+      "reinhardt-dragon-dance": true
+    },
+    "voicelines": {
+      "reinhardt-are-you-chicken": true
+    },
+    "poses": {},
+    "icons": {
+      "reinhardt-sandy": true
+    }
+  },
+  "roadhog": {
+    "skins": {
+      "roadhog-bajie": true
+    },
+    "emotes": {},
+    "intros": {
+      "roadhog-feast": true
+    },
+    "sprays": {
+      "roadhog-steamed-buns": true,
+      "roadhog-dragon-dance": true
+    },
+    "voicelines": {
+      "roadhog-you-chicken": true
+    },
+    "poses": {
+      "roadhog-whats-mine-is-mine": true
+    },
+    "icons": {
+      "roadhog-pigsy": true
+    }
+  },
+  "soldier-76": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "soldier-76-folded-hands": true,
+      "soldier-76-dragon-dance": true
+    },
+    "voicelines": {
+      "soldier-76-the-rooster-crows": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "sombra": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "sombra-fortunate": true,
+      "sombra-dragon-dance": true
+    },
+    "voicelines": {
+      "sombra-youre-easily-impressed": true
+    },
+    "poses": {
+      "sombra-sparklers": true
+    },
+    "icons": {}
+  },
+  "symmetra": {
+    "skins": {
+      "symmetra-qipao": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "symmetra-lantern": true,
+      "symmetra-dragon-dance": true
+    },
+    "voicelines": {
+      "symmetra-good-fortune": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "torbjorn": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "torbjorn-gold": true,
+      "torbjorn-dragon-dance": true
+    },
+    "voicelines": {
+      "torbjorn-too-hot-for-you": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "tracer": {
+    "skins": {
+      "tracer-rose": true
+    },
+    "emotes": {},
+    "intros": {
+      "tracer-lion-dance": true
+    },
+    "sprays": {
+      "tracer-fan-dance": true,
+      "tracer-dragon-dance": true
+    },
+    "voicelines": {
+      "tracer-ready-for-some-fireworks": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "widowmaker": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "widowmaker-hairpin": true,
+      "widowmaker-dragon-dance": true
+    },
+    "voicelines": {
+      "widowmaker-you-have-my-attention": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "winston": {
+    "skins": {
+      "winston-wukong": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "winston-kite": true,
+      "winston-dragon-dance": true
+    },
+    "voicelines": {
+      "winston-that-was-awesome": true
+    },
+    "poses": {},
+    "icons": {
+      "winston-monkey": true
+    }
+  },
+  "zarya": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "zarya-calories": true,
+      "zarya-dragon-dance": true
+    },
+    "voicelines": {
+      "zarya-get-pumped": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "zenyatta": {
+    "skins": {
+      "zenyatta-sanzang": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "zenyatta-yut-nori": true,
+      "zenyatta-dragon-dance": true
+    },
+    "voicelines": {
+      "zenyatta-every-rooster-crows": true
+    },
+    "poses": {},
+    "icons": {
+      "zenyatta-sanzang": true
+    }
+  }
+}

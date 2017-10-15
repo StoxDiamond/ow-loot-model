@@ -1,0 +1,517 @@
+{
+  "all": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "summer-games": true,
+      "summer-games-2016": true,
+      "bicycle-kick": false
+    },
+    "voicelines": {},
+    "poses": {},
+    "icons": {
+      "australia": true,
+      "brazil": true,
+      "france": true,
+      "germany": true,
+      "mexico": true,
+      "summer-games-2016": true,
+      "south-korea": true,
+      "switzerland": true,
+      "united-kingdom": true,
+      "egypt": true,
+      "russia": true,
+      "japan": true,
+      "sweden": true,
+      "china": true,
+      "greece": true,
+      "numbani": true,
+      "summer-games-2017": true,
+      "united-states-of-america": true,
+      "nepal": true
+    }
+  },
+  "ana": {
+    "skins": {},
+    "emotes": {
+      "ana-beach-ball": true
+    },
+    "intros": {},
+    "sprays": {
+      "ana-shooting": true
+    },
+    "voicelines": {
+      "ana-better-than-retirement": true,
+      "ana-learn-from-the-pain": true
+    },
+    "poses": {},
+    "icons": {
+      "ana-shooting": true
+    }
+  },
+  "bastion": {
+    "skins": {},
+    "emotes": {
+      "bastion-boxing": true
+    },
+    "intros": {},
+    "sprays": {
+      "bastion-boxing": true
+    },
+    "voicelines": {
+      "bastion-doododoo-dee": true,
+      "bastion-whoovweeeeee": true
+    },
+    "poses": {
+      "bastion-medal": true
+    },
+    "icons": {
+      "bastion-boxing": true
+    }
+  },
+  "dva": {
+    "skins": {
+      "dva-taegeukgi": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "dva-cycling": true
+    },
+    "voicelines": {
+      "dva-im-1": true,
+      "dva-scoreboard": true
+    },
+    "poses": {},
+    "icons": {
+      "dva-cycling": true
+    }
+  },
+  "doomfist": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "doomfist-shot-put": true
+    },
+    "voicelines": {
+      "doomfist-i-make-medicine-sick": true,
+      "doomfist-make-you-punch-drunk": true
+    },
+    "poses": {},
+    "icons": {
+      "doomfist-shotput": true
+    }
+  },
+  "genji": {
+    "skins": {
+      "genji-nihon": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "genji-fencing": true
+    },
+    "voicelines": {
+      "genji-i-was-hoping-for-a-challenge": true,
+      "genji-touche": true
+    },
+    "poses": {},
+    "icons": {
+      "genji-fencing": true
+    }
+  },
+  "hanzo": {
+    "skins": {},
+    "emotes": {},
+    "intros": {
+      "hanzo-target-practice": true
+    },
+    "sprays": {
+      "hanzo-archery": true
+    },
+    "voicelines": {
+      "hanzo-ignore-all-distractions": true,
+      "hanzo-defeat-is-the-first-step": true
+    },
+    "poses": {
+      "hanzo-medal": true
+    },
+    "icons": {
+      "hanzo-archery": true
+    }
+  },
+  "junkrat": {
+    "skins": {
+      "junkrat-cricket": true
+    },
+    "emotes": {},
+    "intros": {
+      "junkrat-shot-put": true
+    },
+    "sprays": {
+      "junkrat-tennis": true
+    },
+    "voicelines": {
+      "junkrat-i-give-it-a-10": true,
+      "junkrat-i-give-it-a-3": true
+    },
+    "poses": {
+      "junkrat-medal": true
+    },
+    "icons": {
+      "junkrat-tennis": true
+    }
+  },
+  "lucio": {
+    "skins": {
+      "lucio-striker": true,
+      "lucio-selecao": true
+    },
+    "emotes": {
+      "lucio-juggle": true
+    },
+    "intros": {
+      "lucio-bicycle-kick": true
+    },
+    "sprays": {
+      "lucio-football": true
+    },
+    "voicelines": {
+      "lucio-be-champions": true,
+      "lucio-suboptimal": true
+    },
+    "poses": {},
+    "icons": {
+      "lucio-football": true
+    }
+  },
+  "mccree": {
+    "skins": {
+      "mccree-lifeguard": true,
+      "mccree-american": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "mccree-equestrian": true
+    },
+    "voicelines": {
+      "mccree-boom-goes-the-dynamite": true,
+      "mccree-i-dont-much-like-losing": true
+    },
+    "poses": {},
+    "icons": {
+      "mccree-equestrian": true
+    }
+  },
+  "mei": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "mei-table-tennis": true
+    },
+    "voicelines": {
+      "mei-overcome-all-obstacles": true,
+      "mei-i-tried-my-best": true
+    },
+    "poses": {
+      "mei-medal": true
+    },
+    "icons": {
+      "mei-table-tennis": true
+    }
+  },
+  "mercy": {
+    "skins": {
+      "mercy-winged-victory": true,
+      "mercy-eidgenossin": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "mercy-badminton": true
+    },
+    "voicelines": {
+      "mercy-piece-of-cake": true,
+      "mercy-sponge-or-spray": true
+    },
+    "poses": {
+      "mercy-medal": true
+    },
+    "icons": {
+      "mercy-badminton": true
+    }
+  },
+  "orisa": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "orisa-javelin": true
+    },
+    "voicelines": {
+      "orisa-golden": true,
+      "orisa-grease-to-your-elbow": true
+    },
+    "poses": {},
+    "icons": {
+      "orisa-javelin": true
+    }
+  },
+  "pharah": {
+    "skins": {},
+    "emotes": {},
+    "intros": {
+      "pharah-slam-dunk": true
+    },
+    "sprays": {
+      "pharah-basketball": true
+    },
+    "voicelines": {
+      "pharah-clear-skies-full-hearts": true,
+      "pharah-we-are-in-this-together": true
+    },
+    "poses": {
+      "pharah-medal": true
+    },
+    "icons": {
+      "pharah-basketball": true
+    }
+  },
+  "reaper": {
+    "skins": {
+      "reaper-biker": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "reaper-bmx": true
+    },
+    "voicelines": {
+      "reaper-its-in-the-refrigerator": true,
+      "reaper-just-win": true
+    },
+    "poses": {
+      "reaper-medal": true
+    },
+    "icons": {
+      "reaper-bmx": true
+    }
+  },
+  "reinhardt": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "reinhardt-wrestling": true
+    },
+    "voicelines": {
+      "reinhardt-glittering-prizes": true,
+      "reinhardt-100-german-power": true
+    },
+    "poses": {},
+    "icons": {
+      "reinhardt-wrestling": true
+    }
+  },
+  "roadhog": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "roadhog-diving": true
+    },
+    "voicelines": {
+      "roadhog-theres-no-i-in-team": true,
+      "roadhog-whats-mine-is-mine": true
+    },
+    "poses": {
+      "roadhog-medal": true
+    },
+    "icons": {
+      "roadhog-diving": true
+    }
+  },
+  "soldier-76": {
+    "skins": {
+      "soldier-76-grillmaster-76": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "soldier-76-golf": true
+    },
+    "voicelines": {
+      "soldier-76-bring-the-noise": true,
+      "soldier-76-you-want-a-medal": true
+    },
+    "poses": {
+      "soldier-76-golf-swing": true
+    },
+    "icons": {
+      "soldier-76-golf": true
+    }
+  },
+  "sombra": {
+    "skins": {
+      "sombra-tulum": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "sombra-high-jump": true
+    },
+    "voicelines": {
+      "sombra-whats-up": true,
+      "sombra-try-and-keep-up": true
+    },
+    "poses": {
+      "sombra-medal": true
+    },
+    "icons": {
+      "sombra-high-jump": true
+    }
+  },
+  "symmetra": {
+    "skins": {},
+    "emotes": {
+      "symmetra-ribbon": true
+    },
+    "intros": {},
+    "sprays": {
+      "symmetra-rhythmic": true
+    },
+    "voicelines": {
+      "symmetra-victory-is-everything": true,
+      "symmetra-hard-work-and-dedication": true
+    },
+    "poses": {
+      "symmetra-medal": true
+    },
+    "icons": {
+      "symmetra-rhythmic-gymnastics": true
+    }
+  },
+  "torbjorn": {
+    "skins": {
+      "torbjorn-tre-kronor": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "torbjorn-water-polo": true
+    },
+    "voicelines": {
+      "torbjorn-theres-no-prize-for-second": true,
+      "torbjorn-more-where-that-came-from": true
+    },
+    "poses": {
+      "torbjorn-medal": true
+    },
+    "icons": {
+      "torbjorn-water-polo": true
+    }
+  },
+  "tracer": {
+    "skins": {
+      "tracer-track-and-field": true,
+      "tracer-sprinter": true
+    },
+    "emotes": {},
+    "intros": {
+      "tracer-hurdle": true
+    },
+    "sprays": {
+      "tracer-track": true
+    },
+    "voicelines": {
+      "tracer-time-out": true,
+      "tracer-eat-my-dust": true
+    },
+    "poses": {
+      "tracer-medal": true
+    },
+    "icons": {
+      "tracer-track": true
+    }
+  },
+  "widowmaker": {
+    "skins": {
+      "widowmaker-cote-dazur": true,
+      "widowmaker-tricolore": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "widowmaker-gymnastics": true
+    },
+    "voicelines": {
+      "widowmaker-a-perfect-10": true,
+      "widowmaker-i-dont-miss": true
+    },
+    "poses": {
+      "widowmaker-medal": true
+    },
+    "icons": {
+      "widowmaker-gymnastics": true
+    }
+  },
+  "winston": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "winston-volleyball": true
+    },
+    "voicelines": {
+      "winston-oh-its-on": true,
+      "winston-playtimes-over": true
+    },
+    "poses": {
+      "winston-medal": true
+    },
+    "icons": {
+      "winston-volleyball": true
+    }
+  },
+  "zarya": {
+    "skins": {
+      "zarya-weightlifter": true,
+      "zarya-champion": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "zarya-weightlifting": true
+    },
+    "voicelines": {
+      "zarya-no-pain-no-gain": true,
+      "zarya-its-only-a-game": true
+    },
+    "poses": {},
+    "icons": {
+      "zarya-weightlifting": true
+    }
+  },
+  "zenyatta": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "zenyatta-taekwondo": true
+    },
+    "voicelines": {
+      "zenyatta-form-is-temporary": true,
+      "zenyatta-strive-for-improvement": true
+    },
+    "poses": {
+      "zenyatta-medals": true
+    },
+    "icons": {
+      "zenyatta-taekwondo": true
+    }
+  }
+}

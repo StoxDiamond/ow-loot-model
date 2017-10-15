@@ -1,0 +1,432 @@
+{
+  "all": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "winter-wonderland": true
+    },
+    "voicelines": {},
+    "poses": {},
+    "icons": {
+      "2017": true,
+      "bells": true,
+      "bubbly": true,
+      "candy-cane": true,
+      "cheers": true,
+      "dreidel": true,
+      "gingerbread": true,
+      "gingermari": true,
+      "holly": true,
+      "hot-cocoa": true,
+      "mochi": true,
+      "wreath": true,
+      "winter-wonderland-2016": true,
+      "tannenbaum": true,
+      "stocking": true,
+      "snowman": true,
+      "snow-globe": true,
+      "present": true,
+      "peppermint": true,
+      "pachireindeer": true,
+      "pachimerry": true,
+      "ornament": true
+    }
+  },
+  "ana": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "ana-warm": true,
+      "ana-ornament": true
+    },
+    "voicelines": {
+      "ana-im-watching-out-for-you": true
+    },
+    "poses": {
+      "ana-toast": true
+    },
+    "icons": {}
+  },
+  "bastion": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "bastion-festive": true,
+      "bastion-ornament": true
+    },
+    "voicelines": {
+      "bastion-dwee-doo-hoo": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "dva": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "dva-cookie": true,
+      "dva-ornament": true
+    },
+    "voicelines": {
+      "dva-aw-you-shouldnt-have": true
+    },
+    "poses": {
+      "dva-festive": true
+    },
+    "icons": {}
+  },
+  "doomfist": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {}
+  },
+  "genji": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "genji-ornament": true,
+      "genji-kadomatsu": true
+    },
+    "voicelines": {
+      "genji-merry-christmas": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "hanzo": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "hanzo-ornament": true,
+      "hanzo-kadomatsu": true
+    },
+    "voicelines": {
+      "hanzo-a-gift-for-you": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "junkrat": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "junkrat-winter": true,
+      "junkrat-ornament": true
+    },
+    "voicelines": {
+      "junkrat-merry-christmas": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "lucio": {
+    "skins": {
+      "lucio-andes": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "lucio-hockey": true,
+      "lucio-ornament": true
+    },
+    "voicelines": {
+      "lucio-happy-holidays": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "mccree": {
+    "skins": {
+      "mccree-scrooge": true
+    },
+    "emotes": {
+      "mccree-hat-trick": true
+    },
+    "intros": {},
+    "sprays": {
+      "mccree-ugly-sweater": true,
+      "mccree-ornament": true
+    },
+    "voicelines": {
+      "mccree-had-to-break-the-ice": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "mei": {
+    "skins": {
+      "mei-meirry": true
+    },
+    "emotes": {
+      "mei-snowman": true
+    },
+    "intros": {},
+    "sprays": {
+      "mei-sculpting": true,
+      "mei-ornament": true
+    },
+    "voicelines": {
+      "mei-i-got-you-something": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "mercy": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "mercy-snow-angel": true,
+      "mercy-ornament": true
+    },
+    "voicelines": {
+      "mercy-your-guardian-angel": true
+    },
+    "poses": {
+      "mercy-mistletoe": true
+    },
+    "icons": {}
+  },
+  "orisa": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {}
+  },
+  "pharah": {
+    "skins": {
+      "pharah-frostbite": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "pharah-ice-fishing": true,
+      "pharah-ornament": true
+    },
+    "voicelines": {
+      "pharah-the-forecast": true
+    },
+    "poses": {
+      "pharah-toast": true
+    },
+    "icons": {}
+  },
+  "reaper": {
+    "skins": {
+      "reaper-shiver": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "reaper-stocking": true,
+      "reaper-ornament": true
+    },
+    "voicelines": {
+      "reaper-holiday-spirit": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "reinhardt": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "reinhardt-ice-fishing": true,
+      "reinhardt-ornament": true
+    },
+    "voicelines": {
+      "reinhardt-youre-on-my-naughty-list": true
+    },
+    "poses": {
+      "reinhardt-toast": true
+    },
+    "icons": {}
+  },
+  "roadhog": {
+    "skins": {
+      "roadhog-rudolph": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "roadhog-winter": true,
+      "roadhog-ornament": true
+    },
+    "voicelines": {
+      "roadhog-ho-ho-ho": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "soldier-76": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "soldier-76-army-man-76": true,
+      "soldier-76-ornament": true
+    },
+    "voicelines": {
+      "soldier-76-stay-frosty": true
+    },
+    "poses": {
+      "soldier-76-toast": true
+    },
+    "icons": {}
+  },
+  "sombra": {
+    "skins": {
+      "sombra-peppermint": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "sombra-puppet": true,
+      "sombra-ornament": true
+    },
+    "voicelines": {
+      "sombra-i-know-whos-been-naughty": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "symmetra": {
+    "skins": {},
+    "emotes": {},
+    "intros": {
+      "symmetra-snowflakes": true
+    },
+    "sprays": {
+      "symmetra-snowflake": true,
+      "symmetra-ornament": true
+    },
+    "voicelines": {
+      "symmetra-i-made-you-something": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "torbjorn": {
+    "skins": {
+      "torbjorn-santaclad": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "torbjorn-ornament": true,
+      "torbjorn-workshop": true
+    },
+    "voicelines": {
+      "torbjorn-made-to-order": true
+    },
+    "poses": {
+      "torbjorn-toast": true
+    },
+    "icons": {
+      "torbjorn-santaclad": true
+    }
+  },
+  "tracer": {
+    "skins": {
+      "tracer-jingle": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "tracer-snowboarding": true,
+      "tracer-ornament": true
+    },
+    "voicelines": {
+      "tracer-its-in-the-bag": true
+    },
+    "poses": {},
+    "icons": {
+      "tracer-jingle": true
+    }
+  },
+  "widowmaker": {
+    "skins": {},
+    "emotes": {},
+    "intros": {
+      "widowmaker-under-the-mistletoe": true
+    },
+    "sprays": {
+      "widowmaker-skiing": true,
+      "widowmaker-ornament": true
+    },
+    "voicelines": {
+      "widowmaker-exquisite": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "winston": {
+    "skins": {
+      "winston-yeti": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "winston-presents": true,
+      "winston-ornament": true
+    },
+    "voicelines": {
+      "winston-i-got-you-something": true
+    },
+    "poses": {},
+    "icons": {
+      "winston-yeti": true
+    }
+  },
+  "zarya": {
+    "skins": {
+      "zarya-frosted": true
+    },
+    "emotes": {
+      "zarya-mystery-gift": true
+    },
+    "intros": {},
+    "sprays": {
+      "zarya-matryoshka": true,
+      "zarya-ornament": true
+    },
+    "voicelines": {
+      "zarya-for-the-motherland": true
+    },
+    "poses": {},
+    "icons": {}
+  },
+  "zenyatta": {
+    "skins": {
+      "zenyatta-nutcracker": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "zenyatta-ornament": true,
+      "zenyatta-snowball-fight": true
+    },
+    "voicelines": {
+      "zenyatta-no-snowflake": true
+    },
+    "poses": {},
+    "icons": {
+      "zenyatta-nutcracker": true
+    }
+  }
+}
