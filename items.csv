@@ -1,0 +1,2765 @@
+,id,name,rarity,event,group,standard
+punch,punch,...Punch,common,,,False
+barbarian,barbarian,Barbarian,,,,False
+beyond-the-moon,beyond-the-moon,Beyond the Moon,,,,False
+catcher,catcher,Catcher,common,,,False
+caution,caution,Caution,common,,,False
+copa-lucioball-competitor,copa-lucioball-competitor,Copa Lúcioball Competitor,,,competitive,False
+copa-lucioball-hero,copa-lucioball-hero,Copa Lúcioball Hero,,,competitive,False
+crusader,crusader,Crusader,,,,False
+dance,dance,Dance,common,,,False
+dark-logo,dark-logo,Dark Logo,common,,,False
+dark-overwatch,dark-overwatch,Dark Overwatch,common,,,False
+dark-title,dark-title,Dark Title,common,,,False
+demon-hunter,demon-hunter,Demon Hunter,,,,False
+da-de-los-muertos,da-de-los-muertos,Día de los Muertos,,,,True
+forge-onward,forge-onward,Forge Onward,,,,False
+fots2,fots2,FotS2,common,,,False
+fuji,fuji,Fuji,common,,,False
+gl-hf,gl-hf,GL HF,,,,False
+goldshire-pictures,goldshire-pictures,Goldshire Pictures,common,,,False
+jail,jail,Jail,,,,False
+leek,leek,Leek,common,,,False
+logo,logo,Logo,,,,True
+lumerico,lumerico,Lumérico,common,,,False
+man-and-omnic,man-and-omnic,Man and Omnic,,,,False
+monk,monk,Monk,,,,False
+numbani-statue,numbani-statue,Numbani Statue,common,,,False
+omnic-rights,omnic-rights,Omnic Rights,common,,,False
+oops,oops,Oops,,,,False
+out-of-my-way,out-of-my-way,Out of My Way,,,,False
+overwatch,overwatch,Overwatch,common,,,False
+overwatch-title,overwatch-title,Overwatch Title,common,,,False
+pachimari,pachimari,Pachimari,common,,pachi,False
+piata,piata,Piñata,,,,False
+red-o,red-o,Red O,,,,False
+red-x,red-x,Red X,,,,False
+respect,respect,Respect,,,,False
+rhino,rhino,Rhino,common,,,False
+rikimaru,rikimaru,Rikimaru,common,,,False
+rise,rise,Rise,,,,False
+sarcophagus,sarcophagus,Sarcophagus,common,,,False
+scooter,scooter,Scooter,common,,,False
+scroll,scroll,Scroll,common,,,False
+season-1-competitor,season-1-competitor,Season 1 Competitor,,,competitive,False
+season-1-hero,season-1-hero,Season 1 Hero,,,competitive,False
+season-2-competitor,season-2-competitor,Season 2 Competitor,,,competitive,False
+season-2-hero,season-2-hero,Season 2 Hero,,,competitive,False
+season-3-competitor,season-3-competitor,Season 3 Competitor,,,competitive,False
+season-3-hero,season-3-hero,Season 3 Hero,,,competitive,False
+season-4-competitor,season-4-competitor,Season 4 Competitor,,,competitive,False
+season-4-hero,season-4-hero,Season 4 Hero,,,competitive,False
+season-5-competitor,season-5-competitor,Season 5 Competitor,,,competitive,False
+season-5-hero,season-5-hero,Season 5 Hero,,,competitive,False
+season-6-competitor,season-6-competitor,Season 6 Competitor,,,competitive,False
+season-6-hero,season-6-hero,Season 6 Hero,,,competitive,False
+siege-mode,siege-mode,Siege Mode,common,,,False
+sixgun-killer,sixgun-killer,Six-Gun Killer,common,,,False
+sol,sol,Sol,common,,,False
+sorry,sorry,Sorry,,,,False
+soulstone,soulstone,Soulstone,common,,,False
+tea-time,tea-time,Tea Time,,,,False
+thanks,thanks,Thanks,,,,False
+victory,victory,Victory,,,,False
+vivis-adventure,vivis-adventure,Vivi's Adventure,common,,,False
+well-played,well-played,Well Played,,,,False
+witch-doctor,witch-doctor,Witch Doctor,,,,False
+wizard,wizard,Wizard,,,,False
+you-are-not-prepared,you-are-not-prepared,You are not prepared!,,,,True
+snowcree,snowcree,Snowcree,,WINTER_WONDERLAND_2016,,False
+snowhog,snowhog,Snowhog,,WINTER_WONDERLAND_2016,,False
+snowmei,snowmei,Snowmei,,WINTER_WONDERLAND_2016,,False
+snowreaper,snowreaper,Snowreaper,,WINTER_WONDERLAND_2016,,False
+winter-wonderland,winter-wonderland,Winter Wonderland,common,WINTER_WONDERLAND_2016,,False
+auspicious-lion,auspicious-lion,Auspicious Lion,,YEAR_OF_THE_ROOSTER_2017,,False
+awakened-lion,awakened-lion,Awakened Lion,,YEAR_OF_THE_ROOSTER_2017,,False
+dragons-head,dragons-head,Dragon's Head,common,YEAR_OF_THE_ROOSTER_2017,,False
+lucky-pouch,lucky-pouch,Lucky Pouch,common,YEAR_OF_THE_ROOSTER_2017,,False
+red-envelope,red-envelope,Red Envelope,common,YEAR_OF_THE_ROOSTER_2017,,False
+year-of-the-rooster,year-of-the-rooster,Year of the Rooster,common,YEAR_OF_THE_ROOSTER_2017,,False
+b73ns,b73ns,B73-NS,,UPRISING_2017,,False
+eradicator,eradicator,Eradicator,,UPRISING_2017,,False
+null-sector,null-sector,Null Sector,common,UPRISING_2017,,False
+nullmari,nullmari,Nullmari,,UPRISING_2017,pachi,False
+nulltrooper,nulltrooper,Nulltrooper,,UPRISING_2017,,False
+or14ns,or14ns,OR14-NS,,UPRISING_2017,,False
+slicer,slicer,Slicer,,UPRISING_2017,,False
+anniversary-2017,anniversary-2017,Anniversary 2017,common,ANNIVERSARY_2017,,False
+bicycle-kick,bicycle-kick,Bicycle Kick,,SUMMER_GAMES,,False
+goal-blossom,goal-blossom,Goal Blossom,,SUMMER_GAMES,,False
+safe-hands,safe-hands,Safe Hands,,SUMMER_GAMES,,False
+summer-games,summer-games,Summer Games ,common,SUMMER_GAMES,,False
+summer-games-2016,summer-games-2016,Summer Games 2016,common,SUMMER_GAMES,,False
+never-die,never-die,...Never Die,common,HALLOWEEN,,False
+bats,bats,Bats,common,HALLOWEEN,,False
+boo,boo,Boo!,common,HALLOWEEN,,False
+boop,boop,Boop!,common,HALLOWEEN,,False
+candyball,candyball,Candyball,common,HALLOWEEN,,False
+fangs,fangs,Fangs,common,HALLOWEEN,,False
+gummy-hog,gummy-hog,Gummy Hog,common,HALLOWEEN,,False
+halloween-special,halloween-special,Halloween Special,,HALLOWEEN,,False
+halloween-terror,halloween-terror,Halloween Terror,common,HALLOWEEN,,False
+junkensteins-revenge,junkensteins-revenge,Junkenstein's Revenge,,HALLOWEEN,,False
+my-creations,my-creations,My Creations,,HALLOWEEN,,False
+pumpkins,pumpkins,Pumpkins,common,HALLOWEEN,,False
+rise-of-the-zomnics,rise-of-the-zomnics,Rise of the Zomnics,,HALLOWEEN,,False
+the-monster,the-monster,The Monster,,HALLOWEEN,,False
+the-reapening,the-reapening,The Reapening,,HALLOWEEN,,False
+the-reaper,the-reaper,The Reaper,,HALLOWEEN,,False
+the-witch,the-witch,The Witch,,HALLOWEEN,,False
+witchs-brew,witchs-brew,Witch's Brew,common,HALLOWEEN,,False
+never-die,never-die,...Never Die,,HALLOWEEN,,False
+16bit-hero,16bit-hero,16-Bit Hero,,,,False
+2017,2017,2017,,WINTER_WONDERLAND_2016,,False
+zarya-512,zarya-512,512,,,,False
+soldier-76-76,soldier-76-76,76,,,,False
+junkrat-ahhhh,junkrat-ahhhh,AHHHH!,,,,False
+ana-ana,ana-ana,Ana,,,,False
+ana-anaversary,ana-anaversary,Anaversary,,ANNIVERSARY_2017,,False
+sombra-aniversario,sombra-aniversario,Aniversario,,ANNIVERSARY_2017,,False
+pharah-anniversareeha,pharah-anniversareeha,Anniversareeha,,ANNIVERSARY_2017,,False
+anniversary-2017,anniversary-2017,Anniversary 2017,,ANNIVERSARY_2017,,False
+anubis,anubis,Anubis,,,,False
+hanzo-archery,hanzo-archery,Archery,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+orisa-aurisa,orisa-aurisa,Aurisa,,ANNIVERSARY_2017,,False
+australia,australia,Australia,,SUMMER_GAMES,,False
+tracer-auxton,tracer-auxton,Auxton,,ANNIVERSARY_2017,,False
+b73ns,b73ns,B73-NS,,UPRISING_2017,,False
+mccree-badge,mccree-badge,Badge,,,,False
+mercy-badminton,mercy-badminton,Badminton,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+widowmaker-baiser,widowmaker-baiser,Baiser,,,,False
+bao,bao,Bao,,,,False
+barbarian,barbarian,Barbarian,,,,False
+pharah-basketball,pharah-basketball,Basketball,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+bastion-bastion,bastion-bastion,Bastion,,,,False
+bells,bells,Bells,,WINTER_WONDERLAND_2016,,False
+bewitching,bewitching,Bewitching,,HALLOWEEN,,False
+mccree-blackwatch,mccree-blackwatch,Blackwatch,,UPRISING_2017,,False
+reaper-bmx,reaper-bmx,BMX,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+bokimari,bokimari,Bokimari,,YEAR_OF_THE_ROOSTER_2017,pachi,False
+bastion-boxing,bastion-boxing,Boxing,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+brazil,brazil,Brazil,,SUMMER_GAMES,,False
+bubbly,bubbly,Bubbly,,WINTER_WONDERLAND_2016,,False
+dva-bunny,dva-bunny,Bunny,,,,False
+tracer-cadet,tracer-cadet,Cadet,,UPRISING_2017,,False
+calavera,calavera,Calavera,,HALLOWEEN,,False
+candle,candle,Candle,,HALLOWEEN,,False
+candy-cane,candy-cane,Candy Cane,,WINTER_WONDERLAND_2016,,False
+capsule,capsule,Capsule,,,,False
+mei-change,mei-change,Chang'e,,YEAR_OF_THE_ROOSTER_2017,,False
+dva-charm,dva-charm,Charm,,,,False
+cheers,cheers,Cheers!,,WINTER_WONDERLAND_2016,,False
+torbjorn-chief-engineer,torbjorn-chief-engineer,Chief Engineer,,UPRISING_2017,,False
+china,china,China,,SUMMER_GAMES,,False
+coin,coin,Coin,,YEAR_OF_THE_ROOSTER_2017,,False
+colossus,colossus,Colossus,,,,False
+mercy-combat-medic,mercy-combat-medic,Combat Medic,,UPRISING_2017,,False
+copa-lucioball-competitor,copa-lucioball-competitor,Copa Lúcioball Competitor,,,competitive,False
+copa-lucioball-hero,copa-lucioball-hero,Copa Lúcioball Hero,,,competitive,False
+ana-corsair,ana-corsair,Corsair,,HALLOWEEN,,False
+credit,credit,Credit,,,,False
+crusader,crusader,Crusader,,,,False
+zenyatta-cultist,zenyatta-cultist,Cultist,,HALLOWEEN,,False
+genji-cyborg,genji-cyborg,Cyborg,,UPRISING_2017,,False
+dva-cycling,dva-cycling,Cycling,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+widowmaker-dor,widowmaker-dor,D'or,,ANNIVERSARY_2017,,False
+dva-dva,dva-dva,D.Va,,,,False
+dark-lady,dark-lady,Dark Lady,,,,False
+dark-wanderer,dark-wanderer,Dark Wanderer,,,,False
+mccree-deadeye,mccree-deadeye,Deadeye,,,,False
+demolition,demolition,Demolition,,,,False
+demon-hunter,demon-hunter,Demon Hunter,,,,False
+roadhog-diving,roadhog-diving,Diving,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+dominion,dominion,Dominion,,,,False
+doomfist-doomfist,doomfist-doomfist,Doomfist,,,,False
+reaper-dracula,reaper-dracula,Dracula,,HALLOWEEN,,False
+dragon-dance,dragon-dance,Dragon Dance,,YEAR_OF_THE_ROOSTER_2017,,False
+dreidel,dreidel,Dreidel,,WINTER_WONDERLAND_2016,,False
+drop-pod,drop-pod,Drop Pod,,UPRISING_2017,,False
+orisa-efi,orisa-efi,Efi,,,,False
+egypt,egypt,Egypt,,SUMMER_GAMES,,False
+elephant,elephant,Elephant,,,,False
+reaper-emblem,reaper-emblem,Emblem,,,,False
+mccree-equestrian,mccree-equestrian,Equestrian,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+eyeball,eyeball,Eyeball,,HALLOWEEN,,False
+genji-fencing,genji-fencing,Fencing,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+doomfist-fist,doomfist-fist,Fist,,,,False
+lucio-football,lucio-football,Football,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+for-the-alliance,for-the-alliance,For the Alliance,,,,False
+for-the-horde,for-the-horde,For the Horde,,,,False
+torbjorn-forge,torbjorn-forge,Forge,,,,False
+fortune,fortune,Fortune,,YEAR_OF_THE_ROOSTER_2017,,False
+france,france,France,,SUMMER_GAMES,,False
+lucio-frog,lucio-frog,Frog,,,,False
+from-beyond-the-moon,from-beyond-the-moon,From Beyond the Moon,,,,False
+fuchimari,fuchimari,Fuchimari,,YEAR_OF_THE_ROOSTER_2017,pachi,False
+mccree-gamf,mccree-gamf,GAMF,,ANNIVERSARY_2017,,False
+bastion-ganymede,bastion-ganymede,Ganymede,,,,False
+garrosh,garrosh,Garrosh,,,,False
+torbjorn-gears,torbjorn-gears,Gears,,,,False
+genji-genji,genji-genji,Genji,,,,False
+germany,germany,Germany,,SUMMER_GAMES,,False
+ghostymari,ghostymari,Ghostymari,,HALLOWEEN,pachi,False
+gingerbread,gingerbread,Gingerbread,,WINTER_WONDERLAND_2016,,False
+gingermari,gingermari,Gingermari,,WINTER_WONDERLAND_2016,pachi,False
+genji-god-of-war,genji-god-of-war,God of War,,,,False
+gold,gold,Gold,,YEAR_OF_THE_ROOSTER_2017,,False
+soldier-76-gold-soldier,soldier-76-gold-soldier,Gold Soldier,,ANNIVERSARY_2017,,False
+genji-goldborg,genji-goldborg,Goldborg,,ANNIVERSARY_2017,,False
+bastion-goldbot,bastion-goldbot,Goldbot,,ANNIVERSARY_2017,,False
+torbjorn-goldclad,torbjorn-goldclad,Goldclad,,ANNIVERSARY_2017,,False
+reinhardt-goldhardt,reinhardt-goldhardt,Goldhardt,,ANNIVERSARY_2017,,False
+roadhog-goldhog,roadhog-goldhog,Goldhog,,ANNIVERSARY_2017,,False
+junkrat-goldrat,junkrat-goldrat,Goldrat,,ANNIVERSARY_2017,,False
+winston-goldrilla,winston-goldrilla,Goldrilla,,ANNIVERSARY_2017,,False
+soldier-76-golf,soldier-76-golf,Golf,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+widowmaker-grappling-hook,widowmaker-grappling-hook,Grappling Hook,,,,False
+greece,greece,Greece,,SUMMER_GAMES,,False
+mercy-guardian-angel,mercy-guardian-angel,Guardian Angel,,,,False
+widowmaker-gymnastics,widowmaker-gymnastics,Gymnastics,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+sombra-hacker,sombra-hacker,Hacker,,,,False
+mei-hairpin,mei-hairpin,Hairpin,,,,False
+halloween-terror-2016,halloween-terror-2016,Halloween Terror 2016,,HALLOWEEN,,False
+halloween-terror-2017,halloween-terror-2017,Halloween Terror 2017,,HALLOWEEN,,False
+dva-hanaversary,dva-hanaversary,Hanaversary,,ANNIVERSARY_2017,,False
+dva-hanbok,dva-hanbok,Hanbok,,YEAR_OF_THE_ROOSTER_2017,,False
+hanzo-hanzo,hanzo-hanzo,Hanzo,,,,False
+happy-squid,happy-squid,Happy Squid,,,,False
+zenyatta-harmony,zenyatta-harmony,Harmony,,,,False
+junkrat-have-a-nice-day,junkrat-have-a-nice-day,Have a Nice Day!,,,,False
+have-fish,have-fish,Have Fish,,YEAR_OF_THE_ROOSTER_2017,,False
+hearthstone,hearthstone,Hearthstone,,,,False
+hierarch,hierarch,Hierarch,,,,False
+sombra-high-jump,sombra-high-jump,High Jump,,SUMMER_GAMES,,False
+holly,holly,Holly,,WINTER_WONDERLAND_2016,,False
+roadhog-hook,roadhog-hook,Hook,,,,False
+hot-cocoa,hot-cocoa,Hot Cocoa,,WINTER_WONDERLAND_2016,,False
+doomfist-initials,doomfist-initials,Initials,,,,False
+mercy-jahrestag,mercy-jahrestag,Jahrestag,,ANNIVERSARY_2017,,False
+jaina,jaina,Jaina,,,,False
+japan,japan,Japan,,SUMMER_GAMES,,False
+orisa-javelin,orisa-javelin,Javelin,,SUMMER_GAMES,,False
+mei-jiangshi,mei-jiangshi,Jiangshi,,HALLOWEEN,,False
+jim,jim,Jim,,,,False
+tracer-jingle,tracer-jingle,Jingle,,WINTER_WONDERLAND_2016,,False
+junkensteins-pachimonster,junkensteins-pachimonster,Junkenstein's Pachimonster,,HALLOWEEN,,False
+junkrat-junkrat,junkrat-junkrat,Junkrat,,,,False
+lucio-kambo,lucio-kambo,Kambô,,,,False
+hanzo-kinenbi,hanzo-kinenbi,Kinenbi,,ANNIVERSARY_2017,,False
+kofi-aromo,kofi-aromo,Kọfị Aromo,,,,False
+widowmaker-lacroix,widowmaker-lacroix,Lacroix,,UPRISING_2017,,False
+lantern,lantern,Lantern,,YEAR_OF_THE_ROOSTER_2017,,False
+dva-law,dva-law,Law,,,,False
+lich-king,lich-king,Lich King,,,,False
+reinhardt-lieutenant,reinhardt-lieutenant,Lieutenant,,UPRISING_2017,,False
+lion-dance,lion-dance,Lion Dance,,YEAR_OF_THE_ROOSTER_2017,,False
+reinhardt-lionhardt,reinhardt-lionhardt,Lionhardt,,,,False
+loot-box,loot-box,Loot Box,,,,False
+lord-of-candy,lord-of-candy,Lord of Candy,,,,False
+lord-of-terror,lord-of-terror,Lord of Terror,,,,False
+los-muertos,los-muertos,Los Muertos,,,,False
+lucky-pouch,lucky-pouch,Lucky Pouch,,YEAR_OF_THE_ROOSTER_2017,,False
+winston-lunar-ops,winston-lunar-ops,Lunar Ops,,,,False
+lucio-lucio,lucio-lucio,Lúcio,,,,False
+lucio-luciouro,lucio-luciouro,Lúciouro,,ANNIVERSARY_2017,,False
+mama-pigs,mama-pigs,Mama Pig's,,,,False
+mariachi,mariachi,Mariachi,,,,False
+mei-may,mei-may,May,,ANNIVERSARY_2017,,False
+mccree-mccree,mccree-mccree,McCree,,,,False
+mech,mech,Mech,,,,False
+zenyatta-meditation,zenyatta-meditation,Meditation,,,,False
+mei-mei,mei-mei,Mei,,,,False
+mercy-mercy,mercy-mercy,Mercy,,,,False
+mexico,mexico,Mexico,,SUMMER_GAMES,,False
+mochi,mochi,Mochi,,WINTER_WONDERLAND_2016,,False
+monk,monk,Monk,,,,False
+winston-monkey,winston-monkey,Monkey,,YEAR_OF_THE_ROOSTER_2017,,False
+cheers1,cheers1,Na Zdorovie,,,,False
+nepal,nepal,Nepal,,SUMMER_GAMES,,False
+new-year-cake,new-year-cake,New Year Cake,,YEAR_OF_THE_ROOSTER_2017,,False
+nexus,nexus,Nexus,,,,False
+genji-nin,genji-nin,Nin,,,,False
+null-sector,null-sector,Null Sector,,UPRISING_2017,,False
+nullmari,nullmari,Nullmari,,UPRISING_2017,pachi,False
+numbani,numbani,Numbani,,SUMMER_GAMES,,False
+zenyatta-nutcracker,zenyatta-nutcracker,Nutcracker,,WINTER_WONDERLAND_2016,,False
+genji-oni,genji-oni,Oni,,,,False
+orisa-or14ns,orisa-or14ns,OR14-NS,,UPRISING_2017,,False
+orisa-orisa,orisa-orisa,Orisa,,,,False
+ornament,ornament,Ornament,,WINTER_WONDERLAND_2016,,False
+overwatch-dark,overwatch-dark,Overwatch Dark,,,,True
+overwatch-light,overwatch-light,Overwatch Light,,,,True
+pachilantern,pachilantern,Pachilantern,,YEAR_OF_THE_ROOSTER_2017,pachi,False
+pachimari,pachimari,Pachimari,,,pachi,False
+pachimerry,pachimerry,Pachimerry,,WINTER_WONDERLAND_2016,pachi,False
+pachimummy,pachimummy,Pachimummy,,HALLOWEEN,pachi,False
+pachireindeer,pachireindeer,Pachireindeer,,WINTER_WONDERLAND_2016,pachi,False
+pachiversary,pachiversary,Pachiversary,,ANNIVERSARY_2017,pachi,False
+zarya-particle-barrier,zarya-particle-barrier,Particle Barrier,,,,False
+tracer-patch,tracer-patch,Patch,,,,False
+peachimari,peachimari,Peachimari,,YEAR_OF_THE_ROOSTER_2017,pachi,False
+winston-peanut-butter,winston-peanut-butter,Peanut Butter,,,,False
+peppermint,peppermint,Peppermint,,WINTER_WONDERLAND_2016,,False
+pharah-pharah,pharah-pharah,Pharah,,,,False
+pharaoh,pharaoh,Pharaoh,,,,False
+roadhog-piggy,roadhog-piggy,Piggy,,,,False
+roadhog-pigsy,roadhog-pigsy,Pigsy,,YEAR_OF_THE_ROOSTER_2017,,False
+present,present,Present,,WINTER_WONDERLAND_2016,,False
+orisa-protector,orisa-protector,Protector,,,,False
+protoss,protoss,Protoss,,,,False
+tracer-pulse-bomb,tracer-pulse-bomb,Pulse Bomb,,,,False
+queen-of-blades,queen-of-blades,Queen of Blades,,,,False
+ramen,ramen,Ramen,,,,False
+pharah-raptora,pharah-raptora,Raptora,,,,False
+reaper-reaper,reaper-reaper,Reaper,,,,False
+reaper-reapiversary,reaper-reapiversary,Reapiversary,,ANNIVERSARY_2017,,False
+red-envelope,red-envelope,Red Envelope,,YEAR_OF_THE_ROOSTER_2017,,False
+reinhardt-reinhardt,reinhardt-reinhardt,Reinhardt,,,,False
+rhino,rhino,Rhino,,,,False
+symmetra-rhythmic-gymnastics,symmetra-rhythmic-gymnastics,Rhythmic Gymnastics,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+rikimaru,rikimaru,Rikimaru,,,,False
+roadhog-roadhog,roadhog-roadhog,Roadhog,,,,False
+route-66,route-66,Route 66,,,,False
+russia,russia,Russia,,SUMMER_GAMES,,False
+sakura,sakura,Sakura,,,,False
+reinhardt-sandy,reinhardt-sandy,Sandy,,YEAR_OF_THE_ROOSTER_2017,,False
+torbjorn-santaclad,torbjorn-santaclad,Santaclad,,WINTER_WONDERLAND_2016,,False
+zenyatta-sanzang,zenyatta-sanzang,Sanzang,,YEAR_OF_THE_ROOSTER_2017,,False
+reinhardt-scar,reinhardt-scar,Scar,,,,False
+scooter,scooter,Scooter,,,,False
+season-1-competitor,season-1-competitor,Season 1 Competitor,,,competitive,False
+season-1-hero,season-1-hero,Season 1 Hero,,,competitive,False
+season-2-competitor,season-2-competitor,Season 2 Competitor,,,competitive,False
+season-2-hero,season-2-hero,Season 2 Hero,,,competitive,False
+season-3-competitor,season-3-competitor,Season 3 Competitor,,,competitive,False
+season-3-hero,season-3-hero,Season 3 Hero,,,competitive,False
+season-4-competitor,season-4-competitor,Season 4 Competitor,,,competitive,False
+season-4-hero,season-4-hero,Season 4 Hero,,,competitive,False
+season-5-competitor,season-5-competitor,Season 5 Competitor,,,competitive,False
+season-5-hero,season-5-hero,Season 5 Hero,,,competitive,False
+season-6-competitor,season-6-competitor,Season 6 Competitor,,,competitive,False
+season-6-hero,season-6-hero,Season 6 Hero,,,competitive,False
+symmetra-sentry,symmetra-sentry,Sentry,,,,False
+seollal,seollal,Seollal,,YEAR_OF_THE_ROOSTER_2017,,False
+hanzo-shimada,hanzo-shimada,Shimada,,,,False
+ana-shooting,ana-shooting,Shooting,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+doomfist-shotput,doomfist-shotput,Shotput,,SUMMER_GAMES,,False
+siege-mode,siege-mode,Siege Mode,,,,False
+sixgun-killer,sixgun-killer,Six-Gun Killer,,,,False
+sombra-skull,sombra-skull,Skull,,,,False
+snow-globe,snow-globe,Snow Globe,,WINTER_WONDERLAND_2016,,False
+mei-snowball,mei-snowball,Snowball,,,,False
+snowman,snowman,Snowman,,WINTER_WONDERLAND_2016,,False
+soldier-76-soldier-76,soldier-76-soldier-76,Soldier: 76,,,,False
+sombra-sombra,sombra-sombra,Sombra,,,,False
+reaper-soul,reaper-soul,Soul,,,,False
+south-korea,south-korea,South Korea,,SUMMER_GAMES,,False
+spider,spider,Spider,,HALLOWEEN,,False
+stocking,stocking,Stocking,,WINTER_WONDERLAND_2016,,False
+hanzo-storm,hanzo-storm,Storm,,,,False
+soldier-76-strike-commander,soldier-76-strike-commander,Strike Commander,,,,False
+summer-games-2016,summer-games-2016,Summer Games 2016,,SUMMER_GAMES,,False
+summer-games-2017,summer-games-2017,Summer Games 2017,,SUMMER_GAMES,,False
+superstition,superstition,Superstition,,HALLOWEEN,,False
+svyatogor,svyatogor,Svyatogor,,,,False
+sweden,sweden,Sweden,,SUMMER_GAMES,,False
+switzerland,switzerland,Switzerland,,SUMMER_GAMES,,False
+symmetra-symmetra,symmetra-symmetra,Symmetra,,,,False
+mei-table-tennis,mei-table-tennis,Table Tennis,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+zenyatta-taekwondo,zenyatta-taekwondo,Taekwondo,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+tangerines,tangerines,Tangerines,,YEAR_OF_THE_ROOSTER_2017,,False
+bastion-tank-crossing,bastion-tank-crossing,Tank Crossing,,,,False
+tannenbaum,tannenbaum,Tannenbaum,,WINTER_WONDERLAND_2016,,False
+junkrat-tennis,junkrat-tennis,Tennis,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+terran,terran,Terran,,,,False
+junkrat-the-doctor,junkrat-the-doctor,The Doctor,,HALLOWEEN,HALLOWEEN_2016,False
+roadhog-the-monster,roadhog-the-monster,The Monster,,HALLOWEEN,HALLOWEEN_2016,False
+reaper-the-reaper,reaper-the-reaper,The Reaper,,HALLOWEEN,HALLOWEEN_2016,False
+symmetra-the-summoner,symmetra-the-summoner,The Summoner,,HALLOWEEN,,False
+mercy-the-witch,mercy-the-witch,The Witch,,HALLOWEEN,HALLOWEEN_2016,False
+tombstone,tombstone,Tombstone,,HALLOWEEN,,False
+top-500,top-500,Top 500,,,competitive,False
+torbjorn-torbjorn,torbjorn-torbjorn,Torbjörn,,,,False
+zarya-totally-80s,zarya-totally-80s,Totally 80's,,HALLOWEEN,,False
+totem,totem,Totem,,,,False
+tracer-tracer,tracer-tracer,Tracer,,,,False
+tracer-track,tracer-track,Track,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+training-bot,training-bot,Training Bot,,,,False
+united-kingdom,united-kingdom,United Kingdom,,SUMMER_GAMES,,False
+united-states-of-america,united-states-of-america,United States of America,,SUMMER_GAMES,,False
+uprising-2017,uprising-2017,Uprising 2017,,UPRISING_2017,,False
+mercy-valkyrie,mercy-valkyrie,Valkyrie,,,,False
+vampachimari,vampachimari,Vampachimari,,HALLOWEEN,pachi,False
+mccree-van-helsing,mccree-van-helsing,Van Helsing,,HALLOWEEN,,False
+varian,varian,Varian,,,,False
+symmetra-vaswanniversary,symmetra-vaswanniversary,Vaswanniversary,,ANNIVERSARY_2017,,False
+torbjorn-viking,torbjorn-viking,Viking,,HALLOWEEN,,False
+symmetra-vishkar,symmetra-vishkar,Vishkar,,,,False
+vivi,vivi,Vivi,,,,False
+winston-volleyball,winston-volleyball,Volleyball,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+pharah-wadjet,pharah-wadjet,Wadjet,,,,False
+ana-watcher,ana-watcher,Watcher,,,,False
+torbjorn-water-polo,torbjorn-water-polo,Water Polo,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+ana-wedjat,ana-wedjat,Wedjat,,,,False
+zarya-weightlifting,zarya-weightlifting,Weightlifting,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+widowmaker-widowmaker,widowmaker-widowmaker,Widowmaker,,,,False
+winston-winston,winston-winston,Winston,,,,False
+winter-wonderland-2016,winter-wonderland-2016,Winter Wonderland 2016,,WINTER_WONDERLAND_2016,,False
+witch-doctor,witch-doctor,Witch Doctor,,,,False
+witchs-brew,witchs-brew,Witch's Brew,,HALLOWEEN,,False
+witchs-hat,witchs-hat,Witch's Hat,,HALLOWEEN,,False
+wizard,wizard,Wizard,,,,False
+wolf,wolf,Wolf,,HALLOWEEN,,False
+wreath,wreath,Wreath,,WINTER_WONDERLAND_2016,,False
+reinhardt-wrestling,reinhardt-wrestling,Wrestling,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+year-of-the-rooster-2017,year-of-the-rooster-2017,Year of the Rooster 2017,,YEAR_OF_THE_ROOSTER_2017,,False
+winston-yeti,winston-yeti,Yeti,,WINTER_WONDERLAND_2016,,False
+you-are-not-prepared,you-are-not-prepared,You are not prepared,,,,True
+zarya-zarya,zarya-zarya,Zarya,,,,False
+zarya-zaryanoversary,zarya-zaryanoversary,Zaryanoversary,,ANNIVERSARY_2017,,False
+zenyatta-zeniversary,zenyatta-zeniversary,Zeniversary,,ANNIVERSARY_2017,,False
+zenyatta-zenyatta,zenyatta-zenyatta,Zenyatta,,,,False
+zerg,zerg,Zerg,,,,False
+ana-justice-delivered,ana-justice-delivered,Justice delivered,common,,,True
+ana-children-behave,ana-children-behave,"Children, behave",common,,,False
+ana-everyone-dies,ana-everyone-dies,Everyone dies,common,,,False
+ana-it-takes-a-woman-to-know,ana-it-takes-a-woman-to-know,It takes a woman to know,common,,,False
+ana-justice-rains-from-above,ana-justice-rains-from-above,Justice rains from above,common,,,False
+ana-mother-knows-best,ana-mother-knows-best,Mother knows best,common,,,False
+ana-no-scope-needed,ana-no-scope-needed,No scope needed,common,,,False
+ana-someone-to-tuck-you-in,ana-someone-to-tuck-you-in,someone to tuck you in?,common,,,False
+ana-what-are-you-thinking,ana-what-are-you-thinking,What are you thinking?,common,,,False
+ana-witness-me,ana-witness-me,Witness me,common,,,False
+ana-you-know-nothing,ana-you-know-nothing,You know nothing,common,,,False
+ana-learn-from-the-pain,ana-learn-from-the-pain,Learn from the Pain,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+ana-are-you-scared,ana-are-you-scared,Are you scared?,common,HALLOWEEN,HALLOWEEN_2016,False
+ana-im-watching-out-for-you,ana-im-watching-out-for-you,I'm watching out for you,common,WINTER_WONDERLAND_2016,,False
+ana-the-moon-in-winter,ana-the-moon-in-winter,The moon in winter,common,YEAR_OF_THE_ROOSTER_2017,,False
+ana-damn,ana-damn,Damn,common,UPRISING_2017,,False
+ana-the-ghost-watches,ana-the-ghost-watches,The Ghost Watches,common,UPRISING_2017,,False
+ana-follow-me,ana-follow-me,Follow me,common,ANNIVERSARY_2017,,False
+ana-the-adults-are-talking,ana-the-adults-are-talking,The adults are talking,common,ANNIVERSARY_2017,,False
+ana-better-than-retirement,ana-better-than-retirement,Better than retirement,common,SUMMER_GAMES,,False
+ana-dont-be-scared,ana-dont-be-scared,Don't be scared,common,HALLOWEEN,,False
+ana-ana,ana-ana,Ana,,,,False
+ana-watcher,ana-watcher,Watcher,,,,False
+ana-wedjat,ana-wedjat,Wedjat,,,,False
+ana-shooting,ana-shooting,Shooting,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+ana-anaversary,ana-anaversary,Anaversary,,ANNIVERSARY_2017,,False
+ana-corsair,ana-corsair,Corsair,,HALLOWEEN,,False
+ana-heroic,ana-heroic,Heroic,common,,,True
+ana-disapproving,ana-disapproving,Disapproving,epic,,,False
+ana-not-impressed,ana-not-impressed,Not impressed,epic,,,False
+ana-protector,ana-protector,Protector,epic,,,False
+ana-take-a-knee,ana-take-a-knee,Take a Knee,epic,,,False
+ana-tea-time,ana-tea-time,Tea Time,epic,,,False
+ana-candy,ana-candy,Candy,epic,HALLOWEEN,HALLOWEEN_2016,False
+ana-dance,ana-dance,Dance,epic,ANNIVERSARY_2017,,False
+ana-beach-ball,ana-beach-ball,Beach Ball,epic,SUMMER_GAMES,,False
+ana-classic,ana-classic,Classic,common,,,True
+ana-citrine,ana-citrine,Citrine,rare,,,False
+ana-garnet,ana-garnet,Garnet,rare,,,False
+ana-peridot,ana-peridot,Peridot,rare,,,False
+ana-turquoise,ana-turquoise,Turquoise,rare,,,False
+ana-merciful,ana-merciful,Merciful,epic,,,False
+ana-shrike,ana-shrike,Shrike,epic,,,False
+ana-ghoul,ana-ghoul,Ghoul,epic,HALLOWEEN,HALLOWEEN_2016,False
+ana-tal,ana-tal,Tal,epic,YEAR_OF_THE_ROOSTER_2017,,False
+ana-captain-amari,ana-captain-amari,Captain Amari,legendary,,,False
+ana-horus,ana-horus,Horus,legendary,,,False
+ana-wadjet,ana-wadjet,Wadjet,legendary,,,False
+ana-wasteland,ana-wasteland,Wasteland,legendary,,,False
+ana-corsair,ana-corsair,Corsair,legendary,HALLOWEEN,,False
+ana-action,ana-action,Action,common,,,False
+ana-ana,ana-ana,Ana,common,,,False
+ana-bearer,ana-bearer,Bearer,common,,,False
+ana-cheer,ana-cheer,Cheer,common,,,False
+ana-cracked,ana-cracked,Cracked,common,,,False
+ana-eyepatch,ana-eyepatch,Eyepatch,common,,,False
+ana-fareeha,ana-fareeha,Fareeha,common,,,False
+ana-gaze,ana-gaze,Gaze,common,,,False
+ana-grenade,ana-grenade,Grenade,common,,,False
+ana-guardian,ana-guardian,Guardian,common,,,False
+ana-hesitation,ana-hesitation,Hesitation,common,,,False
+ana-icon,ana-icon,Icon,common,,,False
+ana-letter,ana-letter,Letter,common,,,False
+ana-old-soldier,ana-old-soldier,Old Soldier,common,,,False
+ana-overhead,ana-overhead,Overhead,common,,,False
+ana-photograph,ana-photograph,Photograph,common,,,False
+ana-pillow,ana-pillow,Pillow,common,,,False
+ana-rifle,ana-rifle,Rifle,common,,,False
+ana-shadow,ana-shadow,Shadow,common,,,False
+ana-shhh,ana-shhh,Shhh,common,,,False
+ana-sidearm,ana-sidearm,Sidearm,common,,,False
+ana-wedjat,ana-wedjat,Wedjat,common,,,False
+ana-wrist-launcher,ana-wrist-launcher,Wrist Launcher,common,,,False
+ana-zzz,ana-zzz,Zzz,common,,,False
+ana-shooting,ana-shooting,Shooting,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+ana-trick-or-treat,ana-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+ana-ornament,ana-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+ana-warm,ana-warm,Warm,common,WINTER_WONDERLAND_2016,,False
+ana-dance,ana-dance,Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+ana-dragon-dance,ana-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+ana-newborn,ana-newborn,Newborn,common,UPRISING_2017,,False
+ana-ace-of-hearts,ana-ace-of-hearts,Ace of Hearts,common,ANNIVERSARY_2017,,False
+ana-cute,ana-cute,Cute,common,,,False
+ana-pixel,ana-pixel,Pixel,common,,,False
+ana-heroic,ana-heroic,Heroic,common,,,True
+ana-guardian,ana-guardian,Guardian,epic,,,False
+ana-locked-on,ana-locked-on,Locked On,epic,,,False
+ana-shh,ana-shh,Shh...,epic,,,False
+ana-heroic,ana-heroic,Heroic,common,,,True
+ana-mission-complete,ana-mission-complete,Mission Complete,rare,,,False
+ana-protector,ana-protector,Protector,rare,,,False
+ana-seated,ana-seated,Seated,rare,,,False
+ana-rip,ana-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+ana-toast,ana-toast,Toast,rare,WINTER_WONDERLAND_2016,,False
+ana-folded-hands,ana-folded-hands,Folded hands,rare,YEAR_OF_THE_ROOSTER_2017,,False
+orisa-following-my-programming,orisa-following-my-programming,Following My Programming,common,,,True
+orisa-current-outlook,orisa-current-outlook,Current Outlook,common,,,False
+orisa-do-you-need-a-hug,orisa-do-you-need-a-hug,Do You Need a Hug?,common,,,False
+orisa-efi-will-not-be-happy,orisa-efi-will-not-be-happy,Efi Will Not Be Happy,common,,,False
+orisa-error-sarcasm-module,orisa-error-sarcasm-module,Error: Sarcasm Module,common,,,False
+orisa-i-cant-do-that,orisa-i-cant-do-that,I Can't Do That,common,,,False
+orisa-medical-assistance,orisa-medical-assistance,Medical Assistance,common,,,False
+orisa-my-analysis,orisa-my-analysis,My Analysis,common,,,False
+orisa-no-parking,orisa-no-parking,No Parking,common,,,False
+orisa-shine-your-eyes,orisa-shine-your-eyes,Shine Your Eyes,common,,,False
+orisa-that-does-not-compute,orisa-that-does-not-compute,That Does Not Compute,common,,,False
+orisa-error-division-by-0,orisa-error-division-by-0,Error: division by 0,common,UPRISING_2017,,False
+orisa-functionality-still-in-beta,orisa-functionality-still-in-beta,Functionality still in beta,common,UPRISING_2017,,False
+orisa-satsified-with-protection,orisa-satsified-with-protection,Satisfied with protection,common,ANNIVERSARY_2017,,False
+orisa-your-compliance,orisa-your-compliance,Your Compliance,common,ANNIVERSARY_2017,,False
+orisa-golden,orisa-golden,Golden,common,SUMMER_GAMES,,False
+orisa-grease-to-your-elbow,orisa-grease-to-your-elbow,Grease to your elbow,common,SUMMER_GAMES,,False
+orisa-be-careful,orisa-be-careful,Be careful,common,HALLOWEEN,,False
+orisa-your-pulse-has-increased,orisa-your-pulse-has-increased,Your pulse has increased,common,HALLOWEEN,,False
+orisa-efi,orisa-efi,Efi,,,,False
+orisa-orisa,orisa-orisa,Orisa,,,,False
+orisa-protector,orisa-protector,Protector,,,,False
+orisa-or14ns,orisa-or14ns,OR14-NS,,UPRISING_2017,,False
+orisa-aurisa,orisa-aurisa,Aurisa,,ANNIVERSARY_2017,,False
+orisa-javelin,orisa-javelin,Javelin,,SUMMER_GAMES,,False
+orisa-heroic,orisa-heroic,Heroic,common,,,True
+orisa-cheer,orisa-cheer,Cheer,epic,,,False
+orisa-halt,orisa-halt,Halt!,epic,,,False
+orisa-kicking-dirt,orisa-kicking-dirt,Kicking Dirt,epic,,,False
+orisa-laugh,orisa-laugh,Laugh,epic,,,False
+orisa-sit,orisa-sit,Sit,epic,,,False
+orisa-dance,orisa-dance,Dance,epic,ANNIVERSARY_2017,,False
+orisa-classic,orisa-classic,Classic,common,,,True
+orisa-dawn,orisa-dawn,Dawn,rare,,,False
+orisa-plains,orisa-plains,Plains,rare,,,False
+orisa-sunrise,orisa-sunrise,Sunrise,rare,,,False
+orisa-twilight,orisa-twilight,Twilight,rare,,,False
+orisa-camouflage,orisa-camouflage,Camouflage,epic,,,False
+orisa-or15,orisa-or15,OR15,epic,,,False
+orisa-carbon-fiber,orisa-carbon-fiber,Carbon Fiber,legendary,,,False
+orisa-dynastinae,orisa-dynastinae,Dynastinae,legendary,,,False
+orisa-megasoma,orisa-megasoma,Megasoma,legendary,,,False
+orisa-protector,orisa-protector,Protector,legendary,,,False
+orisa-null-sector,orisa-null-sector,Null Sector,legendary,UPRISING_2017,,False
+orisa-frustration,orisa-frustration,>_<,common,,,False
+orisa-joy,orisa-joy,^_^,common,,,False
+orisa-amused,orisa-amused,Amused,common,,,False
+orisa-carving,orisa-carving,Carving,common,,,False
+orisa-city-of-harmony,orisa-city-of-harmony,City of Harmony,common,,,False
+orisa-cleaning,orisa-cleaning,Cleaning,common,,,False
+orisa-companions,orisa-companions,Companions,common,,,False
+orisa-construction,orisa-construction,Construction,common,,,False
+orisa-crossing-guard,orisa-crossing-guard,Crossing Guard,common,,,False
+orisa-drumming,orisa-drumming,Drumming,common,,,False
+orisa-guardian,orisa-guardian,Guardian,common,,,False
+orisa-heroes,orisa-heroes,Heroes,common,,,False
+orisa-icon,orisa-icon,Icon,common,,,False
+orisa-just-dessert,orisa-just-dessert,Just Dessert,common,,,False
+orisa-kick,orisa-kick,Kick,common,,,False
+orisa-protector,orisa-protector,Protector,common,,,False
+orisa-shield,orisa-shield,Shield,common,,,False
+orisa-stop,orisa-stop,Stop,common,,,False
+orisa-supercharged,orisa-supercharged,Supercharged,common,,,False
+orisa-swing,orisa-swing,Swing,common,,,False
+orisa-tracks,orisa-tracks,Tracks,common,,,False
+orisa-unmoving,orisa-unmoving,Unmoving,common,,,False
+orisa-xing,orisa-xing,Xing,common,,,False
+orisa-flower,orisa-flower,Flower,common,UPRISING_2017,,False
+orisa-nine-of-spades,orisa-nine-of-spades,Nine of Spades,common,ANNIVERSARY_2017,,False
+orisa-javelin,orisa-javelin,Javelin,common,SUMMER_GAMES,,False
+orisa-trick-or-treat,orisa-trick-or-treat,Trick or Treat,common,HALLOWEEN,,False
+orisa-cute,orisa-cute,Cute,common,,,False
+orisa-pixel,orisa-pixel,Pixel,common,,,False
+orisa-heroic,orisa-heroic,Heroic,common,,,True
+orisa-keeping-you-safe,orisa-keeping-you-safe,Keeping You Safe,epic,,,False
+orisa-oh,orisa-oh,Oh!,epic,,,False
+orisa-supercharger,orisa-supercharger,Supercharger,epic,,,False
+orisa-heroic,orisa-heroic,Heroic,common,,,True
+orisa-confident,orisa-confident,Confident,rare,,,False
+orisa-flex,orisa-flex,Flex,rare,,,False
+orisa-halt,orisa-halt,Halt!,rare,,,False
+orisa-pumpkin-head,orisa-pumpkin-head,Pumpkin Head,rare,HALLOWEEN,,False
+winston-curious,winston-curious,Curious,common,,,True
+winston-excuse-me,winston-excuse-me,...Excuse me,common,,,False
+winston-dont-get-me-angry,winston-dont-get-me-angry,Don't get me angry,common,,,False
+winston-how-embarrassing,winston-how-embarrassing,How embarrassing!,common,,,False
+winston-i-do-not-want-a-banana,winston-i-do-not-want-a-banana,I do not want a banana,common,,,False
+winston-natural-selection,winston-natural-selection,Natural selection,common,,,False
+winston-no-monkey-business,winston-no-monkey-business,No monkey business,common,,,False
+winston-peanut-butter,winston-peanut-butter,Peanut butter?,common,,,False
+winston-sorry-about-that,winston-sorry-about-that,Sorry about that!,common,,,False
+winston-the-power-of-science,winston-the-power-of-science,The power of science!,common,,,False
+winston-we-have-a-problem,winston-we-have-a-problem,We have a problem,common,,,False
+winston-playtimes-over,winston-playtimes-over,Playtime's over,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+winston-this-is-not-a-costume,winston-this-is-not-a-costume,This is not a costume,common,HALLOWEEN,HALLOWEEN_2016,False
+winston-i-got-you-something,winston-i-got-you-something,I... got you something,common,WINTER_WONDERLAND_2016,,False
+winston-that-was-awesome,winston-that-was-awesome,That was awesome!,common,YEAR_OF_THE_ROOSTER_2017,,False
+winston-have-you-seen-my-glasses,winston-have-you-seen-my-glasses,Have you seen my glasses?,common,UPRISING_2017,,False
+winston-i-have-the-right-stuff,winston-i-have-the-right-stuff,I have the right stuff,common,UPRISING_2017,,False
+winston-its-my-time-to-shine,winston-its-my-time-to-shine,It's my time to shine!,common,ANNIVERSARY_2017,,False
+winston-oh-yeah,winston-oh-yeah,Oh yeah!,common,ANNIVERSARY_2017,,False
+winston-oh-its-on,winston-oh-its-on,"Oh, it's on!",common,SUMMER_GAMES,,False
+winston-ooh-scary,winston-ooh-scary,"Ooh, scary",common,HALLOWEEN,,False
+winston-lunar-ops,winston-lunar-ops,Lunar Ops,,,,False
+winston-peanut-butter,winston-peanut-butter,Peanut Butter,,,,False
+winston-winston,winston-winston,Winston,,,,False
+winston-volleyball,winston-volleyball,Volleyball,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+winston-yeti,winston-yeti,Yeti,,WINTER_WONDERLAND_2016,,False
+winston-monkey,winston-monkey,Monkey,,YEAR_OF_THE_ROOSTER_2017,,False
+winston-goldrilla,winston-goldrilla,Goldrilla,,ANNIVERSARY_2017,,False
+winston-heroic,winston-heroic,Heroic,common,,,True
+winston-laughing-matter,winston-laughing-matter,Laughing Matter,epic,,,False
+winston-monkey-business,winston-monkey-business,Monkey Business,epic,,,False
+winston-peanut-butter,winston-peanut-butter,Peanut butter?,epic,,,False
+winston-roar,winston-roar,Roar,epic,,,False
+winston-sitting-around,winston-sitting-around,Sitting Around,epic,,,False
+winston-shadow-puppets,winston-shadow-puppets,Shadow Puppets,epic,HALLOWEEN,HALLOWEEN_2016,False
+winston-dance,winston-dance,Twist,epic,ANNIVERSARY_2017,,False
+winston-classic,winston-classic,Classic,common,,,True
+winston-atmosphere,winston-atmosphere,Atmosphere,rare,,,False
+winston-banana,winston-banana,Banana,rare,,,False
+winston-forest,winston-forest,Forest,rare,,,False
+winston-red-planet,winston-red-planet,Red Planet,rare,,,False
+winston-desert,winston-desert,Desert,epic,,,False
+winston-horizon,winston-horizon,Horizon,epic,,,False
+winston-blizzcon-2017,winston-blizzcon-2017,BlizzCon 2017,epic,,,False
+winston-explorer,winston-explorer,Explorer,legendary,,,False
+winston-frogston,winston-frogston,Frogston,legendary,,,False
+winston-safari,winston-safari,Safari,legendary,,,False
+winston-undersea,winston-undersea,Undersea,legendary,,,False
+winston-yeti,winston-yeti,Yeti,legendary,WINTER_WONDERLAND_2016,,False
+winston-wukong,winston-wukong,Wukong,legendary,YEAR_OF_THE_ROOSTER_2017,,False
+winston-angry,winston-angry,Angry,common,,,False
+winston-ape-crossing,winston-ape-crossing,Ape Crossing,common,,,False
+winston-baby,winston-baby,Baby,common,,,False
+winston-banana,winston-banana,Banana,common,,,False
+winston-explorer,winston-explorer,Explorer,common,,,False
+winston-fastball,winston-fastball,Fastball,common,,,False
+winston-harold,winston-harold,Harold,common,,,False
+winston-horizon,winston-horizon,Horizon,common,,,False
+winston-icon,winston-icon,Icon,common,,,False
+winston-lexigrams,winston-lexigrams,Lexigrams,common,,,False
+winston-lightning,winston-lightning,Lightning,common,,,False
+winston-mine,winston-mine,Mine!,common,,,False
+winston-pb,winston-pb,PB,common,,,False
+winston-primal-rage,winston-primal-rage,Primal Rage,common,,,False
+winston-qed,winston-qed,Q.E.D.,common,,,False
+winston-rage,winston-rage,Rage,common,,,False
+winston-research,winston-research,Research,common,,,False
+winston-roar,winston-roar,Roar,common,,,False
+winston-science,winston-science,Science!,common,,,False
+winston-serious,winston-serious,Serious,common,,,False
+winston-swing,winston-swing,Swing,common,,,False
+winston-white,winston-white,White,common,,,False
+winston-wow,winston-wow,Wow,common,,,False
+winston-volleyball,winston-volleyball,Volleyball,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+winston-trick-or-treat,winston-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+winston-ornament,winston-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+winston-presents,winston-presents,Presents,common,WINTER_WONDERLAND_2016,,False
+winston-dragon-dance,winston-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+winston-kite,winston-kite,Kite,common,YEAR_OF_THE_ROOSTER_2017,,False
+winston-building,winston-building,Building,common,UPRISING_2017,,False
+winston-jack-of-hearts,winston-jack-of-hearts,Jack of Hearts,common,ANNIVERSARY_2017,,False
+winston-cute,winston-cute,Cute,common,,,False
+winston-pixel,winston-pixel,Pixel,common,,,False
+winston-heroic,winston-heroic,Heroic,common,,,True
+winston-excuse-me,winston-excuse-me,Excuse Me,epic,,,False
+winston-glasses,winston-glasses,Glasses,epic,,,False
+winston-primal-rage,winston-primal-rage,Primal Rage,epic,,,False
+winston-heroic,winston-heroic,Heroic,common,,,True
+winston-beast,winston-beast,Beast,rare,,,False
+winston-glasses,winston-glasses,Glasses,rare,,,False
+winston-the-thinker,winston-the-thinker,The Thinker,rare,,,False
+winston-medal,winston-medal,Medal,rare,SUMMER_GAMES,SUMMER_GAMES_2016,False
+winston-rip,winston-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+winston-peanut-butter,winston-peanut-butter,Peanut Butter,rare,UPRISING_2017,,False
+doomfist-try-me,doomfist-try-me,Try Me,common,,,True
+doomfist-combo-breaker,doomfist-combo-breaker,Combo Breaker,common,,,False
+doomfist-dont-get-back-up,doomfist-dont-get-back-up,Don't get back up,common,,,False
+doomfist-go-and-sit-down,doomfist-go-and-sit-down,Go and sit down,common,,,False
+doomfist-i-havent-even-started,doomfist-i-havent-even-started,I haven't even started,common,,,False
+doomfist-ko,doomfist-ko,K.O.,common,,,False
+doomfist-one-punch-is-all-i-need,doomfist-one-punch-is-all-i-need,One punch is all I need,common,,,False
+doomfist-spare-me-the-commentary,doomfist-spare-me-the-commentary,Spare me the commentary,common,,,False
+doomfist-talk-to-the-fist,doomfist-talk-to-the-fist,Talk to the fist,common,,,False
+doomfist-you-must-be-joking,doomfist-you-must-be-joking,You must be joking,common,,,False
+doomfist-youre-not-bad,doomfist-youre-not-bad,You're not bad,common,,,False
+doomfist-i-make-medicine-sick,doomfist-i-make-medicine-sick,I make medicine sick,common,SUMMER_GAMES,,False
+doomfist-make-you-punch-drunk,doomfist-make-you-punch-drunk,Make you punch drunk,common,SUMMER_GAMES,,False
+doomfist-i-have-something-for-you,doomfist-i-have-something-for-you,I have something for you,common,HALLOWEEN,,False
+doomfist-you-should-be-scared,doomfist-you-should-be-scared,You should be scared,common,HALLOWEEN,,False
+doomfist-doomfist,doomfist-doomfist,Doomfist,,,,False
+doomfist-fist,doomfist-fist,Fist,,,,False
+doomfist-initials,doomfist-initials,Initials,,,,False
+doomfist-shotput,doomfist-shotput,Shotput,,SUMMER_GAMES,,False
+doomfist-heroic,doomfist-heroic,Heroic,common,,,True
+doomfist-fake-out,doomfist-fake-out,Fake Out,epic,,,False
+doomfist-intimidate,doomfist-intimidate,Intimidate,epic,,,False
+doomfist-ready-for-battle,doomfist-ready-for-battle,Ready for Battle,epic,,,False
+doomfist-take-a-knee,doomfist-take-a-knee,Take a Knee,epic,,,False
+doomfist-thumbs-down,doomfist-thumbs-down,Thumbs Down,epic,,,False
+doomfist-classic,doomfist-classic,Classic,common,,,True
+doomfist-daisy,doomfist-daisy,Daisy,rare,,,False
+doomfist-lake,doomfist-lake,Lake,rare,,,False
+doomfist-plains,doomfist-plains,Plains,rare,,,False
+doomfist-sunset,doomfist-sunset,Sunset,rare,,,False
+doomfist-leopard,doomfist-leopard,Leopard,epic,,,False
+doomfist-painted,doomfist-painted,Painted,epic,,,False
+doomfist-avatar,doomfist-avatar,Avatar,legendary,,,False
+doomfist-caution,doomfist-caution,Caution,legendary,,,False
+doomfist-irin,doomfist-irin,Irin,legendary,,,False
+doomfist-spirit,doomfist-spirit,Spirit,legendary,,,False
+doomfist-punch,doomfist-punch,...Punch?,common,,,False
+doomfist-akande,doomfist-akande,Akande,common,,,False
+doomfist-crater,doomfist-crater,Crater,common,,,False
+doomfist-crush,doomfist-crush,Crush,common,,,False
+doomfist-epicenter,doomfist-epicenter,Epicenter,common,,,False
+doomfist-fist,doomfist-fist,Fist,common,,,False
+doomfist-icon,doomfist-icon,Icon,common,,,False
+doomfist-initials,doomfist-initials,Initials,common,,,False
+doomfist-move-list,doomfist-move-list,Move List,common,,,False
+doomfist-out-of-time,doomfist-out-of-time,Out of Time,common,,,False
+doomfist-paint,doomfist-paint,Paint,common,,,False
+doomfist-punching-bag,doomfist-punching-bag,Punching Bag,common,,,False
+doomfist-punchman,doomfist-punchman,Punchman,common,,,False
+doomfist-smoke,doomfist-smoke,Smoke,common,,,False
+doomfist-sonic-boom,doomfist-sonic-boom,Sonic Boom,common,,,False
+doomfist-stance,doomfist-stance,Stance,common,,,False
+doomfist-successor,doomfist-successor,Successor,common,,,False
+doomfist-the-greatest,doomfist-the-greatest,The Greatest,common,,,False
+doomfist-they-said,doomfist-they-said,They Said...,common,,,False
+doomfist-thumbs-up,doomfist-thumbs-up,Thumbs Up,common,,,False
+doomfist-tuxedo,doomfist-tuxedo,Tuxedo,common,,,False
+doomfist-wrapped,doomfist-wrapped,Wrapped,common,,,False
+doomfist-wrestle,doomfist-wrestle,Wrestle,common,,,False
+doomfist-shot-put,doomfist-shot-put,Shot Put,common,SUMMER_GAMES,,False
+doomfist-trick-or-treat,doomfist-trick-or-treat,Trick or Treat,common,HALLOWEEN,,False
+doomfist-cute,doomfist-cute,Cute,common,,,False
+doomfist-pixel,doomfist-pixel,Pixel,common,,,False
+doomfist-heroic,doomfist-heroic,Heroic,common,,,True
+doomfist-meteor,doomfist-meteor,Meteor,epic,,,False
+doomfist-one-punch,doomfist-one-punch,One Punch,epic,,,False
+doomfist-uppercut,doomfist-uppercut,Uppercut,epic,,,False
+doomfist-heroic,doomfist-heroic,Heroic,common,,,True
+doomfist-intense,doomfist-intense,Intense,rare,,,False
+doomfist-seismic-slam,doomfist-seismic-slam,Seismic Slam,rare,,,False
+doomfist-superior,doomfist-superior,Superior,rare,,,False
+symmetra-such-a-lack-of-imagination,symmetra-such-a-lack-of-imagination,Such a lack of imagination,common,,,True
+symmetra-everything-by-design,symmetra-everything-by-design,Everything by design,common,,,False
+symmetra-exquisite,symmetra-exquisite,Exquisite,common,,,False
+symmetra-how-unsightly,symmetra-how-unsightly,How unsightly,common,,,False
+symmetra-i-dont-think-so,symmetra-i-dont-think-so,I don't think so,common,,,False
+symmetra-impressive,symmetra-impressive,Impressive,common,,,False
+symmetra-perfect-harmony,symmetra-perfect-harmony,Perfect harmony,common,,,False
+symmetra-precisely,symmetra-precisely,Precisely,common,,,False
+symmetra-put-you-in-your-place,symmetra-put-you-in-your-place,Put you in your place,common,,,False
+symmetra-welcome-to-my-reality,symmetra-welcome-to-my-reality,Welcome to my reality,common,,,False
+symmetra-why-do-you-struggle,symmetra-why-do-you-struggle,Why do you struggle?,common,,,False
+symmetra-hard-work-and-dedication,symmetra-hard-work-and-dedication,Hard work and dedication,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+symmetra-a-frightening-thought,symmetra-a-frightening-thought,A frightening thought,common,HALLOWEEN,HALLOWEEN_2016,False
+symmetra-i-made-you-something,symmetra-i-made-you-something,I made you something,common,WINTER_WONDERLAND_2016,,False
+symmetra-good-fortune,symmetra-good-fortune,Good fortune,common,YEAR_OF_THE_ROOSTER_2017,,False
+symmetra-kindly-adjust,symmetra-kindly-adjust,Kindly adjust,common,UPRISING_2017,,False
+symmetra-taken-under-advisement,symmetra-taken-under-advisement,Taken under advisement,common,UPRISING_2017,,False
+symmetra-setting-up-the-car-wash,symmetra-setting-up-the-car-wash,Setting up the car wash,common,ANNIVERSARY_2017,,False
+symmetra-your-mind-works,symmetra-your-mind-works,Your mind works,common,ANNIVERSARY_2017,,False
+symmetra-victory-is-everything,symmetra-victory-is-everything,Victory is everything,common,SUMMER_GAMES,,False
+symmetra-the-treat-is-a-lie,symmetra-the-treat-is-a-lie,The treat is a lie,common,HALLOWEEN,,False
+symmetra-sentry,symmetra-sentry,Sentry,,,,False
+symmetra-symmetra,symmetra-symmetra,Symmetra,,,,False
+symmetra-vishkar,symmetra-vishkar,Vishkar,,,,False
+symmetra-rhythmic-gymnastics,symmetra-rhythmic-gymnastics,Rhythmic Gymnastics,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+symmetra-vaswanniversary,symmetra-vaswanniversary,Vaswanniversary,,ANNIVERSARY_2017,,False
+symmetra-the-summoner,symmetra-the-summoner,The Summoner,,HALLOWEEN,,False
+symmetra-heroic,symmetra-heroic,Heroic,common,,,True
+symmetra-clap,symmetra-clap,Clap,epic,,,False
+symmetra-flow,symmetra-flow,Flow,epic,,,False
+symmetra-have-a-seat,symmetra-have-a-seat,Have a Seat,epic,,,False
+symmetra-insignificant,symmetra-insignificant,Insignificant,epic,,,False
+symmetra-snicker,symmetra-snicker,Snicker,epic,,,False
+symmetra-ribbon,symmetra-ribbon,Ribbon,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+symmetra-dance,symmetra-dance,Dance,epic,ANNIVERSARY_2017,,False
+symmetra-classic,symmetra-classic,Classic,common,,,True
+symmetra-cardamom,symmetra-cardamom,Cardamom,rare,,,False
+symmetra-hyacinth,symmetra-hyacinth,Hyacinth,rare,,,False
+symmetra-saffron,symmetra-saffron,Saffron,rare,,,False
+symmetra-technomancer,symmetra-technomancer,Technomancer,rare,,,False
+symmetra-regal,symmetra-regal,Regal,epic,,,False
+symmetra-utopaea,symmetra-utopaea,Utopaea,epic,,,False
+symmetra-vampire,symmetra-vampire,Vampire,epic,HALLOWEEN,HALLOWEEN_2016,False
+symmetra-qipao,symmetra-qipao,Qipao,epic,YEAR_OF_THE_ROOSTER_2017,,False
+symmetra-architech,symmetra-architech,Architech,legendary,,,False
+symmetra-devi,symmetra-devi,Devi,legendary,,,False
+symmetra-goddess,symmetra-goddess,Goddess,legendary,,,False
+symmetra-vishkar,symmetra-vishkar,Vishkar,legendary,,,False
+symmetra-oasis,symmetra-oasis,Oasis,legendary,ANNIVERSARY_2017,,False
+symmetra-dragon,symmetra-dragon,Dragon,legendary,HALLOWEEN,,False
+symmetra-agent,symmetra-agent,Agent,common,,,False
+symmetra-architect,symmetra-architect,Architect,common,,,False
+symmetra-behold,symmetra-behold,Behold,common,,,False
+symmetra-blueprint,symmetra-blueprint,Blueprint,common,,,False
+symmetra-builder,symmetra-builder,Builder,common,,,False
+symmetra-car-wash,symmetra-car-wash,Car Wash,common,,,False
+symmetra-caution,symmetra-caution,Caution,common,,,False
+symmetra-design,symmetra-design,Design,common,,,False
+symmetra-glove,symmetra-glove,Glove,common,,,False
+symmetra-icon,symmetra-icon,Icon,common,,,False
+symmetra-light,symmetra-light,Light,common,,,False
+symmetra-lines,symmetra-lines,Lines,common,,,False
+symmetra-lotus,symmetra-lotus,Lotus,common,,,False
+symmetra-pose,symmetra-pose,Pose,common,,,False
+symmetra-projector,symmetra-projector,Projector,common,,,False
+symmetra-satya,symmetra-satya,Satya,common,,,False
+symmetra-superior,symmetra-superior,Superior,common,,,False
+symmetra-the-path,symmetra-the-path,The Path,common,,,False
+symmetra-vaswani,symmetra-vaswani,Vaswani,common,,,False
+symmetra-vishkar,symmetra-vishkar,Vishkar,common,,,False
+symmetra-visor,symmetra-visor,Visor,common,,,False
+symmetra-weaver,symmetra-weaver,Weaver,common,,,False
+symmetra-will,symmetra-will,Will,common,,,False
+symmetra-rhythmic,symmetra-rhythmic,Rhythmic,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+symmetra-trick-or-treat,symmetra-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+symmetra-ornament,symmetra-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+symmetra-snowflake,symmetra-snowflake,Snowflake,common,WINTER_WONDERLAND_2016,,False
+symmetra-dragon-dance,symmetra-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+symmetra-lantern,symmetra-lantern,Lantern,common,YEAR_OF_THE_ROOSTER_2017,,False
+symmetra-student,symmetra-student,Student,common,UPRISING_2017,,False
+symmetra-nine-of-diamonds,symmetra-nine-of-diamonds,Nine of Diamonds,common,ANNIVERSARY_2017,,False
+symmetra-cute,symmetra-cute,Cute,common,,,False
+symmetra-pixel,symmetra-pixel,Pixel,common,,,False
+symmetra-heroic,symmetra-heroic,Heroic,common,,,True
+symmetra-askew,symmetra-askew,Askew,epic,,,False
+symmetra-dance,symmetra-dance,Dance,epic,,,False
+symmetra-my-reality,symmetra-my-reality,My reality,epic,,,False
+symmetra-snowflakes,symmetra-snowflakes,Snowflakes,epic,WINTER_WONDERLAND_2016,,False
+symmetra-heroic,symmetra-heroic,Heroic,common,,,True
+symmetra-balance,symmetra-balance,Balance,rare,,,False
+symmetra-creation,symmetra-creation,Creation,rare,,,False
+symmetra-dance,symmetra-dance,Dance,rare,,,False
+symmetra-rip,symmetra-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+symmetra-light-reading,symmetra-light-reading,Light Reading,rare,UPRISING_2017,,False
+symmetra-medal,symmetra-medal,Medal,rare,SUMMER_GAMES,,False
+pharah-security-in-my-hands,pharah-security-in-my-hands,Security in my hands,common,,,True
+pharah-aerial-superiority-achieved,pharah-aerial-superiority-achieved,Aerial superiority achieved,common,,,False
+pharah-fly-like-an-egyptian,pharah-fly-like-an-egyptian,Fly like an egyptian,common,,,False
+pharah-flying-the-friendly-skies,pharah-flying-the-friendly-skies,Flying the friendly skies,common,,,False
+pharah-got-you-on-my-radar,pharah-got-you-on-my-radar,Got you on my radar,common,,,False
+pharah-leave-this-to-a-professional,pharah-leave-this-to-a-professional,Leave this to a professional,common,,,False
+pharah-not-a-chance,pharah-not-a-chance,Not a chance,common,,,False
+pharah-play-nice-play-pharah,pharah-play-nice-play-pharah,"Play nice, play Pharah",common,,,False
+pharah-rocket-jump,pharah-rocket-jump,Rocket jump?,common,,,False
+pharah-shot-down,pharah-shot-down,Shot down,common,,,False
+pharah-sorry-but-i-need-to-jet,pharah-sorry-but-i-need-to-jet,"Sorry, but I need to jet",common,,,False
+pharah-we-are-in-this-together,pharah-we-are-in-this-together,We are in this together,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+pharah-dead-or-alive,pharah-dead-or-alive,Dead or alive,common,HALLOWEEN,HALLOWEEN_2016,False
+pharah-the-forecast,pharah-the-forecast,The forecast,common,WINTER_WONDERLAND_2016,,False
+pharah-i-keep-the-peace,pharah-i-keep-the-peace,I keep the peace,common,YEAR_OF_THE_ROOSTER_2017,,False
+pharah-dont-take-it-personally,pharah-dont-take-it-personally,Don't take it personally,common,UPRISING_2017,,False
+pharah-i-am-the-rocket-queen,pharah-i-am-the-rocket-queen,I am the Rocket Queen,common,UPRISING_2017,,False
+pharah-fly-casual,pharah-fly-casual,Fly casual,common,ANNIVERSARY_2017,,False
+pharah-try-me,pharah-try-me,Try me,common,ANNIVERSARY_2017,,False
+pharah-clear-skies-full-hearts,pharah-clear-skies-full-hearts,"Clear skies, full hearts",common,SUMMER_GAMES,,False
+pharah-im-so-scared,pharah-im-so-scared,I'm so scared,common,HALLOWEEN,,False
+pharah-pharah,pharah-pharah,Pharah,,,,False
+pharah-raptora,pharah-raptora,Raptora,,,,False
+pharah-wadjet,pharah-wadjet,Wadjet,,,,False
+pharah-basketball,pharah-basketball,Basketball,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+pharah-anniversareeha,pharah-anniversareeha,Anniversareeha,,ANNIVERSARY_2017,,False
+pharah-heroic,pharah-heroic,Heroic,common,,,True
+pharah-cheer,pharah-cheer,Cheer,epic,,,False
+pharah-chuckle,pharah-chuckle,Chuckle,epic,,,False
+pharah-flourish,pharah-flourish,Flourish,epic,,,False
+pharah-knuckles,pharah-knuckles,Knuckles,epic,,,False
+pharah-take-a-knee,pharah-take-a-knee,Take a knee,epic,,,False
+pharah-flair,pharah-flair,Flair,epic,UPRISING_2017,,False
+pharah-rocket-guitar,pharah-rocket-guitar,Rocket Guitar,epic,ANNIVERSARY_2017,,False
+pharah-classic,pharah-classic,Classic,common,,,True
+pharah-amethyst,pharah-amethyst,Amethyst,rare,,,False
+pharah-copper,pharah-copper,Copper,rare,,,False
+pharah-emerald,pharah-emerald,Emerald,rare,,,False
+pharah-titanium,pharah-titanium,Titanium,rare,,,False
+pharah-anubis,pharah-anubis,Anubis,epic,,,False
+pharah-jackal,pharah-jackal,Jackal,epic,,,False
+pharah-possessed,pharah-possessed,Possessed,epic,HALLOWEEN,HALLOWEEN_2016,False
+pharah-frostbite,pharah-frostbite,Frostbite,epic,WINTER_WONDERLAND_2016,,False
+pharah-mechaqueen,pharah-mechaqueen,Mechaqueen,legendary,,,False
+pharah-raindancer,pharah-raindancer,Raindancer,legendary,,,False
+pharah-raptorion,pharah-raptorion,Raptorion,legendary,,,False
+pharah-thunderbird,pharah-thunderbird,Thunderbird,legendary,,,False
+pharah-bedouin,pharah-bedouin,Bedouin,legendary,ANNIVERSARY_2017,,False
+pharah-security-chief,pharah-security-chief,Security Chief,legendary,,,False
+pharah-aerial-superiority,pharah-aerial-superiority,Aerial Superiority,common,,,False
+pharah-amari,pharah-amari,Amari,common,,,False
+pharah-ana,pharah-ana,Ana,common,,,False
+pharah-cobra,pharah-cobra,Cobra,common,,,False
+pharah-concussive-blast,pharah-concussive-blast,Concussive Blast,common,,,False
+pharah-guardian,pharah-guardian,Guardian,common,,,False
+pharah-hieroglyph,pharah-hieroglyph,Hieroglyph,common,,,False
+pharah-icon,pharah-icon,Icon,common,,,False
+pharah-incoming,pharah-incoming,Incoming,common,,,False
+pharah-justice,pharah-justice,Justice...,common,,,False
+pharah-on-guard,pharah-on-guard,On Guard,common,,,False
+pharah-play-pharah,pharah-play-pharah,Play Pharah,common,,,False
+pharah-raptora,pharah-raptora,Raptora,common,,,False
+pharah-rocket-jump,pharah-rocket-jump,Rocket Jump,common,,,False
+pharah-rocket-launcher,pharah-rocket-launcher,Rocket Launcher,common,,,False
+pharah-salute,pharah-salute,Salute,common,,,False
+pharah-scarab,pharah-scarab,Scarab,common,,,False
+pharah-statue,pharah-statue,Statue,common,,,False
+pharah-stone,pharah-stone,Stone,common,,,False
+pharah-tattoo,pharah-tattoo,Tattoo,common,,,False
+pharah-wedjat,pharah-wedjat,Wedjat,common,,,False
+pharah-wings,pharah-wings,Wings,common,,,False
+pharah-wrist-launcher,pharah-wrist-launcher,Wrist Launcher,common,,,False
+pharah-basketball,pharah-basketball,Basketball,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+pharah-trick-or-treat,pharah-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+pharah-ice-fishing,pharah-ice-fishing,Ice Fishing,common,WINTER_WONDERLAND_2016,,False
+pharah-ornament,pharah-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+pharah-dragon-dance,pharah-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+pharah-happy-new-year,pharah-happy-new-year,Happy New Year,common,YEAR_OF_THE_ROOSTER_2017,,False
+pharah-target-practice,pharah-target-practice,Target Practice,common,UPRISING_2017,,False
+pharah-queen-of-diamonds,pharah-queen-of-diamonds,Queen of Diamonds,common,ANNIVERSARY_2017,,False
+pharah-cute,pharah-cute,Cute,common,,,False
+pharah-pixel,pharah-pixel,Pixel,common,,,False
+pharah-heroic,pharah-heroic,Heroic,common,,,True
+pharah-barrage,pharah-barrage,Barrage,epic,,,False
+pharah-mission-complete,pharah-mission-complete,Mission Complete,epic,,,False
+pharah-touchdown,pharah-touchdown,Touchdown,epic,,,False
+pharah-slam-dunk,pharah-slam-dunk,Slam Dunk,epic,SUMMER_GAMES,,False
+pharah-heroic,pharah-heroic,Heroic,common,,,True
+pharah-guardian,pharah-guardian,Guardian,rare,,,False
+pharah-jump-jet,pharah-jump-jet,Jump Jet,rare,,,False
+pharah-kneeling,pharah-kneeling,Kneeling,rare,,,False
+pharah-medal,pharah-medal,Medal,rare,SUMMER_GAMES,SUMMER_GAMES_2016,False
+pharah-rip,pharah-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+pharah-toast,pharah-toast,Toast,rare,WINTER_WONDERLAND_2016,,False
+torbjorn-hard-work-pays-off,torbjorn-hard-work-pays-off,Hard work pays off,common,,,True
+torbjorn-a-chicken-out-of-a-feather,torbjorn-a-chicken-out-of-a-feather,A chicken out of a feather,common,,,False
+torbjorn-completion-date,torbjorn-completion-date,Completion date?,common,,,False
+torbjorn-dont-get-caught,torbjorn-dont-get-caught,Don't get caught,common,,,False
+torbjorn-engineers,torbjorn-engineers,Engineers,common,,,False
+torbjorn-im-giving-it-all-ive-got,torbjorn-im-giving-it-all-ive-got,I'm giving it all I've got!,common,,,False
+torbjorn-im-swedish,torbjorn-im-swedish,I'm Swedish!,common,,,False
+torbjorn-leave-this-to-an-expert,torbjorn-leave-this-to-an-expert,Leave this to an expert,common,,,False
+torbjorn-lets-not-buy-the-pig,torbjorn-lets-not-buy-the-pig,Let's not buy the pig,common,,,False
+torbjorn-some-assembly-required,torbjorn-some-assembly-required,Some assembly required,common,,,False
+torbjorn-working-as-intended,torbjorn-working-as-intended,Working as intended,common,,,False
+torbjorn-more-where-that-came-from,torbjorn-more-where-that-came-from,More where that came from,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+torbjorn-if-you-build-it,torbjorn-if-you-build-it,If you build it,common,HALLOWEEN,HALLOWEEN_2016,False
+torbjorn-made-to-order,torbjorn-made-to-order,Made to order,common,WINTER_WONDERLAND_2016,,False
+torbjorn-too-hot-for-you,torbjorn-too-hot-for-you,Too hot for you?,common,YEAR_OF_THE_ROOSTER_2017,,False
+torbjorn-just-start-hammering,torbjorn-just-start-hammering,Just start hammering,common,UPRISING_2017,,False
+torbjorn-poor-craftsman,torbjorn-poor-craftsman,Poor craftsman,common,UPRISING_2017,,False
+torbjorn-hear-me-baby,torbjorn-hear-me-baby,"Hear me, baby?",common,ANNIVERSARY_2017,,False
+torbjorn-trust-me,torbjorn-trust-me,Trust me,common,ANNIVERSARY_2017,,False
+torbjorn-theres-no-prize-for-second,torbjorn-theres-no-prize-for-second,There's no prize for second,common,SUMMER_GAMES,,False
+torbjorn-i-smell-trouble-brewing,torbjorn-i-smell-trouble-brewing,I smell trouble brewing,common,HALLOWEEN,,False
+torbjorn-forge,torbjorn-forge,Forge,,,,False
+torbjorn-gears,torbjorn-gears,Gears,,,,False
+torbjorn-torbjorn,torbjorn-torbjorn,Torbjörn,,,,False
+torbjorn-water-polo,torbjorn-water-polo,Water Polo,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+torbjorn-santaclad,torbjorn-santaclad,Santaclad,,WINTER_WONDERLAND_2016,,False
+torbjorn-chief-engineer,torbjorn-chief-engineer,Chief Engineer,,UPRISING_2017,,False
+torbjorn-goldclad,torbjorn-goldclad,Goldclad,,ANNIVERSARY_2017,,False
+torbjorn-viking,torbjorn-viking,Viking,,HALLOWEEN,,False
+torbjorn-heroic,torbjorn-heroic,Heroic,common,,,True
+torbjorn-clicking-heels,torbjorn-clicking-heels,Clicking heels,epic,,,False
+torbjorn-fisticuffs,torbjorn-fisticuffs,Fisticuffs,epic,,,False
+torbjorn-guffaw,torbjorn-guffaw,Guffaw,epic,,,False
+torbjorn-overload,torbjorn-overload,Overload,epic,,,False
+torbjorn-taking-a-break,torbjorn-taking-a-break,Taking a Break,epic,,,False
+torbjorn-dance,torbjorn-dance,Dance,epic,ANNIVERSARY_2017,,False
+torbjorn-batter-up,torbjorn-batter-up,Batter Up,epic,HALLOWEEN,,False
+torbjorn-classic,torbjorn-classic,Classic,common,,,True
+torbjorn-bla,torbjorn-bla,Blå,rare,,,False
+torbjorn-citron,torbjorn-citron,Citron,rare,,,False
+torbjorn-gron,torbjorn-gron,Grön,rare,,,False
+torbjorn-plommon,torbjorn-plommon,Plommon,rare,,,False
+torbjorn-cathode,torbjorn-cathode,Cathode,epic,,,False
+torbjorn-woodclad,torbjorn-woodclad,Woodclad,epic,,,False
+torbjorn-tre-kronor,torbjorn-tre-kronor,Tre Kronor,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+torbjorn-barbarossa,torbjorn-barbarossa,Barbarossa,legendary,,,False
+torbjorn-blackbeard,torbjorn-blackbeard,Blackbeard,legendary,,,False
+torbjorn-chopper,torbjorn-chopper,Chopper,legendary,,,False
+torbjorn-deadlock,torbjorn-deadlock,Deadlock,legendary,,,False
+torbjorn-santaclad,torbjorn-santaclad,Santaclad,legendary,WINTER_WONDERLAND_2016,,False
+torbjorn-chief-engineer-lindholm,torbjorn-chief-engineer-lindholm,Chief Engineer Lindholm,legendary,UPRISING_2017,,False
+torbjorn-ironclad,torbjorn-ironclad,Ironclad,legendary,UPRISING_2017,,False
+torbjorn-viking,torbjorn-viking,Viking,legendary,HALLOWEEN,,False
+torbjorn-armor,torbjorn-armor,Armor,common,,,False
+torbjorn-beard,torbjorn-beard,Beard,common,,,False
+torbjorn-catch-a-ride,torbjorn-catch-a-ride,Catch a Ride,common,,,False
+torbjorn-chef,torbjorn-chef,Chef,common,,,False
+torbjorn-claw,torbjorn-claw,Claw,common,,,False
+torbjorn-fix-it-up,torbjorn-fix-it-up,Fix It Up,common,,,False
+torbjorn-forged,torbjorn-forged,Forged,common,,,False
+torbjorn-gears,torbjorn-gears,Gears,common,,,False
+torbjorn-get-ready,torbjorn-get-ready,Get Ready,common,,,False
+torbjorn-hammer,torbjorn-hammer,Hammer,common,,,False
+torbjorn-hot,torbjorn-hot,Hot,common,,,False
+torbjorn-icon,torbjorn-icon,Icon,common,,,False
+torbjorn-ironclad,torbjorn-ironclad,Ironclad,common,,,False
+torbjorn-kanon,torbjorn-kanon,Kanon,common,,,False
+torbjorn-mask,torbjorn-mask,Mask,common,,,False
+torbjorn-molten-core,torbjorn-molten-core,Molten Core,common,,,False
+torbjorn-ready-to-work,torbjorn-ready-to-work,Ready to Work,common,,,False
+torbjorn-run,torbjorn-run,Run!,common,,,False
+torbjorn-smalt,torbjorn-smalt,Smält,common,,,False
+torbjorn-stoic,torbjorn-stoic,Stoic,common,,,False
+torbjorn-turret,torbjorn-turret,Turret,common,,,False
+torbjorn-turrets,torbjorn-turrets,Turrets,common,,,False
+torbjorn-uppgradera,torbjorn-uppgradera,Uppgradera,common,,,False
+torbjorn-water-polo,torbjorn-water-polo,Water Polo,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+torbjorn-trick-or-treat,torbjorn-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+torbjorn-ornament,torbjorn-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+torbjorn-workshop,torbjorn-workshop,Workshop,common,WINTER_WONDERLAND_2016,,False
+torbjorn-dragon-dance,torbjorn-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+torbjorn-gold,torbjorn-gold,Gold,common,YEAR_OF_THE_ROOSTER_2017,,False
+torbjorn-brigitte,torbjorn-brigitte,Brigitte,common,UPRISING_2017,,False
+torbjorn-king-of-clubs,torbjorn-king-of-clubs,King of Clubs,common,ANNIVERSARY_2017,,False
+torbjorn-cute,torbjorn-cute,Cute,common,,,False
+torbjorn-pixel,torbjorn-pixel,Pixel,common,,,False
+torbjorn-heroic,torbjorn-heroic,Heroic,common,,,True
+torbjorn-in-your-face,torbjorn-in-your-face,In your face,epic,,,False
+torbjorn-refreshing,torbjorn-refreshing,Refreshing,epic,,,False
+torbjorn-ride-em,torbjorn-ride-em,Ride 'Em,epic,,,False
+torbjorn-my-baby,torbjorn-my-baby,My baby,epic,UPRISING_2017,,False
+torbjorn-heroic,torbjorn-heroic,Heroic,common,,,True
+torbjorn-hammer,torbjorn-hammer,Hammer,rare,,,False
+torbjorn-sitting-pretty,torbjorn-sitting-pretty,Sitting Pretty,rare,,,False
+torbjorn-take-five,torbjorn-take-five,Take five,rare,,,False
+torbjorn-medal,torbjorn-medal,Medal,rare,SUMMER_GAMES,SUMMER_GAMES_2016,False
+torbjorn-rip,torbjorn-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+torbjorn-toast,torbjorn-toast,Toast,rare,WINTER_WONDERLAND_2016,,False
+widowmaker-a-single-death,widowmaker-a-single-death,A single death,common,,,True
+widowmaker-encore,widowmaker-encore,Encore?,common,,,False
+widowmaker-let-them-eat-cake,widowmaker-let-them-eat-cake,Let them eat cake,common,,,False
+widowmaker-look-for-the-woman,widowmaker-look-for-the-woman,Look for the woman,common,,,False
+widowmaker-magnifique,widowmaker-magnifique,Magnifique,common,,,False
+widowmaker-one-shot-one-kill,widowmaker-one-shot-one-kill,"One shot, one kill",common,,,False
+widowmaker-ouh-la-la,widowmaker-ouh-la-la,Ouh là là,common,,,False
+widowmaker-step-into-my-parlor,widowmaker-step-into-my-parlor,Step into my parlor...,common,,,False
+widowmaker-thats-how-it-is,widowmaker-thats-how-it-is,That's how it is,common,,,False
+widowmaker-to-life-to-death,widowmaker-to-life-to-death,"To life, to death",common,,,False
+widowmaker-whats-an-aimbot,widowmaker-whats-an-aimbot,What's an aimbot?,common,,,False
+widowmaker-i-dont-miss,widowmaker-i-dont-miss,I don't miss,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+widowmaker-the-party-is-over,widowmaker-the-party-is-over,The party is over,common,HALLOWEEN,HALLOWEEN_2016,False
+widowmaker-exquisite,widowmaker-exquisite,Exquisite,common,WINTER_WONDERLAND_2016,,False
+widowmaker-you-have-my-attention,widowmaker-you-have-my-attention,You have my attention,common,YEAR_OF_THE_ROOSTER_2017,,False
+widowmaker-the-performance-begins,widowmaker-the-performance-begins,The performance begins,common,UPRISING_2017,,False
+widowmaker-your-emotions,widowmaker-your-emotions,Your emotions,common,UPRISING_2017,,False
+widowmaker-sorry,widowmaker-sorry,Sorry,common,ANNIVERSARY_2017,,False
+widowmaker-what-a-bore,widowmaker-what-a-bore,What a bore,common,ANNIVERSARY_2017,,False
+widowmaker-a-perfect-10,widowmaker-a-perfect-10,A perfect 10,common,SUMMER_GAMES,,False
+widowmaker-morning-spider,widowmaker-morning-spider,Morning spider...,common,HALLOWEEN,,False
+widowmaker-baiser,widowmaker-baiser,Baiser,,,,False
+widowmaker-grappling-hook,widowmaker-grappling-hook,Grappling Hook,,,,False
+widowmaker-widowmaker,widowmaker-widowmaker,Widowmaker,,,,False
+widowmaker-gymnastics,widowmaker-gymnastics,Gymnastics,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+widowmaker-lacroix,widowmaker-lacroix,Lacroix,,UPRISING_2017,,False
+widowmaker-dor,widowmaker-dor,D'or,,ANNIVERSARY_2017,,False
+widowmaker-heroic,widowmaker-heroic,Heroic,common,,,True
+widowmaker-at-rest,widowmaker-at-rest,At Rest,epic,,,False
+widowmaker-curtain-call,widowmaker-curtain-call,Curtain Call,epic,,,False
+widowmaker-delighted,widowmaker-delighted,Delighted,epic,,,False
+widowmaker-shot-dead,widowmaker-shot-dead,Shot Dead,epic,,,False
+widowmaker-widows-kiss,widowmaker-widows-kiss,Widow's kiss,epic,,,False
+widowmaker-ballet,widowmaker-ballet,Ballet,epic,ANNIVERSARY_2017,,False
+widowmaker-classic,widowmaker-classic,Classic,common,,,True
+widowmaker-ciel,widowmaker-ciel,Ciel,rare,,,False
+widowmaker-nuit,widowmaker-nuit,Nuit,rare,,,False
+widowmaker-rose,widowmaker-rose,Rose,rare,,,False
+widowmaker-vert,widowmaker-vert,Vert,rare,,,False
+widowmaker-patina,widowmaker-patina,Patina,epic,,,False
+widowmaker-winter,widowmaker-winter,Winter,epic,,,False
+widowmaker-tricolore,widowmaker-tricolore,Tricolore,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+widowmaker-comtesse,widowmaker-comtesse,Comtesse,legendary,,,False
+widowmaker-huntress,widowmaker-huntress,Huntress,legendary,,,False
+widowmaker-odette,widowmaker-odette,Odette,legendary,,,False
+widowmaker-odile,widowmaker-odile,Odile,legendary,,,False
+widowmaker-talon,widowmaker-talon,Talon,legendary,UPRISING_2017,,False
+widowmaker-cote-dazur,widowmaker-cote-dazur,Côte d'Azur,legendary,SUMMER_GAMES,,False
+widowmaker-noire,widowmaker-noire,Noire,legendary,,,False
+widowmaker-baiser,widowmaker-baiser,Baiser,common,,,False
+widowmaker-black-widow,widowmaker-black-widow,Black Widow,common,,,False
+widowmaker-blood,widowmaker-blood,Blood,common,,,False
+widowmaker-crouch,widowmaker-crouch,Crouch,common,,,False
+widowmaker-detected,widowmaker-detected,Detected,common,,,False
+widowmaker-emblem,widowmaker-emblem,Emblem,common,,,False
+widowmaker-gaze,widowmaker-gaze,Gaze,common,,,False
+widowmaker-hourglass,widowmaker-hourglass,Hourglass,common,,,False
+widowmaker-icon,widowmaker-icon,Icon,common,,,False
+widowmaker-in-my-sights,widowmaker-in-my-sights,In My Sights,common,,,False
+widowmaker-je-te-vois,widowmaker-je-te-vois,Je Te Vois,common,,,False
+widowmaker-kneeling,widowmaker-kneeling,Kneeling,common,,,False
+widowmaker-no-one-escapes,widowmaker-no-one-escapes,No One Escapes,common,,,False
+widowmaker-noire,widowmaker-noire,Noire,common,,,False
+widowmaker-portrait,widowmaker-portrait,Portrait,common,,,False
+widowmaker-scope,widowmaker-scope,Scope,common,,,False
+widowmaker-sniper,widowmaker-sniper,Sniper,common,,,False
+widowmaker-spider,widowmaker-spider,Spider,common,,,False
+widowmaker-swing,widowmaker-swing,Swing,common,,,False
+widowmaker-une-balle,widowmaker-une-balle,Une Balle,common,,,False
+widowmaker-veuve,widowmaker-veuve,Veuve,common,,,False
+widowmaker-widow,widowmaker-widow,Widow,common,,,False
+widowmaker-widows-kiss,widowmaker-widows-kiss,Widow's Kiss,common,,,False
+widowmaker-gymnastics,widowmaker-gymnastics,Gymnastics,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+widowmaker-trick-or-treat,widowmaker-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+widowmaker-ornament,widowmaker-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+widowmaker-skiing,widowmaker-skiing,Skiing,common,WINTER_WONDERLAND_2016,,False
+widowmaker-dragon-dance,widowmaker-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+widowmaker-hairpin,widowmaker-hairpin,Hairpin,common,YEAR_OF_THE_ROOSTER_2017,,False
+widowmaker-wedding,widowmaker-wedding,Wedding,common,UPRISING_2017,,False
+widowmaker-queen-of-hearts,widowmaker-queen-of-hearts,Queen of Hearts,common,ANNIVERSARY_2017,,False
+widowmaker-cute,widowmaker-cute,Cute,common,,,False
+widowmaker-pixel,widowmaker-pixel,Pixel,common,,,False
+widowmaker-heroic,widowmaker-heroic,Heroic,common,,,True
+widowmaker-hanging-around,widowmaker-hanging-around,Hanging Around,epic,,,False
+widowmaker-i-see-you,widowmaker-i-see-you,I see you...,epic,,,False
+widowmaker-swinging-into-action,widowmaker-swinging-into-action,Swinging into Action,epic,,,False
+widowmaker-under-the-mistletoe,widowmaker-under-the-mistletoe,Under the Mistletoe,epic,WINTER_WONDERLAND_2016,,False
+widowmaker-heroic,widowmaker-heroic,Heroic,common,,,True
+widowmaker-activating-visor,widowmaker-activating-visor,Activating Visor,rare,,,False
+widowmaker-gaze,widowmaker-gaze,Gaze,rare,,,False
+widowmaker-over-the-shoulder,widowmaker-over-the-shoulder,Over the Shoulder,rare,,,False
+widowmaker-medal,widowmaker-medal,Medal,rare,SUMMER_GAMES,SUMMER_GAMES_2016,False
+widowmaker-rip,widowmaker-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+junkrat-ticktockticktock,junkrat-ticktockticktock,Tick-tock-tick-tock,common,,,True
+junkrat-blow-it-up-again,junkrat-blow-it-up-again,...blow it up again,common,,,False
+junkrat-anyone-want-some-bbq,junkrat-anyone-want-some-bbq,Anyone want some bbq?,common,,,False
+junkrat-brrring,junkrat-brrring,Brrring!,common,,,False
+junkrat-coming-up-explodey,junkrat-coming-up-explodey,Coming up explodey!,common,,,False
+junkrat-happy-birthday,junkrat-happy-birthday,Happy birthday,common,,,False
+junkrat-have-a-nice-day,junkrat-have-a-nice-day,Have a nice day!,common,,,False
+junkrat-its-the-little-things,junkrat-its-the-little-things,It's the little things,common,,,False
+junkrat-kaboom,junkrat-kaboom,Kaboom,common,,,False
+junkrat-ooh-shiny,junkrat-ooh-shiny,"Ooh, shiny",common,,,False
+junkrat-smile,junkrat-smile,Smile!,common,,,False
+junkrat-i-give-it-a-10,junkrat-i-give-it-a-10,I give it a 10!,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+junkrat-happy-halloween,junkrat-happy-halloween,Happy Halloween,common,HALLOWEEN,HALLOWEEN_2016,False
+junkrat-merry-christmas,junkrat-merry-christmas,Merry Christmas,common,WINTER_WONDERLAND_2016,,False
+junkrat-gong-xi-fa-cai,junkrat-gong-xi-fa-cai,Gong Xi Fa Cai,common,YEAR_OF_THE_ROOSTER_2017,,False
+junkrat-come-the-raw-prawn,junkrat-come-the-raw-prawn,Come the raw prawn,common,UPRISING_2017,,False
+junkrat-too-right,junkrat-too-right,Too right,common,UPRISING_2017,,False
+junkrat-dipstick,junkrat-dipstick,Dipstick,common,ANNIVERSARY_2017,,False
+junkrat-oops-dropped-something,junkrat-oops-dropped-something,Oops... Dropped Something,common,ANNIVERSARY_2017,,False
+junkrat-i-give-it-a-3,junkrat-i-give-it-a-3,I give it a 3!,common,SUMMER_GAMES,,False
+junkrat-im-alive,junkrat-im-alive,I'm alive!,common,HALLOWEEN,,False
+junkrat-ahhhh,junkrat-ahhhh,AHHHH!,,,,False
+junkrat-have-a-nice-day,junkrat-have-a-nice-day,Have a Nice Day!,,,,False
+junkrat-junkrat,junkrat-junkrat,Junkrat,,,,False
+junkrat-tennis,junkrat-tennis,Tennis,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+junkrat-the-doctor,junkrat-the-doctor,The Doctor,,HALLOWEEN,HALLOWEEN_2016,False
+junkrat-goldrat,junkrat-goldrat,Goldrat,,ANNIVERSARY_2017,,False
+junkrat-heroic,junkrat-heroic,Heroic,common,,,True
+junkrat-cant-deal,junkrat-cant-deal,Can't deal,epic,,,False
+junkrat-juggling,junkrat-juggling,Juggling,epic,,,False
+junkrat-lounging,junkrat-lounging,Lounging,epic,,,False
+junkrat-puppet,junkrat-puppet,Puppet,epic,,,False
+junkrat-vaudeville,junkrat-vaudeville,Vaudeville,epic,,,False
+junkrat-dud,junkrat-dud,Dud?,epic,YEAR_OF_THE_ROOSTER_2017,,False
+junkrat-running-rat,junkrat-running-rat,Running Rat,epic,ANNIVERSARY_2017,,False
+junkrat-classic,junkrat-classic,Classic,common,,,True
+junkrat-bleached,junkrat-bleached,Bleached,rare,,,False
+junkrat-drowned,junkrat-drowned,Drowned,rare,,,False
+junkrat-irradiated,junkrat-irradiated,Irradiated,rare,,,False
+junkrat-rusted,junkrat-rusted,Rusted,rare,,,False
+junkrat-jailbird,junkrat-jailbird,Jailbird,epic,,,False
+junkrat-toasted,junkrat-toasted,Toasted,epic,,,False
+junkrat-firework,junkrat-firework,Firework,epic,YEAR_OF_THE_ROOSTER_2017,,False
+junkrat-fool,junkrat-fool,Fool,legendary,,,False
+junkrat-hayseed,junkrat-hayseed,Hayseed,legendary,,,False
+junkrat-jester,junkrat-jester,Jester,legendary,,,False
+junkrat-scarecrow,junkrat-scarecrow,Scarecrow,legendary,,,False
+junkrat-dr-junkenstein,junkrat-dr-junkenstein,Dr. Junkenstein,legendary,HALLOWEEN,HALLOWEEN_2016,False
+junkrat-cricket,junkrat-cricket,Cricket,legendary,SUMMER_GAMES,,False
+junkrat-ahhhh,junkrat-ahhhh,AHHHH!,common,,,False
+junkrat-bang-bang,junkrat-bang-bang,Bang Bang,common,,,False
+junkrat-crazy,junkrat-crazy,Crazy,common,,,False
+junkrat-fireball,junkrat-fireball,Fireball,common,,,False
+junkrat-firework,junkrat-firework,Firework,common,,,False
+junkrat-for-you,junkrat-for-you,For You,common,,,False
+junkrat-frag,junkrat-frag,Frag,common,,,False
+junkrat-fuse,junkrat-fuse,Fuse,common,,,False
+junkrat-grin,junkrat-grin,Grin,common,,,False
+junkrat-icon,junkrat-icon,Icon,common,,,False
+junkrat-junk,junkrat-junk,Junk,common,,,False
+junkrat-kaboom,junkrat-kaboom,Kaboom!,common,,,False
+junkrat-mad,junkrat-mad,Mad,common,,,False
+junkrat-mayhem,junkrat-mayhem,Mayhem,common,,,False
+junkrat-mine,junkrat-mine,Mine,common,,,False
+junkrat-minefield,junkrat-minefield,Minefield,common,,,False
+junkrat-rolling,junkrat-rolling,Rolling,common,,,False
+junkrat-smile,junkrat-smile,Smile,common,,,False
+junkrat-smoke,junkrat-smoke,Smoke,common,,,False
+junkrat-spin,junkrat-spin,Spin,common,,,False
+junkrat-trapper,junkrat-trapper,Trapper,common,,,False
+junkrat-vroom,junkrat-vroom,Vroom!!,common,,,False
+junkrat-wanted,junkrat-wanted,Wanted,common,,,False
+junkrat-tennis,junkrat-tennis,Tennis,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+junkrat-trick-or-treat,junkrat-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+junkrat-winter,junkrat-winter,"""WINTER""",common,WINTER_WONDERLAND_2016,,False
+junkrat-ornament,junkrat-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+junkrat-dragon-dance,junkrat-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+junkrat-im-flying,junkrat-im-flying,I'm flying!,common,YEAR_OF_THE_ROOSTER_2017,,False
+junkrat-sidecar,junkrat-sidecar,Sidecar,common,UPRISING_2017,,False
+junkrat-joker,junkrat-joker,Joker,common,ANNIVERSARY_2017,,False
+junkrat-cute,junkrat-cute,Cute,common,,,False
+junkrat-pixel,junkrat-pixel,Pixel,common,,,False
+junkrat-heroic,junkrat-heroic,Heroic,common,,,True
+junkrat-im-flying,junkrat-im-flying,I'm Flying!,epic,,,False
+junkrat-riptire,junkrat-riptire,RIP-Tire,epic,,,False
+junkrat-unfortunate,junkrat-unfortunate,Unfortunate,epic,,,False
+junkrat-shot-put,junkrat-shot-put,Shot Put,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+junkrat-heroic,junkrat-heroic,Heroic,common,,,True
+junkrat-itll-freeze-that-way,junkrat-itll-freeze-that-way,It'll Freeze That Way,rare,,,False
+junkrat-kneeling,junkrat-kneeling,Kneeling,rare,,,False
+junkrat-nyah-nyah,junkrat-nyah-nyah,Nyah nyah,rare,,,False
+junkrat-rip,junkrat-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+junkrat-bad-for-your-health,junkrat-bad-for-your-health,Bad for Your Health,rare,YEAR_OF_THE_ROOSTER_2017,,False
+junkrat-medal,junkrat-medal,Medal,rare,SUMMER_GAMES,,False
+junkrat-pumpkin,junkrat-pumpkin,Pumpkin,rare,HALLOWEEN,,False
+bastion-doowoo,bastion-doowoo,Doo-woo,common,,,True
+bastion-beeple,bastion-beeple,Beeple,common,,,False
+bastion-boo-boo-doo-de-doo,bastion-boo-boo-doo-de-doo,Boo boo doo de doo,common,,,False
+bastion-bweeeeeeeeeee,bastion-bweeeeeeeeeee,Bweeeeeeeeeee,common,,,False
+bastion-chirr-chirr-chirr,bastion-chirr-chirr-chirr,Chirr chirr chirr,common,,,False
+bastion-dahdah-weeeee,bastion-dahdah-weeeee,DAH-DAH WEEEEE!,common,,,False
+bastion-dun-dun-boop-boop,bastion-dun-dun-boop-boop,Dun dun boop boop,common,,,False
+bastion-dweet-dweet-dweet,bastion-dweet-dweet-dweet,Dweet dweet dweet!,common,,,False
+bastion-hee-hoo-hoo,bastion-hee-hoo-hoo,Hee hoo hoo,common,,,False
+bastion-shshsh,bastion-shshsh,Sh-sh-sh,common,,,False
+bastion-zwee,bastion-zwee,Zwee?,common,,,False
+bastion-whoovweeeeee,bastion-whoovweeeeee,WHOO-VWEEEEEE,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+bastion-wwwooooo,bastion-wwwooooo,W-W-Wooooo...?,common,HALLOWEEN,HALLOWEEN_2016,False
+bastion-dwee-doo-hoo,bastion-dwee-doo-hoo,DWEE DOO HOO,common,WINTER_WONDERLAND_2016,,False
+bastion-woop-doo-woo-dun-woop,bastion-woop-doo-woo-dun-woop,Woop doo woo dun woop,common,YEAR_OF_THE_ROOSTER_2017,,False
+bastion-dwee-wee-woh,bastion-dwee-wee-woh,DWEE WEE WOH,common,UPRISING_2017,,False
+bastion-zweeah-wheee-doo-woo,bastion-zweeah-wheee-doo-woo,ZWEE-AH WHEEE DOO WOO,common,UPRISING_2017,,False
+bastion-bewwoo-bewwoo,bastion-bewwoo-bewwoo,BEW-WOO BEW-WOO,common,ANNIVERSARY_2017,,False
+bastion-doo-dun-dun-woo,bastion-doo-dun-dun-woo,DOO DUN DUN WOO,common,ANNIVERSARY_2017,,False
+bastion-doododoo-dee,bastion-doododoo-dee,Doo-do-doo Dee!,common,SUMMER_GAMES,,False
+bastion-oooooooooooo,bastion-oooooooooooo,Oooooooooooo...,common,HALLOWEEN,,False
+bastion-bastion,bastion-bastion,Bastion,,,,False
+bastion-ganymede,bastion-ganymede,Ganymede,,,,False
+bastion-tank-crossing,bastion-tank-crossing,Tank Crossing,,,,False
+bastion-boxing,bastion-boxing,Boxing,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+bastion-goldbot,bastion-goldbot,Goldbot,,ANNIVERSARY_2017,,False
+bastion-heroic,bastion-heroic,Heroic,common,,,True
+bastion-alert-alert,bastion-alert-alert,Alert! Alert!,epic,,,False
+bastion-chortle,bastion-chortle,Chortle,epic,,,False
+bastion-dizzy,bastion-dizzy,Dizzy,epic,,,False
+bastion-rest-mode,bastion-rest-mode,Rest Mode,epic,,,False
+bastion-robot,bastion-robot,Robot,epic,,,False
+bastion-boxing,bastion-boxing,Boxing,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+bastion-robo-boogie,bastion-robo-boogie,Robo Boogie,epic,ANNIVERSARY_2017,,False
+bastion-classic,bastion-classic,Classic,common,,,True
+bastion-dawn,bastion-dawn,Dawn,rare,,,False
+bastion-meadow,bastion-meadow,Meadow,rare,,,False
+bastion-sky,bastion-sky,Sky,rare,,,False
+bastion-soot,bastion-soot,Soot,rare,,,False
+bastion-defense-matrix,bastion-defense-matrix,Defense Matrix,epic,,,False
+bastion-omnic-crisis,bastion-omnic-crisis,Omnic Crisis,epic,,,False
+bastion-tombstone,bastion-tombstone,Tombstone,epic,HALLOWEEN,HALLOWEEN_2016,False
+bastion-rooster,bastion-rooster,Rooster,epic,YEAR_OF_THE_ROOSTER_2017,,False
+bastion-null-sector,bastion-null-sector,Null Sector,epic,UPRISING_2017,,False
+bastion-blizzcon-2016,bastion-blizzcon-2016,BlizzCon 2016,epic,,,False
+bastion-antique,bastion-antique,Antique,legendary,,,False
+bastion-gearbot,bastion-gearbot,Gearbot,legendary,,,False
+bastion-steambot,bastion-steambot,Steambot,legendary,,,False
+bastion-woodbot,bastion-woodbot,Woodbot,legendary,,,False
+bastion-dune-buggy,bastion-dune-buggy,Dune Buggy,legendary,ANNIVERSARY_2017,,False
+bastion-overgrown,bastion-overgrown,Overgrown,legendary,,,False
+bastion-action,bastion-action,Action,common,,,False
+bastion-bird,bastion-bird,Bird,common,,,False
+bastion-birdwatchers,bastion-birdwatchers,Birdwatchers,common,,,False
+bastion-black,bastion-black,Black,common,,,False
+bastion-blocks,bastion-blocks,Blocks,common,,,False
+bastion-cannon,bastion-cannon,Cannon,common,,,False
+bastion-crisis,bastion-crisis,Crisis,common,,,False
+bastion-curious,bastion-curious,Curious,common,,,False
+bastion-e54,bastion-e54,e54,common,,,False
+bastion-fire-at-will,bastion-fire-at-will,Fire At Will,common,,,False
+bastion-flight,bastion-flight,Flight,common,,,False
+bastion-flower-power,bastion-flower-power,Flower Power,common,,,False
+bastion-ganymede,bastion-ganymede,Ganymede,common,,,False
+bastion-giant,bastion-giant,Giant,common,,,False
+bastion-icon,bastion-icon,Icon,common,,,False
+bastion-in-repair,bastion-in-repair,In Repair,common,,,False
+bastion-nest,bastion-nest,Nest,common,,,False
+bastion-omnic,bastion-omnic,Omnic,common,,,False
+bastion-overgrown,bastion-overgrown,Overgrown,common,,,False
+bastion-recovery,bastion-recovery,Recovery,common,,,False
+bastion-retro,bastion-retro,Retro,common,,,False
+bastion-sprout,bastion-sprout,Sprout,common,,,False
+bastion-wood-and-stone,bastion-wood-and-stone,Wood and Stone,common,,,False
+bastion-boxing,bastion-boxing,Boxing,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+bastion-trick-or-treat,bastion-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+bastion-festive,bastion-festive,FESTIVE,common,WINTER_WONDERLAND_2016,,False
+bastion-ornament,bastion-ornament,ORNAMENT,common,WINTER_WONDERLAND_2016,,False
+bastion-bastyum,bastion-bastyum,Bast-yum,common,YEAR_OF_THE_ROOSTER_2017,,False
+bastion-dragon-dance,bastion-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+bastion-sunken,bastion-sunken,Sunken,common,UPRISING_2017,,False
+bastion-ten-of-clubs,bastion-ten-of-clubs,Ten of Clubs,common,ANNIVERSARY_2017,,False
+bastion-cute,bastion-cute,Cute,common,,,False
+bastion-pixel,bastion-pixel,Pixel,common,,,False
+bastion-heroic,bastion-heroic,Heroic,common,,,True
+bastion-bullet-rain,bastion-bullet-rain,Bullet Rain,epic,,,False
+bastion-ganymede,bastion-ganymede,Ganymede,epic,,,False
+bastion-on-guard,bastion-on-guard,On Guard,epic,,,False
+bastion-heroic,bastion-heroic,Heroic,common,,,True
+bastion-birdwatching,bastion-birdwatching,Birdwatching,rare,,,False
+bastion-pop-up,bastion-pop-up,Pop Up,rare,,,False
+bastion-tank,bastion-tank,Tank,rare,,,False
+bastion-rip,bastion-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+bastion-firework,bastion-firework,Firework,rare,YEAR_OF_THE_ROOSTER_2017,,False
+bastion-medal,bastion-medal,Medal,rare,SUMMER_GAMES,,False
+genji-a-steady-blade,genji-a-steady-blade,A steady blade,common,,,True
+genji-come-on,genji-come-on,Come on!,common,,,False
+genji-damn,genji-damn,Damn!,common,,,False
+genji-i-am-prepared,genji-i-am-prepared,I am prepared!,common,,,False
+genji-lets-fight,genji-lets-fight,Let's fight!,common,,,False
+genji-measure-twice-cut-once,genji-measure-twice-cut-once,"Measure twice, cut once",common,,,False
+genji-my-soul-seeks-balance,genji-my-soul-seeks-balance,My soul seeks balance,common,,,False
+genji-not-good-enough,genji-not-good-enough,Not good enough,common,,,False
+genji-simple,genji-simple,Simple,common,,,False
+genji-yeah,genji-yeah,Yeah!,common,,,False
+genji-you-are-only-human,genji-you-are-only-human,You are only human,common,,,False
+genji-i-was-hoping-for-a-challenge,genji-i-was-hoping-for-a-challenge,Hoping for a challenge,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+genji-my-halloween-costume,genji-my-halloween-costume,My Halloween costume?,common,HALLOWEEN,HALLOWEEN_2016,False
+genji-merry-christmas,genji-merry-christmas,Merry Christmas!,common,WINTER_WONDERLAND_2016,,False
+genji-to-know-yourself,genji-to-know-yourself,To know yourself,common,YEAR_OF_THE_ROOSTER_2017,,False
+genji-another,genji-another,Another!,common,UPRISING_2017,,False
+genji-life-and-death-balance,genji-life-and-death-balance,Life and death balance,common,UPRISING_2017,,False
+genji-im-not-impressed,genji-im-not-impressed,I'm Not Impressed,common,ANNIVERSARY_2017,,False
+genji-you-seem-nice,genji-you-seem-nice,You seem nice,common,ANNIVERSARY_2017,,False
+genji-touche,genji-touche,Touché,common,SUMMER_GAMES,,False
+genji-happy-halloween,genji-happy-halloween,Happy Halloween,common,HALLOWEEN,,False
+genji-genji,genji-genji,Genji,,,,False
+genji-god-of-war,genji-god-of-war,God of War,,,,False
+genji-nin,genji-nin,Nin,,,,False
+genji-oni,genji-oni,Oni,,,,False
+genji-fencing,genji-fencing,Fencing,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+genji-cyborg,genji-cyborg,Cyborg,,UPRISING_2017,,False
+genji-goldborg,genji-goldborg,Goldborg,,ANNIVERSARY_2017,,False
+genji-heroic,genji-heroic,Heroic,common,,,True
+genji-amusing,genji-amusing,Amusing,epic,,,False
+genji-challenge,genji-challenge,Challenge,epic,,,False
+genji-cutting-edge,genji-cutting-edge,Cutting Edge,epic,,,False
+genji-meditate,genji-meditate,Meditate,epic,,,False
+genji-salute,genji-salute,Salute,epic,,,False
+genji-dance,genji-dance,Dance,epic,ANNIVERSARY_2017,,False
+genji-classic,genji-classic,Classic,common,,,True
+genji-azurite,genji-azurite,Azurite,rare,,,False
+genji-cinnabar,genji-cinnabar,Cinnabar,rare,,,False
+genji-malachite,genji-malachite,Malachite,rare,,,False
+genji-ochre,genji-ochre,Ochre,rare,,,False
+genji-carbon-fiber,genji-carbon-fiber,Carbon Fiber,epic,,,False
+genji-chrome,genji-chrome,Chrome,epic,,,False
+genji-nihon,genji-nihon,Nihon,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+genji-bedouin,genji-bedouin,Bedouin,legendary,,,False
+genji-nomad,genji-nomad,Nomad,legendary,,,False
+genji-oni,genji-oni,Oni,legendary,,,False
+genji-sparrow,genji-sparrow,Sparrow,legendary,,,False
+genji-young-genji,genji-young-genji,Young Genji,legendary,,,False
+genji-blackwatch,genji-blackwatch,Blackwatch,legendary,UPRISING_2017,,False
+genji-sentai,genji-sentai,Sentai,legendary,ANNIVERSARY_2017,,False
+genji-assassin,genji-assassin,Assassin,common,,,False
+genji-dragon,genji-dragon,Dragon,common,,,False
+genji-dragonblade,genji-dragonblade,Dragonblade,common,,,False
+genji-draw,genji-draw,Draw,common,,,False
+genji-fully-loaded,genji-fully-loaded,Fully Loaded,common,,,False
+genji-god-of-war,genji-god-of-war,God of War,common,,,False
+genji-green-ninja,genji-green-ninja,Green Ninja,common,,,False
+genji-icon,genji-icon,Icon,common,,,False
+genji-kaze-no-gotoku,genji-kaze-no-gotoku,Kaze no Gotoku,common,,,False
+genji-lunge,genji-lunge,Lunge,common,,,False
+genji-nin,genji-nin,Nin,common,,,False
+genji-oni,genji-oni,Oni,common,,,False
+genji-onmyodo,genji-onmyodo,Onmyodo,common,,,False
+genji-prepared,genji-prepared,Prepared,common,,,False
+genji-ryugekiken,genji-ryugekiken,Ryugekiken,common,,,False
+genji-shimada,genji-shimada,Shimada,common,,,False
+genji-shuriken,genji-shuriken,Shuriken,common,,,False
+genji-signature,genji-signature,Signature,common,,,False
+genji-soul,genji-soul,Soul,common,,,False
+genji-stance,genji-stance,Stance,common,,,False
+genji-stoic,genji-stoic,Stoic,common,,,False
+genji-swords,genji-swords,Swords,common,,,False
+genji-target-practice,genji-target-practice,Target Practice,common,,,False
+genji-warrior,genji-warrior,Warrior,common,,,False
+genji-fencing,genji-fencing,Fencing,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+genji-trick-or-treat,genji-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+genji-kadomatsu,genji-kadomatsu,Kadomatsu,common,WINTER_WONDERLAND_2016,,False
+genji-ornament,genji-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+genji-dragon-dance,genji-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+genji-green-dragon,genji-green-dragon,Green Dragon,common,YEAR_OF_THE_ROOSTER_2017,,False
+genji-ramen,genji-ramen,Ramen,common,UPRISING_2017,,False
+genji-jack-of-clubs,genji-jack-of-clubs,Jack of Clubs,common,ANNIVERSARY_2017,,False
+genji-cute,genji-cute,Cute,common,,,False
+genji-pixel,genji-pixel,Pixel,common,,,False
+genji-heroic,genji-heroic,Heroic,common,,,True
+genji-shuriken,genji-shuriken,Shuriken,epic,,,False
+genji-unsheathing-the-sword,genji-unsheathing-the-sword,Unsheathing the Sword,epic,,,False
+genji-warriors-salute,genji-warriors-salute,Warrior's Salute,epic,,,False
+genji-pumpkin-carving,genji-pumpkin-carving,Pumpkin Carving,epic,HALLOWEEN,HALLOWEEN_2016,False
+genji-heroic,genji-heroic,Heroic,common,,,True
+genji-kneeling,genji-kneeling,Kneeling,rare,,,False
+genji-shuriken,genji-shuriken,Shuriken,rare,,,False
+genji-sword-stance,genji-sword-stance,Sword stance,rare,,,False
+genji-rip,genji-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+genji-meditate,genji-meditate,Meditate,rare,UPRISING_2017,,False
+reinhardt-i-salute-you,reinhardt-i-salute-you,I salute you,common,,,True
+reinhardt-are-you-afraid,reinhardt-are-you-afraid,Are you afraid?,common,,,False
+reinhardt-bring-me-another,reinhardt-bring-me-another,Bring me another,common,,,False
+reinhardt-catch-phrase,reinhardt-catch-phrase,Catch phrase!,common,,,False
+reinhardt-crusader-online,reinhardt-crusader-online,Crusader online,common,,,False
+reinhardt-crushing-machine,reinhardt-crushing-machine,Crushing machine,common,,,False
+reinhardt-german-engineering,reinhardt-german-engineering,German engineering,common,,,False
+reinhardt-honor-and-glory,reinhardt-honor-and-glory,Honor and glory,common,,,False
+reinhardt-respect-your-elders,reinhardt-respect-your-elders,Respect your elders,common,,,False
+reinhardt-show-you-how-its-done,reinhardt-show-you-how-its-done,Show you how it's done,common,,,False
+reinhardt-this-old-dog,reinhardt-this-old-dog,This old dog,common,,,False
+reinhardt-100-german-power,reinhardt-100-german-power,100% German power,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+reinhardt-smashing,reinhardt-smashing,Smashing,common,HALLOWEEN,HALLOWEEN_2016,False
+reinhardt-youre-on-my-naughty-list,reinhardt-youre-on-my-naughty-list,You're on my naughty list,common,WINTER_WONDERLAND_2016,,False
+reinhardt-are-you-chicken,reinhardt-are-you-chicken,Are you chicken?,common,YEAR_OF_THE_ROOSTER_2017,,False
+reinhardt-easy-does-it,reinhardt-easy-does-it,Easy does it,common,UPRISING_2017,,False
+reinhardt-unstoppable,reinhardt-unstoppable,Unstoppable,common,UPRISING_2017,,False
+reinhardt-beer,reinhardt-beer,Beer!,common,ANNIVERSARY_2017,,False
+reinhardt-honor-justice-reinhardt,reinhardt-honor-justice-reinhardt,Honor! Justice! Reinhardt!,common,ANNIVERSARY_2017,,False
+reinhardt-glittering-prizes,reinhardt-glittering-prizes,Glittering prizes!,common,SUMMER_GAMES,,False
+reinhardt-what-do-we-have-here,reinhardt-what-do-we-have-here,What do we have here?,common,HALLOWEEN,,False
+reinhardt-lionhardt,reinhardt-lionhardt,Lionhardt,,,,False
+reinhardt-reinhardt,reinhardt-reinhardt,Reinhardt,,,,False
+reinhardt-scar,reinhardt-scar,Scar,,,,False
+reinhardt-wrestling,reinhardt-wrestling,Wrestling,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+reinhardt-sandy,reinhardt-sandy,Sandy,,YEAR_OF_THE_ROOSTER_2017,,False
+reinhardt-lieutenant,reinhardt-lieutenant,Lieutenant,,UPRISING_2017,,False
+reinhardt-goldhardt,reinhardt-goldhardt,Goldhardt,,ANNIVERSARY_2017,,False
+reinhardt-heroic,reinhardt-heroic,Heroic,common,,,True
+reinhardt-flex,reinhardt-flex,Flex,epic,,,False
+reinhardt-kneel,reinhardt-kneel,Kneel,epic,,,False
+reinhardt-taunt,reinhardt-taunt,Taunt,epic,,,False
+reinhardt-uproarious,reinhardt-uproarious,Uproarious,epic,,,False
+reinhardt-warriors-salute,reinhardt-warriors-salute,Warrior's Salute,epic,,,False
+reinhardt-pumpkin-smash,reinhardt-pumpkin-smash,Pumpkin Smash,epic,HALLOWEEN,HALLOWEEN_2016,False
+reinhardt-sweethardt,reinhardt-sweethardt,Sweethardt,epic,ANNIVERSARY_2017,,False
+reinhardt-classic,reinhardt-classic,Classic,common,,,True
+reinhardt-brass,reinhardt-brass,Brass,rare,,,False
+reinhardt-cobalt,reinhardt-cobalt,Cobalt,rare,,,False
+reinhardt-copper,reinhardt-copper,Copper,rare,,,False
+reinhardt-viridian,reinhardt-viridian,Viridian,rare,,,False
+reinhardt-bundeswehr,reinhardt-bundeswehr,Bundeswehr,epic,,,False
+reinhardt-paragon,reinhardt-paragon,Paragon,epic,,,False
+reinhardt-coldhardt,reinhardt-coldhardt,Coldhardt,epic,HALLOWEEN,HALLOWEEN_2016,False
+reinhardt-lieutenant-wilhelm,reinhardt-lieutenant-wilhelm,Lieutenant Wilhelm,epic,UPRISING_2017,,False
+reinhardt-balderich,reinhardt-balderich,Balderich,legendary,,,False
+reinhardt-blackhardt,reinhardt-blackhardt,Blackhardt,legendary,,,False
+reinhardt-bloodhardt,reinhardt-bloodhardt,Bloodhardt,legendary,,,False
+reinhardt-greifhardt,reinhardt-greifhardt,Greifhardt,legendary,,,False
+reinhardt-lionhardt,reinhardt-lionhardt,Lionhardt,legendary,,,False
+reinhardt-stonehardt,reinhardt-stonehardt,Stonehardt,legendary,,,False
+reinhardt-wujing,reinhardt-wujing,Wujing,legendary,YEAR_OF_THE_ROOSTER_2017,,False
+reinhardt-barrier,reinhardt-barrier,Barrier,common,,,False
+reinhardt-charge,reinhardt-charge,Charge,common,,,False
+reinhardt-cracks,reinhardt-cracks,Cracks,common,,,False
+reinhardt-crusader,reinhardt-crusader,Crusader,common,,,False
+reinhardt-earthshatter,reinhardt-earthshatter,Earthshatter,common,,,False
+reinhardt-emblem,reinhardt-emblem,Emblem,common,,,False
+reinhardt-fire-strike,reinhardt-fire-strike,Fire Strike,common,,,False
+reinhardt-glorious,reinhardt-glorious,Glorious,common,,,False
+reinhardt-hammer-down,reinhardt-hammer-down,Hammer Down,common,,,False
+reinhardt-helm,reinhardt-helm,Helm,common,,,False
+reinhardt-honor,reinhardt-honor,Honor,common,,,False
+reinhardt-icon,reinhardt-icon,Icon,common,,,False
+reinhardt-knight,reinhardt-knight,Knight,common,,,False
+reinhardt-lion,reinhardt-lion,Lion,common,,,False
+reinhardt-roar,reinhardt-roar,Roar,common,,,False
+reinhardt-royal,reinhardt-royal,Royal,common,,,False
+reinhardt-shield-up,reinhardt-shield-up,Shield Up,common,,,False
+reinhardt-stein,reinhardt-stein,Stein,common,,,False
+reinhardt-swing,reinhardt-swing,Swing,common,,,False
+reinhardt-vigilant,reinhardt-vigilant,Vigilant,common,,,False
+reinhardt-white,reinhardt-white,White,common,,,False
+reinhardt-wilhelm,reinhardt-wilhelm,Wilhelm,common,,,False
+reinhardt-wrestle,reinhardt-wrestle,Wrestle,common,,,False
+reinhardt-wrestling,reinhardt-wrestling,Wrestling,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+reinhardt-trick-or-treat,reinhardt-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+reinhardt-ice-fishing,reinhardt-ice-fishing,Ice Fishing,common,WINTER_WONDERLAND_2016,,False
+reinhardt-ornament,reinhardt-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+reinhardt-dragon-dance,reinhardt-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+reinhardt-lion-dance,reinhardt-lion-dance,Lion Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+reinhardt-poster,reinhardt-poster,Poster,common,UPRISING_2017,,False
+reinhardt-king-of-hearts,reinhardt-king-of-hearts,King of Hearts,common,ANNIVERSARY_2017,,False
+reinhardt-cute,reinhardt-cute,Cute,common,,,False
+reinhardt-pixel,reinhardt-pixel,Pixel,common,,,False
+reinhardt-heroic,reinhardt-heroic,Heroic,common,,,True
+reinhardt-charge,reinhardt-charge,CHARGE,epic,,,False
+reinhardt-hammer-down,reinhardt-hammer-down,Hammer Down,epic,,,False
+reinhardt-more-stretching-required,reinhardt-more-stretching-required,More stretching required,epic,,,False
+reinhardt-heroic,reinhardt-heroic,Heroic,common,,,True
+reinhardt-confident,reinhardt-confident,Confident,rare,,,False
+reinhardt-flex,reinhardt-flex,Flex,rare,,,False
+reinhardt-legendary,reinhardt-legendary,Legendary,rare,,,False
+reinhardt-rip,reinhardt-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+reinhardt-toast,reinhardt-toast,Toast,rare,WINTER_WONDERLAND_2016,,False
+lucio-to-the-rhythm,lucio-to-the-rhythm,To the rhythm,common,,,True
+lucio-cant-stop-wont-stop,lucio-cant-stop-wont-stop,"Can't stop, won't stop",common,,,False
+lucio-hit-me,lucio-hit-me,Hit me!,common,,,False
+lucio-i-could-do-this-all-day,lucio-i-could-do-this-all-day,I could do this all day,common,,,False
+lucio-im-on-top-of-the-world,lucio-im-on-top-of-the-world,I'm on top of the world,common,,,False
+lucio-jackpot,lucio-jackpot,Jackpot!,common,,,False
+lucio-not-hearing-that-noise,lucio-not-hearing-that-noise,Not hearing that noise,common,,,False
+lucio-oh-yeah,lucio-oh-yeah,"Oh, yeah!",common,,,False
+lucio-tinnitus,lucio-tinnitus,Tinnitus,common,,,False
+lucio-why-are-you-so-angry,lucio-why-are-you-so-angry,Why are you so angry?,common,,,False
+lucio-you-gotta-believe,lucio-you-gotta-believe,You gotta believe!,common,,,False
+lucio-be-champions,lucio-be-champions,Be champions,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+lucio-killed-it,lucio-killed-it,Killed it!,common,HALLOWEEN,HALLOWEEN_2016,False
+lucio-happy-holidays,lucio-happy-holidays,Happy holidays!,common,WINTER_WONDERLAND_2016,,False
+lucio-i-make-this-look-good,lucio-i-make-this-look-good,I make this look good...,common,YEAR_OF_THE_ROOSTER_2017,,False
+lucio-boop,lucio-boop,Boop,common,UPRISING_2017,,False
+lucio-learn-to-take-it-easy,lucio-learn-to-take-it-easy,Learn to take it easy,common,UPRISING_2017,,False
+lucio-everyone-gets-their-1,lucio-everyone-gets-their-1,Everyone gets their +1,common,ANNIVERSARY_2017,,False
+lucio-have-some-lucioohs,lucio-have-some-lucioohs,Have some Lúcio-oh's!,common,ANNIVERSARY_2017,,False
+lucio-suboptimal,lucio-suboptimal,Suboptimal,common,SUMMER_GAMES,,False
+lucio-so-good-its-scary,lucio-so-good-its-scary,So good it's scary!,common,HALLOWEEN,,False
+lucio-frog,lucio-frog,Frog,,,,False
+lucio-kambo,lucio-kambo,Kambô,,,,False
+lucio-lucio,lucio-lucio,Lúcio,,,,False
+lucio-football,lucio-football,Football,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+lucio-luciouro,lucio-luciouro,Lúciouro,,ANNIVERSARY_2017,,False
+lucio-heroic,lucio-heroic,Heroic,common,,,True
+lucio-capoeira,lucio-capoeira,Capoeira,epic,,,False
+lucio-chilling,lucio-chilling,Chilling,epic,,,False
+lucio-in-the-groove,lucio-in-the-groove,In the Groove,epic,,,False
+lucio-knee-slapper,lucio-knee-slapper,Knee Slapper,epic,,,False
+lucio-nah,lucio-nah,Nah!,epic,,,False
+lucio-juggle,lucio-juggle,Juggle,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+lucio-smooth,lucio-smooth,Smooth,epic,ANNIVERSARY_2017,,False
+lucio-classic,lucio-classic,Classic,common,,,True
+lucio-azul,lucio-azul,Azul,rare,,,False
+lucio-laranja,lucio-laranja,Laranja,rare,,,False
+lucio-roxo,lucio-roxo,Roxo,rare,,,False
+lucio-vermelho,lucio-vermelho,Vermelho,rare,,,False
+lucio-auditiva,lucio-auditiva,Auditiva,epic,,,False
+lucio-synaesthesia,lucio-synaesthesia,Synaesthesia,epic,,,False
+lucio-andes,lucio-andes,Andes,epic,WINTER_WONDERLAND_2016,,False
+lucio-breakaway,lucio-breakaway,Breakaway,legendary,,,False
+lucio-hippityhop,lucio-hippityhop,Hippityhop,legendary,,,False
+lucio-ribbit,lucio-ribbit,Ribbit,legendary,,,False
+lucio-slapshot,lucio-slapshot,Slapshot,legendary,,,False
+lucio-selecao,lucio-selecao,Seleção,legendary,SUMMER_GAMES,SUMMER_GAMES_2016,False
+lucio-striker,lucio-striker,Striker,legendary,SUMMER_GAMES,SUMMER_GAMES_2016,False
+lucio-jazzy,lucio-jazzy,Jazzy,legendary,ANNIVERSARY_2017,,False
+lucio-acelerar,lucio-acelerar,Acelerar,common,,,False
+lucio-baixo,lucio-baixo,Baixo,common,,,False
+lucio-bass,lucio-bass,Bass,common,,,False
+lucio-break-it-down,lucio-break-it-down,Break It Down,common,,,False
+lucio-cereal,lucio-cereal,Cereal,common,,,False
+lucio-confident,lucio-confident,Confident,common,,,False
+lucio-deck,lucio-deck,Deck,common,,,False
+lucio-frog,lucio-frog,Frog,common,,,False
+lucio-grin,lucio-grin,Grin,common,,,False
+lucio-hero,lucio-hero,Hero,common,,,False
+lucio-icon,lucio-icon,Icon,common,,,False
+lucio-in-concert,lucio-in-concert,In Concert,common,,,False
+lucio-kambo,lucio-kambo,Kambô,common,,,False
+lucio-mural,lucio-mural,Mural,common,,,False
+lucio-scratch,lucio-scratch,Scratch,common,,,False
+lucio-signature,lucio-signature,Signature,common,,,False
+lucio-spin,lucio-spin,Spin,common,,,False
+lucio-tag,lucio-tag,Tag,common,,,False
+lucio-triplo,lucio-triplo,Triplo,common,,,False
+lucio-under-control,lucio-under-control,Under Control,common,,,False
+lucio-vinyl,lucio-vinyl,Vinyl,common,,,False
+lucio-walk-of-fame,lucio-walk-of-fame,Walk of Fame,common,,,False
+lucio-wave,lucio-wave,Wave,common,,,False
+lucio-football,lucio-football,Football,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+lucio-trick-or-treat,lucio-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+lucio-hockey,lucio-hockey,Hockey,common,WINTER_WONDERLAND_2016,,False
+lucio-ornament,lucio-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+lucio-dragon-dance,lucio-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+lucio-keep-ups,lucio-keep-ups,Keep Ups,common,YEAR_OF_THE_ROOSTER_2017,,False
+lucio-skates,lucio-skates,Skates,common,UPRISING_2017,,False
+lucio-jack-of-diamonds,lucio-jack-of-diamonds,Jack of Diamonds,common,ANNIVERSARY_2017,,False
+lucio-cute,lucio-cute,Cute,common,,,False
+lucio-pixel,lucio-pixel,Pixel,common,,,False
+lucio-heroic,lucio-heroic,Heroic,common,,,True
+lucio-drop-the-beat,lucio-drop-the-beat,Drop the beat,epic,,,False
+lucio-freestyle,lucio-freestyle,Freestyle,epic,,,False
+lucio-in-the-groove,lucio-in-the-groove,In the Groove,epic,,,False
+lucio-bicycle-kick,lucio-bicycle-kick,Bicycle Kick,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+lucio-heroic,lucio-heroic,Heroic,common,,,True
+lucio-confident,lucio-confident,Confident,rare,,,False
+lucio-grooving,lucio-grooving,Grooving,rare,,,False
+lucio-ready-for-action,lucio-ready-for-action,Ready for Action,rare,,,False
+lucio-rip,lucio-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+lucio-handstand,lucio-handstand,Handstand,rare,UPRISING_2017,,False
+lucio-pumpkin-control,lucio-pumpkin-control,Pumpkin Control,rare,HALLOWEEN,,False
+zarya-strong-as-the-mountain,zarya-strong-as-the-mountain,Strong as the mountain,common,,,True
+zarya-get-down-give-me-20,zarya-get-down-give-me-20,"Get down, give me 20",common,,,False
+zarya-i-am-mother-russia,zarya-i-am-mother-russia,I am Mother Russia,common,,,False
+zarya-i-can-bench-more-than-you,zarya-i-can-bench-more-than-you,I can bench more than you,common,,,False
+zarya-i-will-break-you,zarya-i-will-break-you,I will break you,common,,,False
+zarya-in-russia-game-plays-you,zarya-in-russia-game-plays-you,"In Russia, game plays you",common,,,False
+zarya-need-personal-training,zarya-need-personal-training,Need personal training?,common,,,False
+zarya-no-mercy,zarya-no-mercy,No mercy,common,,,False
+zarya-siberian-bear,zarya-siberian-bear,Siberian bear,common,,,False
+zarya-together-we-are-strong,zarya-together-we-are-strong,Together we are strong,common,,,False
+zarya-welcome-to-the-gun-show,zarya-welcome-to-the-gun-show,Welcome to the gun show,common,,,False
+zarya-no-pain-no-gain,zarya-no-pain-no-gain,"No pain, no gain",common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+zarya-never-forget-the-fallen,zarya-never-forget-the-fallen,Never forget the fallen,common,HALLOWEEN,HALLOWEEN_2016,False
+zarya-for-the-motherland,zarya-for-the-motherland,For the Motherland,common,WINTER_WONDERLAND_2016,,False
+zarya-get-pumped,zarya-get-pumped,Get pumped,common,YEAR_OF_THE_ROOSTER_2017,,False
+zarya-i-was-born-in-battle,zarya-i-was-born-in-battle,I was born in battle,common,UPRISING_2017,,False
+zarya-ready-to-give-up,zarya-ready-to-give-up,Ready to give up?,common,UPRISING_2017,,False
+zarya-is-that-all,zarya-is-that-all,Is that all?,common,ANNIVERSARY_2017,,False
+zarya-peace-through-firepower,zarya-peace-through-firepower,Peace through firepower,common,ANNIVERSARY_2017,,False
+zarya-its-only-a-game,zarya-its-only-a-game,It's only a game,common,SUMMER_GAMES,,False
+zarya-dont-be-scared,zarya-dont-be-scared,Don't be scared,common,HALLOWEEN,,False
+zarya-512,zarya-512,512,,,,False
+zarya-particle-barrier,zarya-particle-barrier,Particle Barrier,,,,False
+zarya-zarya,zarya-zarya,Zarya,,,,False
+zarya-weightlifting,zarya-weightlifting,Weightlifting,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+zarya-zaryanoversary,zarya-zaryanoversary,Zaryanoversary,,ANNIVERSARY_2017,,False
+zarya-totally-80s,zarya-totally-80s,Totally 80's,,HALLOWEEN,,False
+zarya-heroic,zarya-heroic,Heroic,common,,,True
+zarya-bring-it-on,zarya-bring-it-on,Bring It On,epic,,,False
+zarya-comedy-gold,zarya-comedy-gold,Comedy gold,epic,,,False
+zarya-crush-you,zarya-crush-you,Crush You,epic,,,False
+zarya-pumping-iron,zarya-pumping-iron,Pumping Iron,epic,,,False
+zarya-take-a-knee,zarya-take-a-knee,Take a Knee,epic,,,False
+zarya-dance,zarya-dance,Dance,epic,ANNIVERSARY_2017,,False
+zarya-mystery-gift,zarya-mystery-gift,Mystery Gift,legendary,WINTER_WONDERLAND_2016,,False
+zarya-classic,zarya-classic,Classic,common,,,True
+zarya-brick,zarya-brick,Brick,rare,,,False
+zarya-goldenrod,zarya-goldenrod,Goldenrod,rare,,,False
+zarya-taiga,zarya-taiga,Taiga,rare,,,False
+zarya-violet,zarya-violet,Violet,rare,,,False
+zarya-dawn,zarya-dawn,Dawn,epic,,,False
+zarya-midnight,zarya-midnight,Midnight,epic,,,False
+zarya-frosted,zarya-frosted,Frosted,epic,WINTER_WONDERLAND_2016,,False
+zarya-arctic,zarya-arctic,Arctic,legendary,,,False
+zarya-cybergoth,zarya-cybergoth,Cybergoth,legendary,,,False
+zarya-industrial,zarya-industrial,Industrial,legendary,,,False
+zarya-siberian-front,zarya-siberian-front,Siberian Front,legendary,,,False
+zarya-champion,zarya-champion,Champion,legendary,SUMMER_GAMES,SUMMER_GAMES_2016,False
+zarya-weightlifter,zarya-weightlifter,Weightlifter,legendary,SUMMER_GAMES,SUMMER_GAMES_2016,False
+zarya-cyberian,zarya-cyberian,Cyberian,legendary,ANNIVERSARY_2017,,False
+zarya-totally-80s,zarya-totally-80s,Totally 80's,legendary,HALLOWEEN,,False
+zarya-512,zarya-512,512,common,,,False
+zarya-alexandra,zarya-alexandra,Alexandra,common,,,False
+zarya-avenger,zarya-avenger,Avenger,common,,,False
+zarya-barrier,zarya-barrier,Barrier,common,,,False
+zarya-bear,zarya-bear,Bear,common,,,False
+zarya-cannon,zarya-cannon,Cannon,common,,,False
+zarya-champion,zarya-champion,Champion,common,,,False
+zarya-defender,zarya-defender,Defender,common,,,False
+zarya-focused,zarya-focused,Focused,common,,,False
+zarya-for-the-people,zarya-for-the-people,For the People,common,,,False
+zarya-gun-show,zarya-gun-show,Gun Show,common,,,False
+zarya-icon,zarya-icon,Icon,common,,,False
+zarya-lift,zarya-lift,Lift,common,,,False
+zarya-pink,zarya-pink,Pink,common,,,False
+zarya-pumped,zarya-pumped,Pumped,common,,,False
+zarya-shield,zarya-shield,Shield,common,,,False
+zarya-smile,zarya-smile,Smile,common,,,False
+zarya-strength,zarya-strength,Strength,common,,,False
+zarya-surge,zarya-surge,Surge,common,,,False
+zarya-tobelstein,zarya-tobelstein,Tobelstein,common,,,False
+zarya-we-are-strong,zarya-we-are-strong,We Are Strong,common,,,False
+zarya-weights,zarya-weights,Weights,common,,,False
+zarya-wrestle,zarya-wrestle,Wrestle,common,,,False
+zarya-weightlifting,zarya-weightlifting,Weightlifting,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+zarya-trick-or-treat,zarya-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+zarya-matryoshka,zarya-matryoshka,Matryoshka,common,WINTER_WONDERLAND_2016,,False
+zarya-ornament,zarya-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+zarya-calories,zarya-calories,Calories,common,YEAR_OF_THE_ROOSTER_2017,,False
+zarya-dragon-dance,zarya-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+zarya-we-can,zarya-we-can,We can!,common,UPRISING_2017,,False
+zarya-ten-of-spades,zarya-ten-of-spades,Ten of Spades,common,ANNIVERSARY_2017,,False
+zarya-cute,zarya-cute,Cute,common,,,False
+zarya-pixel,zarya-pixel,Pixel,common,,,False
+zarya-heroic,zarya-heroic,Heroic,common,,,True
+zarya-deadlift,zarya-deadlift,DEADLIFT,epic,,,False
+zarya-maximum-charge,zarya-maximum-charge,Maximum Charge,epic,,,False
+zarya-this-is-strength,zarya-this-is-strength,This Is Strength,epic,,,False
+zarya-heroic,zarya-heroic,Heroic,common,,,True
+zarya-casual,zarya-casual,Casual,rare,,,False
+zarya-check-out-this-gun,zarya-check-out-this-gun,Check out this gun,rare,,,False
+zarya-flexing,zarya-flexing,Flexing,rare,,,False
+zarya-rip,zarya-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+zarya-this-is-strength,zarya-this-is-strength,This is strength,rare,UPRISING_2017,,False
+mccree-watch-and-learn,mccree-watch-and-learn,Watch and learn,common,,,True
+mccree-aint-i-killed-you-before,mccree-aint-i-killed-you-before,Ain't I killed you before,common,,,False
+mccree-happens-to-the-best-of-us,mccree-happens-to-the-best-of-us,Happens to the best of us,common,,,False
+mccree-i-tried-being-reasonable,mccree-i-tried-being-reasonable,I tried being reasonable,common,,,False
+mccree-im-the-quick,mccree-im-the-quick,I'm the quick...,common,,,False
+mccree-im-your-huckleberry,mccree-im-your-huckleberry,I'm your huckleberry,common,,,False
+mccree-ive-got-a-bullet,mccree-ive-got-a-bullet,I've got a bullet...,common,,,False
+mccree-reach-for-the-sky,mccree-reach-for-the-sky,Reach for the sky,common,,,False
+mccree-sure-as-hell-aint-ugly,mccree-sure-as-hell-aint-ugly,Sure as hell ain't ugly,common,,,False
+mccree-wanted-dead-or-alive,mccree-wanted-dead-or-alive,Wanted: dead or alive,common,,,False
+mccree-you-done,mccree-you-done,You done?,common,,,False
+mccree-i-dont-much-like-losing,mccree-i-dont-much-like-losing,I don't much like losing,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mccree-its-your-funeral,mccree-its-your-funeral,It's your funeral,common,HALLOWEEN,HALLOWEEN_2016,False
+mccree-had-to-break-the-ice,mccree-had-to-break-the-ice,Had to break the ice,common,WINTER_WONDERLAND_2016,,False
+mccree-calls-for-a-celebration,mccree-calls-for-a-celebration,Calls for a celebration,common,YEAR_OF_THE_ROOSTER_2017,,False
+mccree-a-mans-gotta-have-rules,mccree-a-mans-gotta-have-rules,A man's gotta have rules,common,UPRISING_2017,,False
+mccree-the-old-fashioned-way,mccree-the-old-fashioned-way,The Old Fashioned Way,common,UPRISING_2017,,False
+mccree-buckle-up,mccree-buckle-up,Buckle up,common,ANNIVERSARY_2017,,False
+mccree-next-rounds-on-me,mccree-next-rounds-on-me,Next round's on me,common,ANNIVERSARY_2017,,False
+mccree-boom-goes-the-dynamite,mccree-boom-goes-the-dynamite,Boom goes the dynamite,common,SUMMER_GAMES,,False
+mccree-i-hear-you-pumpkin,mccree-i-hear-you-pumpkin,"I hear you, pumpkin",common,HALLOWEEN,,False
+mccree-badge,mccree-badge,Badge,,,,False
+mccree-deadeye,mccree-deadeye,Deadeye,,,,False
+mccree-mccree,mccree-mccree,McCree,,,,False
+mccree-equestrian,mccree-equestrian,Equestrian,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mccree-blackwatch,mccree-blackwatch,Blackwatch,,UPRISING_2017,,False
+mccree-gamf,mccree-gamf,GAMF,,ANNIVERSARY_2017,,False
+mccree-van-helsing,mccree-van-helsing,Van Helsing,,HALLOWEEN,,False
+mccree-heroic,mccree-heroic,Heroic,common,,,True
+mccree-gunspinning,mccree-gunspinning,Gunspinning,epic,,,False
+mccree-hat-tip,mccree-hat-tip,Hat Tip,epic,,,False
+mccree-joker,mccree-joker,Joker,epic,,,False
+mccree-spit,mccree-spit,Spit,epic,,,False
+mccree-take-a-load-off,mccree-take-a-load-off,Take a load off,epic,,,False
+mccree-hat-trick,mccree-hat-trick,Hat Trick,epic,WINTER_WONDERLAND_2016,,False
+mccree-line-dance,mccree-line-dance,Line Dance,epic,ANNIVERSARY_2017,,False
+mccree-classic,mccree-classic,Classic,common,,,True
+mccree-ebony,mccree-ebony,Ebony,rare,,,False
+mccree-lake,mccree-lake,Lake,rare,,,False
+mccree-sage,mccree-sage,Sage,rare,,,False
+mccree-wheat,mccree-wheat,Wheat,rare,,,False
+mccree-on-the-range,mccree-on-the-range,On the Range,epic,,,False
+mccree-white-hat,mccree-white-hat,White Hat,epic,,,False
+mccree-american,mccree-american,American,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mccree-scrooge,mccree-scrooge,Scrooge,epic,WINTER_WONDERLAND_2016,,False
+mccree-gambler,mccree-gambler,Gambler,legendary,,,False
+mccree-mystery-man,mccree-mystery-man,Mystery Man,legendary,,,False
+mccree-riverboat,mccree-riverboat,Riverboat,legendary,,,False
+mccree-vigilante,mccree-vigilante,Vigilante,legendary,,,False
+mccree-blackwatch,mccree-blackwatch,Blackwatch,legendary,UPRISING_2017,,False
+mccree-lifeguard,mccree-lifeguard,Lifeguard,legendary,SUMMER_GAMES,,False
+mccree-van-helsing,mccree-van-helsing,Van Helsing,legendary,HALLOWEEN,,False
+mccree-badge,mccree-badge,Badge,common,,,False
+mccree-bamf,mccree-bamf,BAMF,common,,,False
+mccree-bang,mccree-bang,Bang!,common,,,False
+mccree-buckle,mccree-buckle,Buckle,common,,,False
+mccree-bullet,mccree-bullet,Bullet,common,,,False
+mccree-deadeye,mccree-deadeye,Deadeye,common,,,False
+mccree-draw,mccree-draw,Draw,common,,,False
+mccree-enigma,mccree-enigma,Enigma,common,,,False
+mccree-gunslinger,mccree-gunslinger,Gunslinger,common,,,False
+mccree-high-noon,mccree-high-noon,High Noon,common,,,False
+mccree-icon,mccree-icon,Icon,common,,,False
+mccree-jesse,mccree-jesse,Jesse,common,,,False
+mccree-noose,mccree-noose,Noose,common,,,False
+mccree-outlaw,mccree-outlaw,Outlaw,common,,,False
+mccree-skull,mccree-skull,Skull,common,,,False
+mccree-spin,mccree-spin,Spin,common,,,False
+mccree-take-it-easy,mccree-take-it-easy,Take It Easy,common,,,False
+mccree-target,mccree-target,Target,common,,,False
+mccree-the-names,mccree-the-names,The Name's,common,,,False
+mccree-thumbs-up,mccree-thumbs-up,Thumbs Up,common,,,False
+mccree-tumbleweed,mccree-tumbleweed,Tumbleweed,common,,,False
+mccree-wanted,mccree-wanted,Wanted,common,,,False
+mccree-your-face-here,mccree-your-face-here,Your Face Here,common,,,False
+mccree-equestrian,mccree-equestrian,Equestrian,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mccree-trick-or-treat,mccree-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+mccree-ornament,mccree-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+mccree-ugly-sweater,mccree-ugly-sweater,Ugly Sweater,common,WINTER_WONDERLAND_2016,,False
+mccree-call-it,mccree-call-it,Call It,common,YEAR_OF_THE_ROOSTER_2017,,False
+mccree-dragon-dance,mccree-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+mccree-target-practice,mccree-target-practice,Target Practice,common,UPRISING_2017,,False
+mccree-jack-of-spades,mccree-jack-of-spades,Jack of Spades,common,ANNIVERSARY_2017,,False
+mccree-cute,mccree-cute,Cute,common,,,False
+mccree-pixel,mccree-pixel,Pixel,common,,,False
+mccree-heroic,mccree-heroic,Heroic,common,,,True
+mccree-rolling-into-action,mccree-rolling-into-action,Rolling into Action,epic,,,False
+mccree-the-duel,mccree-the-duel,The Duel,epic,,,False
+mccree-the-names-mccree,mccree-the-names-mccree,The name's McCree,epic,,,False
+mccree-heroic,mccree-heroic,Heroic,common,,,True
+mccree-contemplative,mccree-contemplative,Contemplative,rare,,,False
+mccree-over-the-shoulder,mccree-over-the-shoulder,Over the Shoulder,rare,,,False
+mccree-take-it-easy,mccree-take-it-easy,Take it easy,rare,,,False
+mccree-rip,mccree-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+mccree-showdown,mccree-showdown,Showdown,rare,UPRISING_2017,,False
+mei-hang-in-there,mei-hang-in-there,Hang in there,common,,,True
+mei-ameizing,mei-ameizing,A-Mei-zing!,common,,,False
+mei-chill-out,mei-chill-out,Chill out!,common,,,False
+mei-fight-for-our-world,mei-fight-for-our-world,Fight for our world,common,,,False
+mei-learned-your-lesson,mei-learned-your-lesson,Learned your lesson,common,,,False
+mei-okay,mei-okay,Okay!,common,,,False
+mei-ouch-are-you-okay,mei-ouch-are-you-okay,"Ouch, are you okay?",common,,,False
+mei-sorry-sorry-sorry-sorry,mei-sorry-sorry-sorry-sorry,Sorry sorry sorry sorry,common,,,False
+mei-that-was-great,mei-that-was-great,That was great,common,,,False
+mei-yay,mei-yay,Yay!,common,,,False
+mei-you-have-to-let-it-go,mei-you-have-to-let-it-go,You have to let it go,common,,,False
+mei-overcome-all-obstacles,mei-overcome-all-obstacles,Overcome all obstacles,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mei-scary,mei-scary,Scary!,common,HALLOWEEN,HALLOWEEN_2016,False
+mei-i-got-you-something,mei-i-got-you-something,I got you something!,common,WINTER_WONDERLAND_2016,,False
+mei-wishing-you-prosperity,mei-wishing-you-prosperity,Wishing you prosperity,common,YEAR_OF_THE_ROOSTER_2017,,False
+mei-science-this,mei-science-this,Science this,common,UPRISING_2017,,False
+mei-scientific-explanation,mei-scientific-explanation,Scientific explanation,common,UPRISING_2017,,False
+mei-i-was-only-trying-to-help,mei-i-was-only-trying-to-help,I was only trying to help,common,ANNIVERSARY_2017,,False
+mei-so-mean-honestly,mei-so-mean-honestly,So mean! Honestly...,common,ANNIVERSARY_2017,,False
+mei-i-tried-my-best,mei-i-tried-my-best,I tried my best,common,SUMMER_GAMES,,False
+mei-did-you-hear-something,mei-did-you-hear-something,Did you hear something?,common,HALLOWEEN,,False
+mei-hairpin,mei-hairpin,Hairpin,,,,False
+mei-mei,mei-mei,Mei,,,,False
+mei-snowball,mei-snowball,Snowball,,,,False
+mei-table-tennis,mei-table-tennis,Table Tennis,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mei-change,mei-change,Chang'e,,YEAR_OF_THE_ROOSTER_2017,,False
+mei-may,mei-may,May,,ANNIVERSARY_2017,,False
+mei-jiangshi,mei-jiangshi,Jiangshi,,HALLOWEEN,,False
+mei-heroic,mei-heroic,Heroic,common,,,True
+mei-companion,mei-companion,Companion,epic,,,False
+mei-giggle,mei-giggle,Giggle,epic,,,False
+mei-kneel,mei-kneel,Kneel,epic,,,False
+mei-spray,mei-spray,Spray,epic,,,False
+mei-yaaaaaaaaay,mei-yaaaaaaaaay,Yaaaaaaaaay!,epic,,,False
+mei-snowman,mei-snowman,Snowman,epic,WINTER_WONDERLAND_2016,,False
+mei-so-excited,mei-so-excited,So Excited,epic,YEAR_OF_THE_ROOSTER_2017,,False
+mei-sunny-dance,mei-sunny-dance,Sunny Dance,epic,ANNIVERSARY_2017,,False
+mei-hopping,mei-hopping,Hopping,epic,HALLOWEEN,,False
+mei-classic,mei-classic,Classic,common,,,True
+mei-chrysanthemum,mei-chrysanthemum,Chrysanthemum,rare,,,False
+mei-heliotrope,mei-heliotrope,Heliotrope,rare,,,False
+mei-jade,mei-jade,Jade,rare,,,False
+mei-persimmon,mei-persimmon,Persimmon,rare,,,False
+mei-earthen,mei-earthen,Earthen,epic,,,False
+mei-snow-plum,mei-snow-plum,Snow Plum,epic,,,False
+mei-abominable,mei-abominable,Abominable,legendary,,,False
+mei-firefighter,mei-firefighter,Firefighter,legendary,,,False
+mei-rescue-mei,mei-rescue-mei,Rescue Mei,legendary,,,False
+mei-yeti-hunter,mei-yeti-hunter,Yeti Hunter,legendary,,,False
+mei-meirry,mei-meirry,Mei-rry,legendary,WINTER_WONDERLAND_2016,,False
+mei-change,mei-change,Chang'e,legendary,YEAR_OF_THE_ROOSTER_2017,,False
+mei-luna,mei-luna,Luna,legendary,YEAR_OF_THE_ROOSTER_2017,,False
+mei-beekeeper,mei-beekeeper,Beekeeper,legendary,ANNIVERSARY_2017,,False
+mei-jiangshi,mei-jiangshi,Jiangshi,legendary,HALLOWEEN,,False
+mei-frustration,mei-frustration,>_<,common,,,False
+mei-joy,mei-joy,^_^,common,,,False
+mei-beat-the-heat,mei-beat-the-heat,Beat the Heat,common,,,False
+mei-blaster,mei-blaster,Blaster,common,,,False
+mei-carefree,mei-carefree,Carefree,common,,,False
+mei-casual,mei-casual,Casual,common,,,False
+mei-confident,mei-confident,Confident,common,,,False
+mei-dizzy,mei-dizzy,Dizzy,common,,,False
+mei-explorer,mei-explorer,Explorer,common,,,False
+mei-eyes,mei-eyes,Eyes,common,,,False
+mei-hairpin,mei-hairpin,Hairpin,common,,,False
+mei-icon,mei-icon,Icon,common,,,False
+mei-meis-journal,mei-meis-journal,Mei's Journal,common,,,False
+mei-popsicle,mei-popsicle,Popsicle,common,,,False
+mei-print,mei-print,Print,common,,,False
+mei-reading,mei-reading,Reading,common,,,False
+mei-sketch,mei-sketch,Sketch,common,,,False
+mei-smile,mei-smile,Smile,common,,,False
+mei-snow-art,mei-snow-art,Snow Art,common,,,False
+mei-snowball,mei-snowball,Snowball,common,,,False
+mei-snowman,mei-snowman,Snowman,common,,,False
+mei-soft-serve,mei-soft-serve,Soft Serve,common,,,False
+mei-walled,mei-walled,Walled,common,,,False
+mei-table-tennis,mei-table-tennis,Table Tennis,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mei-trick-or-treat,mei-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+mei-ornament,mei-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+mei-sculpting,mei-sculpting,Sculpting,common,WINTER_WONDERLAND_2016,,False
+mei-dragon-dance,mei-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+mei-fortune,mei-fortune,Fortune,common,YEAR_OF_THE_ROOSTER_2017,,False
+mei-pajamas,mei-pajamas,Pajamas,common,UPRISING_2017,,False
+mei-ten-of-diamonds,mei-ten-of-diamonds,Ten of Diamonds,common,ANNIVERSARY_2017,,False
+mei-cute,mei-cute,Cute,common,,,False
+mei-pixel,mei-pixel,Pixel,common,,,False
+mei-heroic,mei-heroic,Heroic,common,,,True
+mei-frosty,mei-frosty,Frosty :),epic,,,False
+mei-going-up,mei-going-up,Going Up!,epic,,,False
+mei-skating-around,mei-skating-around,Skating Around,epic,,,False
+mei-ice-scream,mei-ice-scream,Ice Scream,epic,HALLOWEEN,HALLOWEEN_2016,False
+mei-heroic,mei-heroic,Heroic,common,,,True
+mei-casual,mei-casual,Casual,rare,,,False
+mei-hands-on-hips,mei-hands-on-hips,Hands on Hips,rare,,,False
+mei-kneeling,mei-kneeling,Kneeling,rare,,,False
+mei-medal,mei-medal,Medal,rare,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mei-rip,mei-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+mei-lucky,mei-lucky,Lucky!,rare,YEAR_OF_THE_ROOSTER_2017,,False
+hanzo-expect-nothing-less,hanzo-expect-nothing-less,Expect nothing less,common,,,True
+hanzo-flow-like-water,hanzo-flow-like-water,Flow like water,common,,,False
+hanzo-from-one-thing,hanzo-from-one-thing,From one thing...,common,,,False
+hanzo-hm,hanzo-hm,Hm...,common,,,False
+hanzo-i-do-what-i-must,hanzo-i-do-what-i-must,I do what I must,common,,,False
+hanzo-never-in-doubt,hanzo-never-in-doubt,Never in doubt,common,,,False
+hanzo-never-second-best,hanzo-never-second-best,Never second best,common,,,False
+hanzo-remember-this-moment,hanzo-remember-this-moment,Remember this moment,common,,,False
+hanzo-sake,hanzo-sake,Sake!,common,,,False
+hanzo-spirit-dragon,hanzo-spirit-dragon,Spirit dragon,common,,,False
+hanzo-step-into-the-dojo,hanzo-step-into-the-dojo,Step into the dojo,common,,,False
+hanzo-ignore-all-distractions,hanzo-ignore-all-distractions,Ignore all distractions,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+hanzo-you-are-already-dead,hanzo-you-are-already-dead,You are already dead,common,HALLOWEEN,HALLOWEEN_2016,False
+hanzo-a-gift-for-you,hanzo-a-gift-for-you,A gift for you,common,WINTER_WONDERLAND_2016,,False
+hanzo-when-the-moon-is-full,hanzo-when-the-moon-is-full,When the moon is full,common,YEAR_OF_THE_ROOSTER_2017,,False
+hanzo-beauty-in-simplicity,hanzo-beauty-in-simplicity,Beauty in simplicity,common,UPRISING_2017,,False
+hanzo-unacceptable,hanzo-unacceptable,Unacceptable,common,UPRISING_2017,,False
+hanzo-an-error-in-judgment,hanzo-an-error-in-judgment,An Error in Judgment,common,ANNIVERSARY_2017,,False
+hanzo-just-so,hanzo-just-so,Just so,common,ANNIVERSARY_2017,,False
+hanzo-defeat-is-the-first-step,hanzo-defeat-is-the-first-step,Defeat is the first step,common,SUMMER_GAMES,,False
+hanzo-master-your-fears,hanzo-master-your-fears,Master your fears,common,HALLOWEEN,,False
+hanzo-hanzo,hanzo-hanzo,Hanzo,,,,False
+hanzo-shimada,hanzo-shimada,Shimada,,,,False
+hanzo-storm,hanzo-storm,Storm,,,,False
+hanzo-archery,hanzo-archery,Archery,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+hanzo-kinenbi,hanzo-kinenbi,Kinenbi,,ANNIVERSARY_2017,,False
+hanzo-heroic,hanzo-heroic,Heroic,common,,,True
+hanzo-beckon,hanzo-beckon,Beckon,epic,,,False
+hanzo-brush-shoulder,hanzo-brush-shoulder,Brush shoulder,epic,,,False
+hanzo-chuckle,hanzo-chuckle,Chuckle,epic,,,False
+hanzo-meditate,hanzo-meditate,Meditate,epic,,,False
+hanzo-victory,hanzo-victory,Victory,epic,,,False
+hanzo-training,hanzo-training,Training,epic,UPRISING_2017,,False
+hanzo-fisherman-dance,hanzo-fisherman-dance,Fisherman Dance,epic,ANNIVERSARY_2017,,False
+hanzo-classic,hanzo-classic,Classic,common,,,True
+hanzo-azuki,hanzo-azuki,Azuki,rare,,,False
+hanzo-kinoko,hanzo-kinoko,Kinoko,rare,,,False
+hanzo-midori,hanzo-midori,Midori,rare,,,False
+hanzo-sora,hanzo-sora,Sora,rare,,,False
+hanzo-cloud,hanzo-cloud,Cloud,epic,,,False
+hanzo-dragon,hanzo-dragon,Dragon,epic,,,False
+hanzo-demon,hanzo-demon,Demon,epic,HALLOWEEN,HALLOWEEN_2016,False
+hanzo-lone-wolf,hanzo-lone-wolf,Lone Wolf,legendary,,,False
+hanzo-okami,hanzo-okami,Okami,legendary,,,False
+hanzo-young-hanzo,hanzo-young-hanzo,Young Hanzo,legendary,,,False
+hanzo-young-master,hanzo-young-master,Young Master,legendary,,,False
+hanzo-cyberninja,hanzo-cyberninja,Cyberninja,legendary,ANNIVERSARY_2017,,False
+hanzo-archer,hanzo-archer,Archer,common,,,False
+hanzo-challenge,hanzo-challenge,Challenge,common,,,False
+hanzo-cloud,hanzo-cloud,Cloud,common,,,False
+hanzo-dragon,hanzo-dragon,Dragon,common,,,False
+hanzo-dragons,hanzo-dragons,Dragons,common,,,False
+hanzo-dragonstrike,hanzo-dragonstrike,Dragonstrike,common,,,False
+hanzo-drawn,hanzo-drawn,Drawn,common,,,False
+hanzo-duty,hanzo-duty,Duty,common,,,False
+hanzo-haori,hanzo-haori,Haori,common,,,False
+hanzo-icon,hanzo-icon,Icon,common,,,False
+hanzo-kneeling,hanzo-kneeling,Kneeling,common,,,False
+hanzo-kumo,hanzo-kumo,Kumo,common,,,False
+hanzo-moon,hanzo-moon,Moon,common,,,False
+hanzo-nin,hanzo-nin,Nin,common,,,False
+hanzo-sake,hanzo-sake,Sake,common,,,False
+hanzo-scarf,hanzo-scarf,Scarf,common,,,False
+hanzo-seal,hanzo-seal,Seal,common,,,False
+hanzo-spray,hanzo-spray,Spray,common,,,False
+hanzo-stoic,hanzo-stoic,Stoic,common,,,False
+hanzo-successor,hanzo-successor,Successor,common,,,False
+hanzo-tea,hanzo-tea,Tea,common,,,False
+hanzo-wanderer,hanzo-wanderer,Wanderer,common,,,False
+hanzo-yellow,hanzo-yellow,Yellow,common,,,False
+hanzo-archery,hanzo-archery,Archery,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+hanzo-trick-or-treat,hanzo-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+hanzo-kadomatsu,hanzo-kadomatsu,Kadomatsu,common,WINTER_WONDERLAND_2016,,False
+hanzo-ornament,hanzo-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+hanzo-blue-dragon,hanzo-blue-dragon,Blue Dragon,common,YEAR_OF_THE_ROOSTER_2017,,False
+hanzo-dragon-dance,hanzo-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+hanzo-ramen,hanzo-ramen,Ramen,common,UPRISING_2017,,False
+hanzo-king-of-diamonds,hanzo-king-of-diamonds,King of Diamonds,common,ANNIVERSARY_2017,,False
+hanzo-cute,hanzo-cute,Cute,common,,,False
+hanzo-pixel,hanzo-pixel,Pixel,common,,,False
+hanzo-heroic,hanzo-heroic,Heroic,common,,,True
+hanzo-backflip,hanzo-backflip,Backflip,epic,,,False
+hanzo-my-aim-is-true,hanzo-my-aim-is-true,My Aim Is True,epic,,,False
+hanzo-superior,hanzo-superior,Superior,epic,,,False
+hanzo-target-practice,hanzo-target-practice,Target Practice,epic,SUMMER_GAMES,,False
+hanzo-heroic,hanzo-heroic,Heroic,common,,,True
+hanzo-confident,hanzo-confident,Confident,rare,,,False
+hanzo-kneeling,hanzo-kneeling,Kneeling,rare,,,False
+hanzo-over-the-shoulder,hanzo-over-the-shoulder,Over the Shoulder,rare,,,False
+hanzo-rip,hanzo-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+hanzo-medal,hanzo-medal,Medal,rare,SUMMER_GAMES,,False
+hanzo-skewered,hanzo-skewered,Skewered,rare,HALLOWEEN,,False
+roadhog-the-apocalypse,roadhog-the-apocalypse,The apocalypse,common,,,True
+roadhog-candy-from-a-baby,roadhog-candy-from-a-baby,Candy from a baby,common,,,False
+roadhog-got-something-to-say,roadhog-got-something-to-say,Got something to say?,common,,,False
+roadhog-hahaha,roadhog-hahaha,HAHAHA!,common,,,False
+roadhog-hook-line-and-sinker,roadhog-hook-line-and-sinker,"Hook, line, and sinker",common,,,False
+roadhog-life-is-pain-so-is-death,roadhog-life-is-pain-so-is-death,"Life is pain, so is death",common,,,False
+roadhog-piece-of-cake,roadhog-piece-of-cake,Piece of cake,common,,,False
+roadhog-push-off,roadhog-push-off,Push off,common,,,False
+roadhog-say-bacon,roadhog-say-bacon,"Say ""bacon...""",common,,,False
+roadhog-violence-is-the-answer,roadhog-violence-is-the-answer,Violence is the answer,common,,,False
+roadhog-were-all-animals,roadhog-were-all-animals,We're all animals,common,,,False
+roadhog-whats-mine-is-mine,roadhog-whats-mine-is-mine,What's mine is mine,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+roadhog-want-some-candy,roadhog-want-some-candy,Want some candy?,common,HALLOWEEN,HALLOWEEN_2016,False
+roadhog-ho-ho-ho,roadhog-ho-ho-ho,Ho ho ho,common,WINTER_WONDERLAND_2016,,False
+roadhog-you-chicken,roadhog-you-chicken,You chicken?,common,YEAR_OF_THE_ROOSTER_2017,,False
+roadhog-killed-for-less-than-that,roadhog-killed-for-less-than-that,Killed for less than that,common,UPRISING_2017,,False
+roadhog-shell-be-right,roadhog-shell-be-right,She'll be right,common,UPRISING_2017,,False
+roadhog-i-dont-like-talkers,roadhog-i-dont-like-talkers,I don't like talkers,common,ANNIVERSARY_2017,,False
+roadhog-im-going-hog-wild,roadhog-im-going-hog-wild,I'm going hog wild!,common,ANNIVERSARY_2017,,False
+roadhog-theres-no-i-in-team,roadhog-theres-no-i-in-team,"There's no ""I"" in team",common,SUMMER_GAMES,,False
+roadhog-boo,roadhog-boo,Boo!,common,HALLOWEEN,,False
+roadhog-hook,roadhog-hook,Hook,,,,False
+roadhog-piggy,roadhog-piggy,Piggy,,,,False
+roadhog-roadhog,roadhog-roadhog,Roadhog,,,,False
+roadhog-diving,roadhog-diving,Diving,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+roadhog-the-monster,roadhog-the-monster,The Monster,,HALLOWEEN,HALLOWEEN_2016,False
+roadhog-pigsy,roadhog-pigsy,Pigsy,,YEAR_OF_THE_ROOSTER_2017,,False
+roadhog-goldhog,roadhog-goldhog,Goldhog,,ANNIVERSARY_2017,,False
+roadhog-heroic,roadhog-heroic,Heroic,common,,,True
+roadhog-belly-laugh,roadhog-belly-laugh,Belly Laugh,epic,,,False
+roadhog-boo,roadhog-boo,Boo!,epic,,,False
+roadhog-can-crusher,roadhog-can-crusher,Can Crusher,epic,,,False
+roadhog-headbanging,roadhog-headbanging,Headbanging,epic,,,False
+roadhog-tuckered-out,roadhog-tuckered-out,Tuckered out,epic,,,False
+roadhog-dance,roadhog-dance,Dance,epic,ANNIVERSARY_2017,,False
+roadhog-classic,roadhog-classic,Classic,common,,,True
+roadhog-kiwi,roadhog-kiwi,Kiwi,rare,,,False
+roadhog-mud,roadhog-mud,Mud,rare,,,False
+roadhog-sand,roadhog-sand,Sand,rare,,,False
+roadhog-thistle,roadhog-thistle,Thistle,rare,,,False
+roadhog-pigpen,roadhog-pigpen,Pigpen,epic,,,False
+roadhog-stitched,roadhog-stitched,Stitched,epic,,,False
+roadhog-rudolph,roadhog-rudolph,Rudolph,epic,WINTER_WONDERLAND_2016,,False
+roadhog-islander,roadhog-islander,Islander,legendary,,,False
+roadhog-mako,roadhog-mako,Mako,legendary,,,False
+roadhog-sharkbait,roadhog-sharkbait,Sharkbait,legendary,,,False
+roadhog-toa,roadhog-toa,Toa,legendary,,,False
+roadhog-junkensteins-monster,roadhog-junkensteins-monster,Junkenstein's Monster,legendary,HALLOWEEN,HALLOWEEN_2016,False
+roadhog-bajie,roadhog-bajie,Bajie,legendary,YEAR_OF_THE_ROOSTER_2017,,False
+roadhog-breathin,roadhog-breathin,Breathin',common,,,False
+roadhog-deep-thoughts,roadhog-deep-thoughts,Deep Thoughts,common,,,False
+roadhog-emblem,roadhog-emblem,Emblem,common,,,False
+roadhog-eyes,roadhog-eyes,Eyes,common,,,False
+roadhog-free-pig,roadhog-free-pig,Free Pig,common,,,False
+roadhog-fresh-meat,roadhog-fresh-meat,Fresh Meat,common,,,False
+roadhog-gotcha,roadhog-gotcha,Gotcha,common,,,False
+roadhog-grand-theft,roadhog-grand-theft,Grand Theft,common,,,False
+roadhog-helmet,roadhog-helmet,Helmet,common,,,False
+roadhog-here-piggy,roadhog-here-piggy,Here Piggy,common,,,False
+roadhog-hogpower,roadhog-hogpower,Hogpower,common,,,False
+roadhog-hooked,roadhog-hooked,Hooked,common,,,False
+roadhog-icon,roadhog-icon,Icon,common,,,False
+roadhog-left,roadhog-left,Left,common,,,False
+roadhog-license,roadhog-license,License,common,,,False
+roadhog-mako,roadhog-mako,Mako,common,,,False
+roadhog-no-pork,roadhog-no-pork,No Pork,common,,,False
+roadhog-piggy,roadhog-piggy,Piggy,common,,,False
+roadhog-popper,roadhog-popper,Popper,common,,,False
+roadhog-tails,roadhog-tails,Tails,common,,,False
+roadhog-toxic,roadhog-toxic,Toxic,common,,,False
+roadhog-wanted,roadhog-wanted,Wanted,common,,,False
+roadhog-wild-hog,roadhog-wild-hog,Wild Hog,common,,,False
+roadhog-diving,roadhog-diving,Diving,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+roadhog-trick-or-treat,roadhog-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+roadhog-winter,roadhog-winter,"""Winter""",common,WINTER_WONDERLAND_2016,,False
+roadhog-ornament,roadhog-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+roadhog-dragon-dance,roadhog-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+roadhog-steamed-buns,roadhog-steamed-buns,Steamed Buns,common,YEAR_OF_THE_ROOSTER_2017,,False
+roadhog-chopper,roadhog-chopper,Chopper,common,UPRISING_2017,,False
+roadhog-joker,roadhog-joker,Joker,common,ANNIVERSARY_2017,,False
+roadhog-cute,roadhog-cute,Cute,common,,,False
+roadhog-pixel,roadhog-pixel,Pixel,common,,,False
+roadhog-heroic,roadhog-heroic,Heroic,common,,,True
+roadhog-little-piggy,roadhog-little-piggy,Little Piggy,epic,,,False
+roadhog-say-cheese,roadhog-say-cheese,"Say ""Cheese""",epic,,,False
+roadhog-whole-hog,roadhog-whole-hog,WHOLE HOG,epic,,,False
+roadhog-feast,roadhog-feast,Feast,epic,YEAR_OF_THE_ROOSTER_2017,,False
+roadhog-footsteps,roadhog-footsteps,Footsteps...,epic,HALLOWEEN,,False
+roadhog-heroic,roadhog-heroic,Heroic,common,,,True
+roadhog-pointing-to-the-sky,roadhog-pointing-to-the-sky,Pointing to the sky,rare,,,False
+roadhog-thumbs-up,roadhog-thumbs-up,Thumbs up,rare,,,False
+roadhog-tuckered-out,roadhog-tuckered-out,Tuckered out,rare,,,False
+roadhog-medal,roadhog-medal,Medal,rare,SUMMER_GAMES,SUMMER_GAMES_2016,False
+roadhog-rip,roadhog-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+roadhog-whats-mine-is-mine,roadhog-whats-mine-is-mine,What's mine is mine,rare,YEAR_OF_THE_ROOSTER_2017,,False
+mercy-i-have-my-eye-on-you,mercy-i-have-my-eye-on-you,I have my eye on you,common,,,True
+mercy-consultation-fee,mercy-consultation-fee,Consultation fee,common,,,False
+mercy-doctors-orders,mercy-doctors-orders,Doctor's orders,common,,,False
+mercy-how-barbaric,mercy-how-barbaric,How Barbaric,common,,,False
+mercy-miracle-worker,mercy-miracle-worker,Miracle Worker,common,,,False
+mercy-need-a-second-opinion,mercy-need-a-second-opinion,Need a second opinion?,common,,,False
+mercy-on-a-scale-of-110,mercy-on-a-scale-of-110,On a scale of 1-10,common,,,False
+mercy-super,mercy-super,Super!,common,,,False
+mercy-take-two,mercy-take-two,Take two,common,,,False
+mercy-the-doctor-is-in,mercy-the-doctor-is-in,The Doctor Is In,common,,,False
+mercy-the-doctor-will-see-you,mercy-the-doctor-will-see-you,The doctor will see you,common,,,False
+mercy-piece-of-cake,mercy-piece-of-cake,Piece of cake,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mercy-superstition,mercy-superstition,Superstition,common,HALLOWEEN,HALLOWEEN_2016,False
+mercy-your-guardian-angel,mercy-your-guardian-angel,Your guardian angel,common,WINTER_WONDERLAND_2016,,False
+mercy-a-most-impressive-display,mercy-a-most-impressive-display,A most impressive display,common,YEAR_OF_THE_ROOSTER_2017,,False
+mercy-not-sure-why-i-bother,mercy-not-sure-why-i-bother,Not sure why I bother,common,UPRISING_2017,,False
+mercy-take-care-of-yourself,mercy-take-care-of-yourself,Take care of yourself,common,UPRISING_2017,,False
+mercy-questionable-judgment,mercy-questionable-judgment,Questionable Judgment,common,ANNIVERSARY_2017,,False
+mercy-youre-welcome,mercy-youre-welcome,You're welcome,common,ANNIVERSARY_2017,,False
+mercy-sponge-or-spray,mercy-sponge-or-spray,Sponge or spray?,common,SUMMER_GAMES,,False
+mercy-sometimes-you-scare-me,mercy-sometimes-you-scare-me,Sometimes you scare me,common,HALLOWEEN,,False
+mercy-guardian-angel,mercy-guardian-angel,Guardian Angel,,,,False
+mercy-mercy,mercy-mercy,Mercy,,,,False
+mercy-valkyrie,mercy-valkyrie,Valkyrie,,,,False
+mercy-badminton,mercy-badminton,Badminton,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mercy-the-witch,mercy-the-witch,The Witch,,HALLOWEEN,HALLOWEEN_2016,False
+mercy-combat-medic,mercy-combat-medic,Combat Medic,,UPRISING_2017,,False
+mercy-jahrestag,mercy-jahrestag,Jahrestag,,ANNIVERSARY_2017,,False
+mercy-heroic,mercy-heroic,Heroic,common,,,True
+mercy-applause,mercy-applause,Applause,epic,,,False
+mercy-caduceus,mercy-caduceus,Caduceus,epic,,,False
+mercy-no-pulse,mercy-no-pulse,No Pulse,epic,,,False
+mercy-relax,mercy-relax,Relax,epic,,,False
+mercy-the-best-medicine,mercy-the-best-medicine,The Best Medicine,epic,,,False
+mercy-hustle,mercy-hustle,Hustle,epic,ANNIVERSARY_2017,,False
+mercy-classic,mercy-classic,Classic,common,,,True
+mercy-celestial,mercy-celestial,Celestial,rare,,,False
+mercy-mist,mercy-mist,Mist,rare,,,False
+mercy-orchid,mercy-orchid,Orchid,rare,,,False
+mercy-verdant,mercy-verdant,Verdant,rare,,,False
+mercy-amber,mercy-amber,Amber,epic,,,False
+mercy-cobalt,mercy-cobalt,Cobalt,epic,,,False
+mercy-eidgenossin,mercy-eidgenossin,Eidgenossin,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mercy-fortune,mercy-fortune,Fortune,epic,YEAR_OF_THE_ROOSTER_2017,,False
+mercy-devil,mercy-devil,Devil,legendary,,,False
+mercy-imp,mercy-imp,Imp,legendary,,,False
+mercy-sigrun,mercy-sigrun,Sigrún,legendary,,,False
+mercy-valkyrie,mercy-valkyrie,Valkyrie,legendary,,,False
+mercy-witch,mercy-witch,Witch,legendary,HALLOWEEN,HALLOWEEN_2016,False
+mercy-combat-medic-ziegler,mercy-combat-medic-ziegler,Combat Medic Ziegler,legendary,UPRISING_2017,,False
+mercy-winged-victory,mercy-winged-victory,Winged Victory,legendary,SUMMER_GAMES,,False
+mercy-arrow,mercy-arrow,Arrow,common,,,False
+mercy-bandage,mercy-bandage,Bandage,common,,,False
+mercy-battle-ready,mercy-battle-ready,Battle Ready,common,,,False
+mercy-blaster,mercy-blaster,Blaster,common,,,False
+mercy-emblem,mercy-emblem,Emblem,common,,,False
+mercy-gauze,mercy-gauze,Gauze,common,,,False
+mercy-halo,mercy-halo,Halo,common,,,False
+mercy-stethoscope,mercy-stethoscope,Heartbeat,common,,,False
+mercy-heroes-never-die,mercy-heroes-never-die,Heroes Never Die,common,,,False
+mercy-huge-rez,mercy-huge-rez,Huge Rez!!,common,,,False
+mercy-icon,mercy-icon,Icon,common,,,False
+mercy-light,mercy-light,Light,common,,,False
+mercy-medic,mercy-medic,Medic,common,,,False
+mercy-on-call,mercy-on-call,On Call,common,,,False
+mercy-patched-up,mercy-patched-up,Patched Up,common,,,False
+mercy-resurrect,mercy-resurrect,Resurrect,common,,,False
+mercy-smile,mercy-smile,Smile,common,,,False
+mercy-sting,mercy-sting,Sting,common,,,False
+mercy-support,mercy-support,Support,common,,,False
+mercy-swiss,mercy-swiss,Swiss,common,,,False
+mercy-valkyrie,mercy-valkyrie,Valkyrie,common,,,False
+mercy-wings,mercy-wings,Wings,common,,,False
+mercy-ziegler,mercy-ziegler,Ziegler,common,,,False
+mercy-badminton,mercy-badminton,Badminton,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+mercy-trick-or-treat,mercy-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+mercy-ornament,mercy-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+mercy-snow-angel,mercy-snow-angel,Snow Angel,common,WINTER_WONDERLAND_2016,,False
+mercy-dragon-dance,mercy-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+mercy-parasol,mercy-parasol,Parasol,common,YEAR_OF_THE_ROOSTER_2017,,False
+mercy-combat-medic,mercy-combat-medic,Combat Medic,common,UPRISING_2017,,False
+mercy-queen-of-clubs,mercy-queen-of-clubs,Queen of Clubs,common,ANNIVERSARY_2017,,False
+mercy-cute,mercy-cute,Cute,common,,,False
+mercy-pixel,mercy-pixel,Pixel,common,,,False
+mercy-heroic,mercy-heroic,Heroic,common,,,True
+mercy-battle-angel,mercy-battle-angel,Battle Angel,epic,,,False
+mercy-guardian-angel,mercy-guardian-angel,Guardian Angel,epic,,,False
+mercy-heroes-never-die,mercy-heroes-never-die,Heroes Never Die,epic,,,False
+mercy-fortune,mercy-fortune,Fortune,epic,YEAR_OF_THE_ROOSTER_2017,,False
+mercy-heroic,mercy-heroic,Heroic,common,,,True
+mercy-angelic,mercy-angelic,Angelic,rare,,,False
+mercy-carefree,mercy-carefree,Carefree,rare,,,False
+mercy-ready-for-battle,mercy-ready-for-battle,Ready for battle,rare,,,False
+mercy-rip,mercy-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+mercy-mistletoe,mercy-mistletoe,Mistletoe,rare,WINTER_WONDERLAND_2016,,False
+mercy-medal,mercy-medal,Medal,rare,SUMMER_GAMES,,False
+dva-love-dva,dva-love-dva,"Love, D.Va",common,,,True
+dva-winkyface,dva-winkyface,;),common,,,False
+dva-a-new-challenger,dva-a-new-challenger,A new challenger!,common,,,False
+dva-afk,dva-afk,AFK,common,,,False
+dva-aw-yeah,dva-aw-yeah,"Aw, yeah!",common,,,False
+dva-dva-1-bad-guys-0,dva-dva-1-bad-guys-0,"D.Va: 1, bad guys: 0",common,,,False
+dva-gg,dva-gg,gg!,common,,,False
+dva-i-play-to-win,dva-i-play-to-win,I play to win,common,,,False
+dva-is-this-easy-mode,dva-is-this-easy-mode,Is this easy mode?,common,,,False
+dva-lol,dva-lol,LOL,common,,,False
+dva-no-hacks-required,dva-no-hacks-required,No hacks required,common,,,False
+dva-im-1,dva-im-1,I'm #1,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+dva-happy-halloween,dva-happy-halloween,Happy Halloween!,common,HALLOWEEN,HALLOWEEN_2016,False
+dva-aw-you-shouldnt-have,dva-aw-you-shouldnt-have,"Aw, you shouldn't have",common,WINTER_WONDERLAND_2016,,False
+dva-the-best-things-in-life,dva-the-best-things-in-life,The best things in life,common,YEAR_OF_THE_ROOSTER_2017,,False
+dva-not-taking-me-seriously,dva-not-taking-me-seriously,Not taking me seriously,common,UPRISING_2017,,False
+dva-try-and-keep-up,dva-try-and-keep-up,Try and keep up,common,UPRISING_2017,,False
+dva-level-up,dva-level-up,Level up!,common,ANNIVERSARY_2017,,False
+dva-no-way,dva-no-way,No Way,common,ANNIVERSARY_2017,,False
+dva-scoreboard,dva-scoreboard,Scoreboard,common,SUMMER_GAMES,,False
+dva-im-not-scared,dva-im-not-scared,I'm not scared,common,HALLOWEEN,,False
+dva-bunny,dva-bunny,Bunny,,,,False
+dva-charm,dva-charm,Charm,,,,False
+dva-dva,dva-dva,D.Va,,,,False
+dva-law,dva-law,Law,,,,False
+dva-cycling,dva-cycling,Cycling,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+dva-hanbok,dva-hanbok,Hanbok,,YEAR_OF_THE_ROOSTER_2017,,False
+dva-hanaversary,dva-hanaversary,Hanaversary,,ANNIVERSARY_2017,,False
+dva-heroic,dva-heroic,Heroic,common,,,True
+dva-excited,dva-excited,^o^,epic,,,False
+dva-bunny-hop,dva-bunny-hop,Bunny Hop,epic,,,False
+dva-heartbreaker,dva-heartbreaker,heartbreaker,epic,,,False
+dva-party-time,dva-party-time,Party Time,epic,,,False
+dva-bow,dva-bow,Bow,epic,YEAR_OF_THE_ROOSTER_2017,,False
+dva-dance,dva-dance,Dance,epic,ANNIVERSARY_2017,,False
+dva-game-on,dva-game-on,Game On,legendary,,,False
+dva-classic,dva-classic,Classic,common,,,True
+dva-blueberry,dva-blueberry,Blueberry,rare,,,False
+dva-lemonlime,dva-lemonlime,Lemon-Lime,rare,,,False
+dva-tangerine,dva-tangerine,Tangerine,rare,,,False
+dva-watermelon,dva-watermelon,Watermelon,rare,,,False
+dva-carbon-fiber,dva-carbon-fiber,Carbon Fiber,epic,,,False
+dva-white-rabbit,dva-white-rabbit,White Rabbit,epic,,,False
+dva-taegeukgi,dva-taegeukgi,Taegeukgi,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+dva-bva,dva-bva,B.Va,legendary,,,False
+dva-junebug,dva-junebug,Junebug,legendary,,,False
+dva-junker,dva-junker,Junker,legendary,,,False
+dva-officer,dva-officer,Officer,legendary,,,False
+dva-scavenger,dva-scavenger,Scavenger,legendary,,,False
+dva-palanquin,dva-palanquin,Palanquin,legendary,YEAR_OF_THE_ROOSTER_2017,,False
+dva-cruiser,dva-cruiser,Cruiser,legendary,ANNIVERSARY_2017,,False
+dva-bny,dva-bny,B.Ny,common,,,False
+dva-badge,dva-badge,Badge,common,,,False
+dva-bang,dva-bang,Bang,common,,,False
+dva-bubble,dva-bubble,Bubble,common,,,False
+dva-bubble-gum,dva-bubble-gum,Bubble Gum,common,,,False
+dva-bunny-hop,dva-bunny-hop,Bunny Hop,common,,,False
+dva-diva,dva-diva,Diva,common,,,False
+dva-gg,dva-gg,GG,common,,,False
+dva-hana,dva-hana,Hana,common,,,False
+dva-headset,dva-headset,Headset,common,,,False
+dva-heart,dva-heart,Heart,common,,,False
+dva-icon,dva-icon,Icon,common,,,False
+dva-light-gun,dva-light-gun,Light Gun,common,,,False
+dva-love-dva,dva-love-dva,Love D.Va,common,,,False
+dva-meka,dva-meka,MEKA,common,,,False
+dva-nano-cola,dva-nano-cola,Nano Cola,common,,,False
+dva-photo,dva-photo,Photo,common,,,False
+dva-pixel-bunny,dva-pixel-bunny,Pixel Bunny,common,,,False
+dva-power-up,dva-power-up,Power Up!,common,,,False
+dva-salt,dva-salt,Salt,common,,,False
+dva-star,dva-star,Star,common,,,False
+dva-unload,dva-unload,Unload,common,,,False
+dva-walk-of-fame,dva-walk-of-fame,Walk of Fame,common,,,False
+dva-watching,dva-watching,Watching,common,,,False
+dva-cycling,dva-cycling,Cycling,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+dva-trick-or-treat,dva-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+dva-cookie,dva-cookie,COOKIE,common,WINTER_WONDERLAND_2016,,False
+dva-ornament,dva-ornament,ORNAMENT,common,WINTER_WONDERLAND_2016,,False
+dva-dragon-dance,dva-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+dva-seesaw,dva-seesaw,Seesaw,common,YEAR_OF_THE_ROOSTER_2017,,False
+dva-handheld,dva-handheld,Handheld,common,UPRISING_2017,,False
+dva-ten-of-hearts,dva-ten-of-hearts,Ten of Hearts,common,ANNIVERSARY_2017,,False
+dva-cute,dva-cute,Cute,common,,,False
+dva-pixel,dva-pixel,Pixel,common,,,False
+dva-heroic,dva-heroic,Heroic,common,,,True
+dva-eject,dva-eject,Eject,epic,,,False
+dva-lying-around,dva-lying-around,Lying Around,epic,,,False
+dva-meka-activated,dva-meka-activated,MEKA Activated,epic,,,False
+dva-selfie,dva-selfie,Selfie,epic,UPRISING_2017,,False
+dva-heroic,dva-heroic,Heroic,common,,,True
+dva-i-heart-you,dva-i-heart-you,I heart you,rare,,,False
+dva-peace,dva-peace,Peace,rare,,,False
+dva-sitting,dva-sitting,Sitting,rare,,,False
+dva-rip,dva-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+dva-festive,dva-festive,Festive,rare,WINTER_WONDERLAND_2016,,False
+dva-lucky-pouch,dva-lucky-pouch,Lucky Pouch,rare,YEAR_OF_THE_ROOSTER_2017,,False
+soldier-76-ive-still-got-it,soldier-76-ive-still-got-it,I've still got it,common,,,True
+soldier-76-get-off-my-lawn,soldier-76-get-off-my-lawn,Get off my lawn,common,,,False
+soldier-76-i-didnt-start-this-war,soldier-76-i-didnt-start-this-war,I didn't start this war...,common,,,False
+soldier-76-im-an-army-of-one,soldier-76-im-an-army-of-one,I'm an army of one,common,,,False
+soldier-76-not-on-my-watch,soldier-76-not-on-my-watch,Not on my watch,common,,,False
+soldier-76-old-soldiers,soldier-76-old-soldiers,Old soldiers,common,,,False
+soldier-76-smells-like-victory,soldier-76-smells-like-victory,Smells like victory,common,,,False
+soldier-76-thats-sir-to-you,soldier-76-thats-sir-to-you,"That's ""sir"" to you",common,,,False
+soldier-76-what-are-you-lookin-at,soldier-76-what-are-you-lookin-at,What are you lookin' at?,common,,,False
+soldier-76-you-didnt-make-the-cut,soldier-76-you-didnt-make-the-cut,You didn't make the cut,common,,,False
+soldier-76-youre-the-other-one,soldier-76-youre-the-other-one,You're the other one,common,,,False
+soldier-76-you-want-a-medal,soldier-76-you-want-a-medal,You want a medal?,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+soldier-76-knock-knock,soldier-76-knock-knock,Knock knock,common,HALLOWEEN,HALLOWEEN_2016,False
+soldier-76-stay-frosty,soldier-76-stay-frosty,Stay frosty,common,WINTER_WONDERLAND_2016,,False
+soldier-76-the-rooster-crows,soldier-76-the-rooster-crows,The rooster crows,common,YEAR_OF_THE_ROOSTER_2017,,False
+soldier-76-not-getting-any-younger,soldier-76-not-getting-any-younger,Not getting any younger,common,UPRISING_2017,,False
+soldier-76-whatever-you-say,soldier-76-whatever-you-say,Whatever you say,common,UPRISING_2017,,False
+soldier-76-im-not-your-father,soldier-76-im-not-your-father,I'm not your father,common,ANNIVERSARY_2017,,False
+soldier-76-youre-the-boss,soldier-76-youre-the-boss,You're the boss,common,ANNIVERSARY_2017,,False
+soldier-76-bring-the-noise,soldier-76-bring-the-noise,Bring the noise,common,SUMMER_GAMES,,False
+soldier-76-trick-or-treat,soldier-76-trick-or-treat,Trick or treat,common,HALLOWEEN,,False
+soldier-76-76,soldier-76-76,76,,,,False
+soldier-76-soldier-76,soldier-76-soldier-76,Soldier: 76,,,,False
+soldier-76-strike-commander,soldier-76-strike-commander,Strike Commander,,,,False
+soldier-76-golf,soldier-76-golf,Golf,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+soldier-76-gold-soldier,soldier-76-gold-soldier,Gold Soldier,,ANNIVERSARY_2017,,False
+soldier-76-heroic,soldier-76-heroic,Heroic,common,,,True
+soldier-76-amused,soldier-76-amused,Amused,epic,,,False
+soldier-76-fist,soldier-76-fist,Fist,epic,,,False
+soldier-76-i-see-you,soldier-76-i-see-you,I see you,epic,,,False
+soldier-76-locked-and-loaded,soldier-76-locked-and-loaded,Locked and Loaded,epic,,,False
+soldier-76-take-a-knee,soldier-76-take-a-knee,Take a Knee,epic,,,False
+soldier-76-pushups,soldier-76-pushups,Push-ups,epic,UPRISING_2017,,False
+soldier-76-dance,soldier-76-dance,Dance,epic,ANNIVERSARY_2017,,False
+soldier-76-classic,soldier-76-classic,Classic,common,,,True
+soldier-76-jet,soldier-76-jet,Jet,rare,,,False
+soldier-76-olive,soldier-76-olive,Olive,rare,,,False
+soldier-76-russet,soldier-76-russet,Russet,rare,,,False
+soldier-76-smoke,soldier-76-smoke,Smoke,rare,,,False
+soldier-76-bone,soldier-76-bone,Bone,epic,,,False
+soldier-76-golden,soldier-76-golden,Golden,epic,,,False
+soldier-76-immortal,soldier-76-immortal,Immortal,epic,HALLOWEEN,HALLOWEEN_2016,False
+soldier-76-commando-76,soldier-76-commando-76,Commando: 76,legendary,,,False
+soldier-76-daredevil-76,soldier-76-daredevil-76,Daredevil: 76,legendary,,,False
+soldier-76-night-ops-76,soldier-76-night-ops-76,Night Ops: 76,legendary,,,False
+soldier-76-stunt-rider-76,soldier-76-stunt-rider-76,Stunt Rider: 76,legendary,,,False
+soldier-76-cyborg-76,soldier-76-cyborg-76,Cyborg: 76,legendary,ANNIVERSARY_2017,,False
+soldier-76-grillmaster-76,soldier-76-grillmaster-76,Grillmaster: 76,legendary,SUMMER_GAMES,,False
+soldier-76-strike-commander-morrison,soldier-76-strike-commander-morrison,Strike Commander Morrison,legendary,,,False
+soldier-76-76,soldier-76-76,76,common,,,False
+soldier-76-all-soldiers,soldier-76-all-soldiers,All Soldiers,common,,,False
+soldier-76-american-hero,soldier-76-american-hero,American Hero,common,,,False
+soldier-76-coin,soldier-76-coin,Coin,common,,,False
+soldier-76-grave,soldier-76-grave,Grave,common,,,False
+soldier-76-grizzled,soldier-76-grizzled,Grizzled,common,,,False
+soldier-76-heal-up,soldier-76-heal-up,Heal Up,common,,,False
+soldier-76-helix,soldier-76-helix,Helix,common,,,False
+soldier-76-hooah,soldier-76-hooah,Hooah,common,,,False
+soldier-76-icon,soldier-76-icon,Icon,common,,,False
+soldier-76-jacket-76,soldier-76-jacket-76,Jacket: 76,common,,,False
+soldier-76-move,soldier-76-move,Move!,common,,,False
+soldier-76-muzzle,soldier-76-muzzle,Muzzle,common,,,False
+soldier-76-old-soldier,soldier-76-old-soldier,Old Soldier,common,,,False
+soldier-76-pulse-rifle,soldier-76-pulse-rifle,Pulse Rifle,common,,,False
+soldier-76-resolute,soldier-76-resolute,Resolute,common,,,False
+soldier-76-rifle-76,soldier-76-rifle-76,Rifle: 76,common,,,False
+soldier-76-rockets,soldier-76-rockets,Rockets,common,,,False
+soldier-76-salute,soldier-76-salute,Salute,common,,,False
+soldier-76-strike-commander,soldier-76-strike-commander,Strike Commander,common,,,False
+soldier-76-vigilante,soldier-76-vigilante,Vigilante,common,,,False
+soldier-76-visor,soldier-76-visor,Visor,common,,,False
+soldier-76-wanted,soldier-76-wanted,Wanted,common,,,False
+soldier-76-golf,soldier-76-golf,Golf,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+soldier-76-trick-or-treat,soldier-76-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+soldier-76-army-man-76,soldier-76-army-man-76,Army Man: 76,common,WINTER_WONDERLAND_2016,,False
+soldier-76-ornament,soldier-76-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+soldier-76-dragon-dance,soldier-76-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+soldier-76-folded-hands,soldier-76-folded-hands,Folded Hands,common,YEAR_OF_THE_ROOSTER_2017,,False
+soldier-76-commando,soldier-76-commando,Commando,common,UPRISING_2017,,False
+soldier-76-ace-of-spades,soldier-76-ace-of-spades,Ace of Spades,common,ANNIVERSARY_2017,,False
+soldier-76-cute,soldier-76-cute,Cute,common,,,False
+soldier-76-pixel,soldier-76-pixel,Pixel,common,,,False
+soldier-76-heroic,soldier-76-heroic,Heroic,common,,,True
+soldier-76-helix,soldier-76-helix,HELIX,epic,,,False
+soldier-76-looking-at-you,soldier-76-looking-at-you,Looking at You,epic,,,False
+soldier-76-target-rich-environment,soldier-76-target-rich-environment,Target Rich Environment,epic,,,False
+soldier-76-heroic,soldier-76-heroic,Heroic,common,,,True
+soldier-76-fist-pump,soldier-76-fist-pump,Fist Pump,rare,,,False
+soldier-76-locked-and-loaded,soldier-76-locked-and-loaded,Locked and Loaded,rare,,,False
+soldier-76-soldier,soldier-76-soldier,Soldier,rare,,,False
+soldier-76-golf-swing,soldier-76-golf-swing,Golf Swing,rare,SUMMER_GAMES,SUMMER_GAMES_2016,False
+soldier-76-rip,soldier-76-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+soldier-76-toast,soldier-76-toast,Toast,rare,WINTER_WONDERLAND_2016,,False
+reaper-what-are-you-looking-at,reaper-what-are-you-looking-at,What are you looking at,common,,,True
+reaper-dead-man-walking,reaper-dead-man-walking,Dead man walking,common,,,False
+reaper-give-me-a-break,reaper-give-me-a-break,Give me a break,common,,,False
+reaper-havent-i-killed-you,reaper-havent-i-killed-you,Haven't I killed you,common,,,False
+reaper-im-back-in-black,reaper-im-back-in-black,I'm back in black,common,,,False
+reaper-if-it-lives-i-can-kill-it,reaper-if-it-lives-i-can-kill-it,"If it lives, I can kill it",common,,,False
+reaper-next,reaper-next,Next,common,,,False
+reaper-psychopath,reaper-psychopath,Psychopath,common,,,False
+reaper-seen-a-ghost,reaper-seen-a-ghost,Seen a ghost?,common,,,False
+reaper-too-easy,reaper-too-easy,Too easy,common,,,False
+reaper-was-that-all,reaper-was-that-all,Was that all?,common,,,False
+reaper-its-in-the-refrigerator,reaper-its-in-the-refrigerator,It's in the refrigerator,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+reaper-i-work-the-graveyard-shift,reaper-i-work-the-graveyard-shift,I work the graveyard shift,common,HALLOWEEN,HALLOWEEN_2016,False
+reaper-holiday-spirit,reaper-holiday-spirit,Holiday spirit,common,WINTER_WONDERLAND_2016,,False
+reaper-now-those-are-fireworks,reaper-now-those-are-fireworks,Now those are fireworks,common,YEAR_OF_THE_ROOSTER_2017,,False
+reaper-amateur-hour,reaper-amateur-hour,Amateur hour,common,UPRISING_2017,,False
+reaper-moving-on,reaper-moving-on,Moving on,common,UPRISING_2017,,False
+reaper-ill-see-you-in-hell,reaper-ill-see-you-in-hell,I'll see you in hell,common,ANNIVERSARY_2017,,False
+reaper-no-one-left-behind,reaper-no-one-left-behind,No one left behind,common,ANNIVERSARY_2017,,False
+reaper-just-win,reaper-just-win,Just win,common,SUMMER_GAMES,,False
+reaper-things-are-looking-grim,reaper-things-are-looking-grim,Things are looking grim,common,HALLOWEEN,,False
+reaper-emblem,reaper-emblem,Emblem,,,,False
+reaper-reaper,reaper-reaper,Reaper,,,,False
+reaper-soul,reaper-soul,Soul,,,,False
+reaper-bmx,reaper-bmx,BMX,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+reaper-the-reaper,reaper-the-reaper,The Reaper,,HALLOWEEN,HALLOWEEN_2016,False
+reaper-reapiversary,reaper-reapiversary,Reapiversary,,ANNIVERSARY_2017,,False
+reaper-dracula,reaper-dracula,Dracula,,HALLOWEEN,,False
+reaper-heroic,reaper-heroic,Heroic,common,,,True
+reaper-cackle,reaper-cackle,Cackle,epic,,,False
+reaper-not-impressed,reaper-not-impressed,Not Impressed,epic,,,False
+reaper-shrug,reaper-shrug,Shrug,epic,,,False
+reaper-slice,reaper-slice,Slice,epic,,,False
+reaper-slow-clap,reaper-slow-clap,Slow Clap,epic,,,False
+reaper-take-a-knee,reaper-take-a-knee,Take a knee,epic,,,False
+reaper-dance,reaper-dance,Dance,epic,ANNIVERSARY_2017,,False
+reaper-classic,reaper-classic,Classic,common,,,True
+reaper-blood,reaper-blood,Blood,rare,,,False
+reaper-midnight,reaper-midnight,Midnight,rare,,,False
+reaper-moss,reaper-moss,Moss,rare,,,False
+reaper-royal,reaper-royal,Royal,rare,,,False
+reaper-desert,reaper-desert,Desert,epic,,,False
+reaper-wight,reaper-wight,Wight,epic,,,False
+reaper-shiver,reaper-shiver,Shiver,epic,WINTER_WONDERLAND_2016,,False
+reaper-el-blanco,reaper-el-blanco,El Blanco,legendary,,,False
+reaper-mariachi,reaper-mariachi,Mariachi,legendary,,,False
+reaper-nevermore,reaper-nevermore,Nevermore,legendary,,,False
+reaper-plague-doctor,reaper-plague-doctor,Plague Doctor,legendary,,,False
+reaper-pumpkin,reaper-pumpkin,Pumpkin,legendary,HALLOWEEN,HALLOWEEN_2016,False
+reaper-biker,reaper-biker,Biker,legendary,SUMMER_GAMES,,False
+reaper-dracula,reaper-dracula,Dracula,legendary,HALLOWEEN,,False
+reaper-blackwatch-reyes,reaper-blackwatch-reyes,Blackwatch Reyes,legendary,,,False
+reaper-blackwatch,reaper-blackwatch,Blackwatch,common,,,False
+reaper-blossom,reaper-blossom,Blossom,common,,,False
+reaper-cloaked,reaper-cloaked,Cloaked,common,,,False
+reaper-death-blossom,reaper-death-blossom,Death Blossom,common,,,False
+reaper-death-comes,reaper-death-comes,Death Comes,common,,,False
+reaper-die-die-die,reaper-die-die-die,Die Die Die,common,,,False
+reaper-everywhere,reaper-everywhere,Everywhere,common,,,False
+reaper-grave,reaper-grave,Grave,common,,,False
+reaper-hellfire,reaper-hellfire,Hellfire,common,,,False
+reaper-hooded,reaper-hooded,Hooded,common,,,False
+reaper-horns,reaper-horns,Horns,common,,,False
+reaper-icon,reaper-icon,Icon,common,,,False
+reaper-oops,reaper-oops,Oops,common,,,False
+reaper-psst,reaper-psst,Psst,common,,,False
+reaper-reap-on,reaper-reap-on,Reap On,common,,,False
+reaper-reaping,reaper-reaping,Reaping,common,,,False
+reaper-revenge,reaper-revenge,Revenge,common,,,False
+reaper-scythes,reaper-scythes,Scythes,common,,,False
+reaper-shadow,reaper-shadow,Shadow,common,,,False
+reaper-shadow-step,reaper-shadow-step,Shadow Step,common,,,False
+reaper-shrug,reaper-shrug,Shrug,common,,,False
+reaper-silent,reaper-silent,Silent,common,,,False
+reaper-soul-globe,reaper-soul-globe,Soul Globe,common,,,False
+reaper-time-to-kill,reaper-time-to-kill,Time to Kill,common,,,False
+reaper-bmx,reaper-bmx,BMX,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+reaper-trick-or-treat,reaper-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+reaper-ornament,reaper-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+reaper-stocking,reaper-stocking,Stocking,common,WINTER_WONDERLAND_2016,,False
+reaper-dragon-dance,reaper-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+reaper-fire-blossom,reaper-fire-blossom,Fire Blossom,common,YEAR_OF_THE_ROOSTER_2017,,False
+reaper-commando,reaper-commando,Commando,common,UPRISING_2017,,False
+reaper-ace-of-clubs,reaper-ace-of-clubs,Ace of Clubs,common,ANNIVERSARY_2017,,False
+reaper-cute,reaper-cute,Cute,common,,,False
+reaper-pixel,reaper-pixel,Pixel,common,,,False
+reaper-heroic,reaper-heroic,Heroic,common,,,True
+reaper-death-blossom,reaper-death-blossom,Death Blossom,epic,,,False
+reaper-executioner,reaper-executioner,Executioner,epic,,,False
+reaper-shadow-step,reaper-shadow-step,SHADOW STEP,epic,,,False
+reaper-eternal-rest,reaper-eternal-rest,Eternal Rest,epic,HALLOWEEN,HALLOWEEN_2016,False
+reaper-heroic,reaper-heroic,Heroic,common,,,True
+reaper-casual,reaper-casual,Casual,rare,,,False
+reaper-enigmatic,reaper-enigmatic,Enigmatic,rare,,,False
+reaper-menacing,reaper-menacing,Menacing,rare,,,False
+reaper-shrug,reaper-shrug,Shrug,rare,,,False
+reaper-medal,reaper-medal,Medal,rare,SUMMER_GAMES,SUMMER_GAMES_2016,False
+reaper-rip,reaper-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+zenyatta-we-are-in-harmony,zenyatta-we-are-in-harmony,We are in harmony,common,,,True
+zenyatta-death-is-whimsical-today,zenyatta-death-is-whimsical-today,Death is whimsical today,common,,,False
+zenyatta-do-i-think,zenyatta-do-i-think,Do I think?,common,,,False
+zenyatta-free-your-mind,zenyatta-free-your-mind,Free your mind,common,,,False
+zenyatta-hello-world,zenyatta-hello-world,"Hello, world!",common,,,False
+zenyatta-i-dreamt-i-was-a-butterfly,zenyatta-i-dreamt-i-was-a-butterfly,I dreamt I was a butterfly,common,,,False
+zenyatta-i-think-therefore-i-am,zenyatta-i-think-therefore-i-am,"I think, therefore I am",common,,,False
+zenyatta-i-will-not-juggle,zenyatta-i-will-not-juggle,I will not juggle,common,,,False
+zenyatta-ones-and-zeroes,zenyatta-ones-and-zeroes,Ones and zeroes,common,,,False
+zenyatta-peace-and-blessings,zenyatta-peace-and-blessings,Peace and blessings,common,,,False
+zenyatta-the-iris-embraces-you,zenyatta-the-iris-embraces-you,The iris embraces you,common,,,False
+zenyatta-strive-for-improvement,zenyatta-strive-for-improvement,Strive for improvement,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+zenyatta-trick-or-treat,zenyatta-trick-or-treat,Trick or treat?,common,HALLOWEEN,HALLOWEEN_2016,False
+zenyatta-no-snowflake,zenyatta-no-snowflake,No snowflake,common,WINTER_WONDERLAND_2016,,False
+zenyatta-every-rooster-crows,zenyatta-every-rooster-crows,Every rooster crows,common,YEAR_OF_THE_ROOSTER_2017,,False
+zenyatta-path-to-enlightenment,zenyatta-path-to-enlightenment,Path to enlightenment,common,UPRISING_2017,,False
+zenyatta-where-youre-headed,zenyatta-where-youre-headed,Where you're headed,common,UPRISING_2017,,False
+zenyatta-existence-is-mysterious,zenyatta-existence-is-mysterious,Existence is mysterious,common,ANNIVERSARY_2017,,False
+zenyatta-how-disappointing,zenyatta-how-disappointing,How disappointing,common,ANNIVERSARY_2017,,False
+zenyatta-form-is-temporary,zenyatta-form-is-temporary,Form is temporary,common,SUMMER_GAMES,,False
+zenyatta-frightening,zenyatta-frightening,Frightening,common,HALLOWEEN,,False
+zenyatta-harmony,zenyatta-harmony,Harmony,,,,False
+zenyatta-meditation,zenyatta-meditation,Meditation,,,,False
+zenyatta-zenyatta,zenyatta-zenyatta,Zenyatta,,,,False
+zenyatta-taekwondo,zenyatta-taekwondo,Taekwondo,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+zenyatta-nutcracker,zenyatta-nutcracker,Nutcracker,,WINTER_WONDERLAND_2016,,False
+zenyatta-sanzang,zenyatta-sanzang,Sanzang,,YEAR_OF_THE_ROOSTER_2017,,False
+zenyatta-zeniversary,zenyatta-zeniversary,Zeniversary,,ANNIVERSARY_2017,,False
+zenyatta-cultist,zenyatta-cultist,Cultist,,HALLOWEEN,,False
+zenyatta-heroic,zenyatta-heroic,Heroic,common,,,True
+zenyatta-focusing,zenyatta-focusing,Focusing,epic,,,False
+zenyatta-meditate,zenyatta-meditate,Meditate,epic,,,False
+zenyatta-round-of-applause,zenyatta-round-of-applause,Round of Applause,epic,,,False
+zenyatta-taunt,zenyatta-taunt,Taunt,epic,,,False
+zenyatta-tickled,zenyatta-tickled,Tickled,epic,,,False
+zenyatta-dance,zenyatta-dance,Dance,epic,ANNIVERSARY_2017,,False
+zenyatta-classic,zenyatta-classic,Classic,common,,,True
+zenyatta-air,zenyatta-air,Air,rare,,,False
+zenyatta-earth,zenyatta-earth,Earth,rare,,,False
+zenyatta-leaf,zenyatta-leaf,Leaf,rare,,,False
+zenyatta-water,zenyatta-water,Water,rare,,,False
+zenyatta-ascendant,zenyatta-ascendant,Ascendant,epic,,,False
+zenyatta-harmonious,zenyatta-harmonious,Harmonious,epic,,,False
+zenyatta-skullyatta,zenyatta-skullyatta,Skullyatta,epic,HALLOWEEN,HALLOWEEN_2016,False
+zenyatta-djinnyatta,zenyatta-djinnyatta,Djinnyatta,legendary,,,False
+zenyatta-ifrit,zenyatta-ifrit,Ifrit,legendary,,,False
+zenyatta-ra,zenyatta-ra,Ra,legendary,,,False
+zenyatta-sunyatta,zenyatta-sunyatta,Sunyatta,legendary,,,False
+zenyatta-nutcracker,zenyatta-nutcracker,Nutcracker,legendary,WINTER_WONDERLAND_2016,,False
+zenyatta-sanzang,zenyatta-sanzang,Sanzang,legendary,YEAR_OF_THE_ROOSTER_2017,,False
+zenyatta-cultist,zenyatta-cultist,Cultist,legendary,HALLOWEEN,,False
+zenyatta-adorable,zenyatta-adorable,Adorable,common,,,False
+zenyatta-aura,zenyatta-aura,Aura,common,,,False
+zenyatta-balance,zenyatta-balance,Balance,common,,,False
+zenyatta-contemplative,zenyatta-contemplative,Contemplative,common,,,False
+zenyatta-discord,zenyatta-discord,Discord,common,,,False
+zenyatta-enlightened,zenyatta-enlightened,Enlightened,common,,,False
+zenyatta-fist-bump,zenyatta-fist-bump,Fist Bump,common,,,False
+zenyatta-flow,zenyatta-flow,Flow,common,,,False
+zenyatta-foot,zenyatta-foot,Foot,common,,,False
+zenyatta-graphic,zenyatta-graphic,Graphic,common,,,False
+zenyatta-guru,zenyatta-guru,Guru,common,,,False
+zenyatta-hand,zenyatta-hand,Hand,common,,,False
+zenyatta-harmony,zenyatta-harmony,Harmony,common,,,False
+zenyatta-icon,zenyatta-icon,Icon,common,,,False
+zenyatta-inner-fire,zenyatta-inner-fire,Inner Fire,common,,,False
+zenyatta-nine,zenyatta-nine,Nine,common,,,False
+zenyatta-orb,zenyatta-orb,Orb,common,,,False
+zenyatta-orbs,zenyatta-orbs,Orbs,common,,,False
+zenyatta-peace,zenyatta-peace,Peace,common,,,False
+zenyatta-taunt,zenyatta-taunt,Taunt,common,,,False
+zenyatta-tekhartha,zenyatta-tekhartha,Tekhartha,common,,,False
+zenyatta-throw,zenyatta-throw,Throw,common,,,False
+zenyatta-together,zenyatta-together,Together,common,,,False
+zenyatta-taekwondo,zenyatta-taekwondo,Taekwondo,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+zenyatta-trick-or-treat,zenyatta-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+zenyatta-ornament,zenyatta-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+zenyatta-snowball-fight,zenyatta-snowball-fight,Snowball Fight,common,WINTER_WONDERLAND_2016,,False
+zenyatta-dragon-dance,zenyatta-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+zenyatta-yut-nori,zenyatta-yut-nori,Yut Nori,common,YEAR_OF_THE_ROOSTER_2017,,False
+zenyatta-shell,zenyatta-shell,Shell,common,UPRISING_2017,,False
+zenyatta-king-of-spades,zenyatta-king-of-spades,King of Spades,common,ANNIVERSARY_2017,,False
+zenyatta-cute,zenyatta-cute,Cute,common,,,False
+zenyatta-pixel,zenyatta-pixel,Pixel,common,,,False
+zenyatta-heroic,zenyatta-heroic,Heroic,common,,,True
+zenyatta-focused,zenyatta-focused,Focused,epic,,,False
+zenyatta-harmony-and-discord,zenyatta-harmony-and-discord,Harmony and Discord,epic,,,False
+zenyatta-transcendence,zenyatta-transcendence,Transcendence,epic,,,False
+zenyatta-perspective,zenyatta-perspective,Perspective,epic,UPRISING_2017,,False
+zenyatta-heroic,zenyatta-heroic,Heroic,common,,,True
+zenyatta-balance,zenyatta-balance,Balance,rare,,,False
+zenyatta-harmony,zenyatta-harmony,Harmony,rare,,,False
+zenyatta-peace,zenyatta-peace,Peace,rare,,,False
+zenyatta-medals,zenyatta-medals,Medals,rare,SUMMER_GAMES,SUMMER_GAMES_2016,False
+zenyatta-rip,zenyatta-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+sombra-playing-fair,sombra-playing-fair,Playing Fair,common,,,True
+sombra-boop,sombra-boop,Boop,common,,,False
+sombra-cool,sombra-cool,Cool,common,,,False
+sombra-did-you-mean-to-do-that,sombra-did-you-mean-to-do-that,Did you mean to do that?,common,,,False
+sombra-glitch-in-the-system,sombra-glitch-in-the-system,Glitch in the system,common,,,False
+sombra-good-one,sombra-good-one,Good one,common,,,False
+sombra-hack-the-planet,sombra-hack-the-planet,Hack the Planet,common,,,False
+sombra-in-over-your-head,sombra-in-over-your-head,In over your head,common,,,False
+sombra-just-squishing-a-bug,sombra-just-squishing-a-bug,Just squishing a bug,common,,,False
+sombra-mess-with-the-best,sombra-mess-with-the-best,Mess with the best...,common,,,False
+sombra-show-me-what-you-got,sombra-show-me-what-you-got,Show me what you got,common,,,False
+sombra-taking-this-very-seriously,sombra-taking-this-very-seriously,Taking this very seriously,common,,,False
+sombra-i-know-whos-been-naughty,sombra-i-know-whos-been-naughty,I know who's been naughty,common,WINTER_WONDERLAND_2016,,False
+sombra-youre-easily-impressed,sombra-youre-easily-impressed,You're easily impressed,common,YEAR_OF_THE_ROOSTER_2017,,False
+sombra-dont-be-a-coward,sombra-dont-be-a-coward,Don't be a coward,common,UPRISING_2017,,False
+sombra-id-love-to-stay-and-chat,sombra-id-love-to-stay-and-chat,I'd love to stay and chat,common,UPRISING_2017,,False
+sombra-i-need-a-drink,sombra-i-need-a-drink,I need a drink,common,ANNIVERSARY_2017,,False
+sombra-were-you-done-talking,sombra-were-you-done-talking,Were you done talking?,common,ANNIVERSARY_2017,,False
+sombra-try-and-keep-up,sombra-try-and-keep-up,Try and keep up,common,SUMMER_GAMES,,False
+sombra-whats-up,sombra-whats-up,What's up?,common,SUMMER_GAMES,,False
+sombra-aw-isnt-that-sweet,sombra-aw-isnt-that-sweet,"Aw, isn't that sweet?",common,HALLOWEEN,,False
+sombra-you-trying-to-be-scary,sombra-you-trying-to-be-scary,You trying to be scary?,common,HALLOWEEN,,False
+sombra-hacker,sombra-hacker,Hacker,,,,False
+sombra-skull,sombra-skull,Skull,,,,False
+sombra-sombra,sombra-sombra,Sombra,,,,False
+sombra-aniversario,sombra-aniversario,Aniversario,,ANNIVERSARY_2017,,False
+sombra-high-jump,sombra-high-jump,High Jump,,SUMMER_GAMES,,False
+sombra-heroic,sombra-heroic,Heroic,common,,,True
+sombra-amused,sombra-amused,Amused,epic,,,False
+sombra-boop,sombra-boop,Boop,epic,,,False
+sombra-hold-on,sombra-hold-on,Hold On,epic,,,False
+sombra-masterpiece,sombra-masterpiece,Masterpiece,epic,,,False
+sombra-sit,sombra-sit,Sit,epic,,,False
+sombra-dance,sombra-dance,Dance,epic,ANNIVERSARY_2017,,False
+sombra-classic,sombra-classic,Classic,common,,,True
+sombra-cidro,sombra-cidro,Cidro,rare,,,False
+sombra-incendio,sombra-incendio,Incendio,rare,,,False
+sombra-mar,sombra-mar,Mar,rare,,,False
+sombra-noche,sombra-noche,Noche,rare,,,False
+sombra-glitch,sombra-glitch,Glitch,epic,,,False
+sombra-virus,sombra-virus,Virus,epic,,,False
+sombra-peppermint,sombra-peppermint,Peppermint,epic,WINTER_WONDERLAND_2016,,False
+sombra-augmented,sombra-augmented,Augmented,legendary,,,False
+sombra-azucar,sombra-azucar,Azúcar,legendary,,,False
+sombra-cyberspace,sombra-cyberspace,Cyberspace,legendary,,,False
+sombra-los-muertos,sombra-los-muertos,Los Muertos,legendary,,,False
+sombra-tulum,sombra-tulum,Tulum,legendary,SUMMER_GAMES,,False
+sombra-5kull,sombra-5kull,5kull,common,,,False
+sombra-agent,sombra-agent,Agent,common,,,False
+sombra-behind-you,sombra-behind-you,Behind You,common,,,False
+sombra-calavera,sombra-calavera,Calavera,common,,,False
+sombra-deafmute,sombra-deafmute,Deaf-Mute,common,,,False
+sombra-eyes,sombra-eyes,Eyes,common,,,False
+sombra-hacked,sombra-hacked,Hacked,common,,,False
+sombra-hacked-the-moon,sombra-hacked-the-moon,Hacked the Moon,common,,,False
+sombra-hacker,sombra-hacker,Hacker,common,,,False
+sombra-icon,sombra-icon,Icon,common,,,False
+sombra-illusive,sombra-illusive,Illusive,common,,,False
+sombra-key,sombra-key,Key,common,,,False
+sombra-machine-pistol,sombra-machine-pistol,Machine Pistol,common,,,False
+sombra-marionette,sombra-marionette,Marionette,common,,,False
+sombra-neural,sombra-neural,Neural,common,,,False
+sombra-power,sombra-power,Power,common,,,False
+sombra-puzzle,sombra-puzzle,Puzzle,common,,,False
+sombra-skull,sombra-skull,Skull,common,,,False
+sombra-skycode,sombra-skycode,Skycode,common,,,False
+sombra-superior,sombra-superior,Superior,common,,,False
+sombra-tagged,sombra-tagged,Tagged,common,,,False
+sombra-translocator,sombra-translocator,Translocator,common,,,False
+sombra-unlocked,sombra-unlocked,Unlocked,common,,,False
+sombra-virus,sombra-virus,Virus,common,,,False
+sombra-web,sombra-web,Web,common,,,False
+sombra-quien,sombra-quien,¿Quién?,common,,,False
+sombra-ornament,sombra-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+sombra-puppet,sombra-puppet,Puppet,common,WINTER_WONDERLAND_2016,,False
+sombra-dragon-dance,sombra-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+sombra-fortunate,sombra-fortunate,Fortunate,common,YEAR_OF_THE_ROOSTER_2017,,False
+sombra-espresso,sombra-espresso,Espresso,common,UPRISING_2017,,False
+sombra-queen-of-spades,sombra-queen-of-spades,Queen of Spades,common,ANNIVERSARY_2017,,False
+sombra-high-jump,sombra-high-jump,High Jump,common,SUMMER_GAMES,,False
+sombra-trick-or-treat,sombra-trick-or-treat,Trick or Treat,common,HALLOWEEN,,False
+sombra-cute,sombra-cute,Cute,common,,,False
+sombra-pixel,sombra-pixel,Pixel,common,,,False
+sombra-heroic,sombra-heroic,Heroic,common,,,True
+sombra-hacking,sombra-hacking,Hacking,epic,,,False
+sombra-pulse,sombra-pulse,Pulse,epic,,,False
+sombra-undetected,sombra-undetected,Undetected,epic,,,False
+sombra-heroic,sombra-heroic,Heroic,common,,,True
+sombra-hacked,sombra-hacked,Hacked,rare,,,False
+sombra-kneeling,sombra-kneeling,Kneeling,rare,,,False
+sombra-rising,sombra-rising,Rising,rare,,,False
+sombra-sparklers,sombra-sparklers,Sparklers,rare,YEAR_OF_THE_ROOSTER_2017,,False
+sombra-medal,sombra-medal,Medal,rare,SUMMER_GAMES,,False
+sombra-pumpkinette,sombra-pumpkinette,Pumpkinette,rare,HALLOWEEN,,False
+tracer-you-got-it,tracer-you-got-it,You got it,common,,,True
+tracer-aw-rubbish,tracer-aw-rubbish,"Aw, rubbish",common,,,False
+tracer-be-right-back,tracer-be-right-back,Be right back!,common,,,False
+tracer-check-me-out,tracer-check-me-out,Check me out,common,,,False
+tracer-cheers-love,tracer-cheers-love,"Cheers, love!",common,,,False
+tracer-deja-vu,tracer-deja-vu,déjà vu,common,,,False
+tracer-keep-calm,tracer-keep-calm,Keep calm,common,,,False
+tracer-she-shoots-she-scores,tracer-she-shoots-she-scores,"She shoots, she scores",common,,,False
+tracer-the-world-needs-heroes,tracer-the-world-needs-heroes,The world needs heroes,common,,,False
+tracer-under-control,tracer-under-control,Under control,common,,,False
+tracer-you-need-a-time-out,tracer-you-need-a-time-out,You need a time out,common,,,False
+tracer-eat-my-dust,tracer-eat-my-dust,Eat my dust,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+tracer-ooh-scary,tracer-ooh-scary,"Ooh, Scary!",common,HALLOWEEN,HALLOWEEN_2016,False
+tracer-its-in-the-bag,tracer-its-in-the-bag,It's in the bag,common,WINTER_WONDERLAND_2016,,False
+tracer-ready-for-some-fireworks,tracer-ready-for-some-fireworks,Ready for some fireworks?,common,YEAR_OF_THE_ROOSTER_2017,,False
+tracer-dont-be-daft,tracer-dont-be-daft,Don't be daft,common,UPRISING_2017,,False
+tracer-sorry-im-late,tracer-sorry-im-late,Sorry I'm late,common,UPRISING_2017,,False
+tracer-did-i-miss-something,tracer-did-i-miss-something,Did I miss something?,common,ANNIVERSARY_2017,,False
+tracer-too-slow,tracer-too-slow,Too slow!,common,ANNIVERSARY_2017,,False
+tracer-time-out,tracer-time-out,Time out!,common,SUMMER_GAMES,,False
+tracer-boo,tracer-boo,Boo!,common,HALLOWEEN,,False
+tracer-patch,tracer-patch,Patch,,,,False
+tracer-pulse-bomb,tracer-pulse-bomb,Pulse Bomb,,,,False
+tracer-tracer,tracer-tracer,Tracer,,,,False
+tracer-track,tracer-track,Track,,SUMMER_GAMES,SUMMER_GAMES_2016,False
+tracer-jingle,tracer-jingle,Jingle,,WINTER_WONDERLAND_2016,,False
+tracer-cadet,tracer-cadet,Cadet,,UPRISING_2017,,False
+tracer-auxton,tracer-auxton,Auxton,,ANNIVERSARY_2017,,False
+tracer-heroic,tracer-heroic,Heroic,common,,,True
+tracer-cheer,tracer-cheer,Cheer,epic,,,False
+tracer-finger-guns,tracer-finger-guns,Finger Guns,epic,,,False
+tracer-having-a-laugh,tracer-having-a-laugh,Having a laugh,epic,,,False
+tracer-sitting-around,tracer-sitting-around,Sitting Around...,epic,,,False
+tracer-spin,tracer-spin,Spin,epic,,,False
+tracer-charleston,tracer-charleston,Charleston,epic,ANNIVERSARY_2017,,False
+tracer-classic,tracer-classic,Classic,common,,,True
+tracer-electric-purple,tracer-electric-purple,Electric Purple,rare,,,False
+tracer-hot-pink,tracer-hot-pink,Hot Pink,rare,,,False
+tracer-neon-green,tracer-neon-green,Neon Green,rare,,,False
+tracer-royal-blue,tracer-royal-blue,Royal Blue,rare,,,False
+tracer-posh,tracer-posh,Posh,epic,,,False
+tracer-sporty,tracer-sporty,Sporty,epic,,,False
+tracer-rose,tracer-rose,Rose,epic,YEAR_OF_THE_ROOSTER_2017,,False
+tracer-mach-t,tracer-mach-t,Mach T,legendary,,,False
+tracer-punk,tracer-punk,Punk,legendary,,,False
+tracer-t-racer,tracer-t-racer,T. Racer,legendary,,,False
+tracer-ultraviolet,tracer-ultraviolet,Ultraviolet,legendary,,,False
+tracer-sprinter,tracer-sprinter,Sprinter,legendary,SUMMER_GAMES,SUMMER_GAMES_2016,False
+tracer-track-and-field,tracer-track-and-field,Track and Field,legendary,SUMMER_GAMES,SUMMER_GAMES_2016,False
+tracer-jingle,tracer-jingle,Jingle,legendary,WINTER_WONDERLAND_2016,,False
+tracer-cadet-oxton,tracer-cadet-oxton,Cadet Oxton,legendary,UPRISING_2017,,False
+tracer-graffiti,tracer-graffiti,Graffiti,legendary,ANNIVERSARY_2017,,False
+tracer-slipstream,tracer-slipstream,Slipstream,legendary,,,False
+tracer-blink,tracer-blink,Blink,common,,,False
+tracer-bombs-away,tracer-bombs-away,Bomb's Away!,common,,,False
+tracer-cavalrys-here,tracer-cavalrys-here,Cavalry's Here,common,,,False
+tracer-cheers,tracer-cheers,Cheers,common,,,False
+tracer-cheers-love,tracer-cheers-love,"Cheers, Love",common,,,False
+tracer-clocks-tickin,tracer-clocks-tickin,Clock's Tickin',common,,,False
+tracer-confident,tracer-confident,Confident,common,,,False
+tracer-fighter,tracer-fighter,Fighter,common,,,False
+tracer-icon,tracer-icon,Icon,common,,,False
+tracer-kneeling,tracer-kneeling,Kneeling,common,,,False
+tracer-lena,tracer-lena,Lena,common,,,False
+tracer-orange,tracer-orange,Orange,common,,,False
+tracer-pew-pew-pew,tracer-pew-pew-pew,Pew! Pew! Pew!,common,,,False
+tracer-pistols,tracer-pistols,Pistols,common,,,False
+tracer-portrait,tracer-portrait,Portrait,common,,,False
+tracer-poster,tracer-poster,Poster,common,,,False
+tracer-pulse-bomb,tracer-pulse-bomb,Pulse Bomb,common,,,False
+tracer-ready-for-action,tracer-ready-for-action,Ready for Action,common,,,False
+tracer-salute,tracer-salute,Salute,common,,,False
+tracer-shaded,tracer-shaded,Shaded,common,,,False
+tracer-tagged,tracer-tagged,Tagged,common,,,False
+tracer-whatcha-lookin-at,tracer-whatcha-lookin-at,Whatcha' Lookin' At?,common,,,False
+tracer-wings,tracer-wings,Wings,common,,,False
+tracer-track,tracer-track,Track,common,SUMMER_GAMES,SUMMER_GAMES_2016,False
+tracer-trick-or-treat,tracer-trick-or-treat,Trick or Treat,common,HALLOWEEN,HALLOWEEN_2016,False
+tracer-ornament,tracer-ornament,Ornament,common,WINTER_WONDERLAND_2016,,False
+tracer-snowboarding,tracer-snowboarding,Snowboarding,common,WINTER_WONDERLAND_2016,,False
+tracer-dragon-dance,tracer-dragon-dance,Dragon Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+tracer-fan-dance,tracer-fan-dance,Fan Dance,common,YEAR_OF_THE_ROOSTER_2017,,False
+tracer-slipstream,tracer-slipstream,Slipstream,common,UPRISING_2017,,False
+tracer-ace-of-diamonds,tracer-ace-of-diamonds,Ace of Diamonds,common,ANNIVERSARY_2017,,False
+tracer-cute,tracer-cute,Cute,common,,,False
+tracer-pixel,tracer-pixel,Pixel,common,,,False
+tracer-heroic,tracer-heroic,Heroic,common,,,True
+tracer-backflip,tracer-backflip,Backflip,epic,,,False
+tracer-just-in-time,tracer-just-in-time,Just in Time,epic,,,False
+tracer-serious-business,tracer-serious-business,Serious Business,epic,,,False
+tracer-hurdle,tracer-hurdle,Hurdle,epic,SUMMER_GAMES,SUMMER_GAMES_2016,False
+tracer-lion-dance,tracer-lion-dance,Lion Dance,epic,YEAR_OF_THE_ROOSTER_2017,,False
+tracer-heroic,tracer-heroic,Heroic,common,,,True
+tracer-over-the-shoulder,tracer-over-the-shoulder,Over the Shoulder,rare,,,False
+tracer-salute,tracer-salute,Salute,rare,,,False
+tracer-sitting,tracer-sitting,Sitting,rare,,,False
+tracer-rip,tracer-rip,R.I.P.,rare,HALLOWEEN,HALLOWEEN_2016,False
+tracer-medal,tracer-medal,Medal,rare,SUMMER_GAMES,,False
+tracer-pumpkin,tracer-pumpkin,Pumpkin,rare,HALLOWEEN,,False
