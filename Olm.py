@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np 
 
 def ImportCollectionJson(fileName):
-    with open(fileName) as data_file:
+    with open(fileName, encoding='utf8') as data_file:
         data = json.load(data_file)
     l = []
     for character in data:
@@ -13,7 +13,7 @@ def ImportCollectionJson(fileName):
     return pd.Series(l)
 
 def ImportDatabaseJson(fileName):
-    with open(fileName) as data_file:
+    with open(fileName, encoding='utf8') as data_file:
         data = json.load(data_file)
     l = []
     for character in data:
@@ -62,7 +62,11 @@ def StandardBoxSimulation():
                    count[3] += 1
     return 1.0 * boxes / np.array(count)
     
-    
+# 1. Import user's collection in simulation
+# 2. Filter out unused items (achievement sprays, drops from other box types)
+# 3. Pick a random item after rarity is determined; weighted based on user's collection
+# 4. Factor in gold drops when picking a random item (higher weight)
+# 5. When a duplicate is dropped, award gold
       
 # Returns a collection of structures that make up the model
 # Takes database of items, user's collection, loot table config file
