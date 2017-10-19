@@ -43,6 +43,7 @@ def StandardBoxSimulation():
     boxes = 100000
     count = [0,0,0,0]
     for _ in range(boxes):
+        hasRare = False
         for i in range(4):
             r = np.random.rand(1)
             if r < p_rob[0]:
@@ -55,7 +56,7 @@ def StandardBoxSimulation():
                count[2] += 1
                hasRare = True
             else:
-               if i == 4:
+               if i == 4 and not hasRare:
                    count[2] += 1
                else: 
                    count[3] += 1
