@@ -9,7 +9,8 @@ def ImportCollectionJson(fileName):
     for character in data:
         for item_type in data[character]:
             for item in data[character][item_type]:
-                l.append(item)
+                if data[character][item_type][item] == True:
+                    l.append(item)
     return pd.Series(l)
 
 def ImportDatabaseJson(fileName):
