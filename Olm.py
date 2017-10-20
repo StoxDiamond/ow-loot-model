@@ -11,7 +11,10 @@ def ImportCollectionJson(fileName):
             for item in data[character][item_type]:
                 if data[character][item_type][item] == True:
                     l.append(item)
-    return pd.Series(l)
+    coll = pd.Series(l)
+    coll_df = pd.DataFrame(coll)
+    coll_df['owned'] = True
+    return coll_df.set_index(0)
 
 def ImportDatabaseJson(fileName):
     with open(fileName, encoding='utf8') as data_file:
@@ -44,20 +47,16 @@ def StandardBoxSimulation():
     boxes = 100000
     count = [0,0,0,0]
     for _ in range(boxes):
-        hasRare = False
         for i in range(4):
             r = np.random.rand(1)
             if r < p_rob[0]:
                count[0] += 1
-               hasRare = True
             elif r < p_rob[1]:
                count[1] += 1
-               hasRare = True
             elif r < p_rob[2]:
                count[2] += 1
-               hasRare = True
             else:
-               if i == 4 and not hasRare:
+               if i == 4:
                    count[2] += 1
                else: 
                    count[3] += 1
@@ -71,7 +70,11 @@ def StandardBoxSimulation():
       
 # Returns a collection of structures that make up the model
 # Takes database of items, user's collection, loot table config file
-# def InitializeModel(databaseFile, collectionFile):
+def InitializeModel(databaseFile, collectionFile):
+    db = ImportDatabaseJson(databaseFile)
+    cl = ImportCollectionJson(collectionFile)
+    db = db.merge(cl, left_index=True, right_index=True, how='left').fillna(False)
+    return db
         
 
 
